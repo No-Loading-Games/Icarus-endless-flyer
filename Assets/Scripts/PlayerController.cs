@@ -154,7 +154,7 @@ public class PlayerController : MonoBehaviour
     public void UpdateCollider()
     {
         PolygonCollider2D col = _playerCollision.GetComponent<PolygonCollider2D>();
-        col.enabled = disableReasons.Count == 0;
+        col.enabled = disableReasons.Count == 0; //collider is enabled if there are no disableReasons
         Debug.Log("Collider Enabled? " + col.enabled + " | Reasons: " + string.Join(",", disableReasons));
     }
 
@@ -583,8 +583,11 @@ public class PlayerController : MonoBehaviour
     {
         //_playerCollision.GetComponent<PolygonCollider2D>().enabled = true;
         _sunColliderObject.GetComponent<BoxCollider2D>().enabled = true;
-        _gameManager.StartStaminaTick();
-        _gameManager.StartScoreTick();
+        if(disableReasons.Count == 0)
+        {
+            _gameManager.StartStaminaTick();
+            _gameManager.StartScoreTick();
+        }
     }
 
 }
