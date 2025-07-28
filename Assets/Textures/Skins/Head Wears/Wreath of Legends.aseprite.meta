@@ -1,0 +1,4150 @@
+fileFormatVersion: 2
+guid: bb4d8dd4bbf58e449b471418683b23c1
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  importerVersion: 2
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638633120244632806
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Wreath of Legends_Frame_0
+    originalName: 
+    pivot: {x: 0.099999905, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 106
+      y: 85
+      width: 10
+      height: 8
+    spriteID: c6e3a96c172ea06429322b42ec01179e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 106, y: 85}
+  - name: Wreath of Legends_Frame_1
+    originalName: 
+    pivot: {x: 0.099999905, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 85
+      width: 10
+      height: 8
+    spriteID: abb5ac90649de1b4a938c7575133f410
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 85}
+  - name: Wreath of Legends_Frame_2
+    originalName: 
+    pivot: {x: 0.099999905, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 142
+      y: 85
+      width: 10
+      height: 8
+    spriteID: c14f2dff5ba0bc04c9c8b3d68e34d6b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 142, y: 85}
+  - name: Wreath of Legends_Frame_3
+    originalName: 
+    pivot: {x: 0.099999905, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 85
+      width: 10
+      height: 8
+    spriteID: 7a173df835378514cbbb1a7790832392
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 160, y: 85}
+  - name: Wreath of Legends_Frame_4
+    originalName: 
+    pivot: {x: 0.099999905, y: -0.12499988}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 178
+      y: 85
+      width: 10
+      height: 8
+    spriteID: 3db81766bb3f22a4993fe8b4023c409a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 178, y: 85}
+  - name: Wreath of Legends_Frame_5
+    originalName: 
+    pivot: {x: 0.099999905, y: -0.12499988}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 196
+      y: 85
+      width: 10
+      height: 8
+    spriteID: e77d1d74321246a48b1aa8c43c398d17
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 196, y: 85}
+  - name: Wreath of Legends_Frame_6
+    originalName: 
+    pivot: {x: 0.099999905, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 214
+      y: 85
+      width: 10
+      height: 8
+    spriteID: e1c478213c484d64aa9d42441a12f0e4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 85}
+  - name: Wreath of Legends_Frame_7
+    originalName: 
+    pivot: {x: 0.099999905, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 232
+      y: 85
+      width: 10
+      height: 8
+    spriteID: 1e574a9e4ed410541b58911b2a810969
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 232, y: 85}
+  - name: Wreath of Legends_Frame_8
+    originalName: 
+    pivot: {x: 0.099999905, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 102
+      width: 10
+      height: 8
+    spriteID: eeec64071b0b1644287e7b36613cef7e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 102}
+  - name: Wreath of Legends_Frame_9
+    originalName: 
+    pivot: {x: 0.099999905, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 22
+      y: 102
+      width: 10
+      height: 8
+    spriteID: cf248c5cab0596a479f41d18e20bd427
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 22, y: 102}
+  - name: Wreath of Legends_Frame_10
+    originalName: 
+    pivot: {x: 0.099999905, y: -0.12499988}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 102
+      width: 10
+      height: 8
+    spriteID: 5eb79c31a0307e0409de4a494327144b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 40, y: 102}
+  - name: Wreath of Legends_Frame_11
+    originalName: 
+    pivot: {x: 0.099999905, y: -0.12499988}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 58
+      y: 102
+      width: 10
+      height: 8
+    spriteID: 948992719d3da524ab95febb51bc3d83
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 58, y: 102}
+  - name: Wreath of Legends_Frame_12
+    originalName: 
+    pivot: {x: 0.099999905, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 102
+      width: 10
+      height: 8
+    spriteID: 3491cd186ebb9ff4287954c31eea89b7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 102}
+  - name: Wreath of Legends_Frame_13
+    originalName: 
+    pivot: {x: 0.099999905, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 94
+      y: 102
+      width: 10
+      height: 8
+    spriteID: 88dbf49d5b4ee7c4fad3b8e755ba4867
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 94, y: 102}
+  - name: Wreath of Legends_Frame_14
+    originalName: 
+    pivot: {x: 0.099999905, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 102
+      width: 10
+      height: 8
+    spriteID: 193f3c2898c59264ca8c54795a0ce167
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 102}
+  - name: Wreath of Legends_Frame_15
+    originalName: 
+    pivot: {x: 0.099999905, y: -0.12499988}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 130
+      y: 102
+      width: 10
+      height: 8
+    spriteID: 74aa73112b674c4428c6cfc61b7dc9f9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 130, y: 102}
+  - name: Wreath of Legends_Frame_16
+    originalName: 
+    pivot: {x: 0.099999905, y: -0.12499988}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 102
+      width: 10
+      height: 8
+    spriteID: 07310b2c57390f94c82a5dfd290dc19f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 148, y: 102}
+  - name: Wreath of Legends_Frame_17
+    originalName: 
+    pivot: {x: 0.099999905, y: -0.12499988}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 102
+      width: 10
+      height: 8
+    spriteID: 60882e86c55aa874bb5387cf142855f4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 102}
+  - name: Wreath of Legends_Frame_18
+    originalName: 
+    pivot: {x: -0.99999976, y: 1.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 118
+      width: 7
+      height: 10
+    spriteID: b99e007f6a663704e82af556eb7825c0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 118}
+  - name: Wreath of Legends_Frame_19
+    originalName: 
+    pivot: {x: -0.99999976, y: 1.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 19
+      y: 118
+      width: 7
+      height: 10
+    spriteID: b09b419a14c09f94bb5d5cf2922327f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 19, y: 118}
+  - name: Wreath of Legends_Frame_20
+    originalName: 
+    pivot: {x: -0.99999976, y: 1.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 118
+      width: 7
+      height: 10
+    spriteID: b0241dea634c3144688922cc0badb979
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 118}
+  - name: Wreath of Legends_Frame_21
+    originalName: 
+    pivot: {x: -0.99999976, y: 1.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 49
+      y: 118
+      width: 7
+      height: 10
+    spriteID: ac01974edf58eb4479ae6176502daf3e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 118}
+  - name: Wreath of Legends_Frame_22
+    originalName: 
+    pivot: {x: -0.99999976, y: 1.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 118
+      width: 7
+      height: 10
+    spriteID: ce8dd86f0c49791489e18f2fddfab09c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 118}
+  - name: Wreath of Legends_Frame_23
+    originalName: 
+    pivot: {x: -0.99999976, y: 1.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 118
+      width: 7
+      height: 10
+    spriteID: 4217cff529cd92743a58b9a54ed33e42
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 118}
+  - name: Wreath of Legends_Frame_24
+    originalName: 
+    pivot: {x: -0.99999976, y: 1.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 94
+      y: 118
+      width: 7
+      height: 10
+    spriteID: a11c452b53d9c7b438035de4cb54eaf2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 94, y: 118}
+  - name: Wreath of Legends_Frame_25
+    originalName: 
+    pivot: {x: -0.99999976, y: 1.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 118
+      width: 7
+      height: 10
+    spriteID: 51b3225ccb86a3846b4d8d8dcac411bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 118}
+  - name: Wreath of Legends_Frame_26
+    originalName: 
+    pivot: {x: -0.99999976, y: 1.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 118
+      width: 7
+      height: 10
+    spriteID: bb2073d4a464ca24ab46f7637cfc10d8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 118}
+  - name: Wreath of Legends_Frame_27
+    originalName: 
+    pivot: {x: -0.99999976, y: 1.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 139
+      y: 118
+      width: 7
+      height: 10
+    spriteID: d89e8dd286f294f4793f1ba8705bea70
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 139, y: 118}
+  - name: Wreath of Legends_Frame_28
+    originalName: 
+    pivot: {x: -0.99999976, y: 1.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 154
+      y: 118
+      width: 7
+      height: 10
+    spriteID: 4ada3eedf27328d479dcf7720ccf346b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 154, y: 118}
+  - name: Wreath of Legends_Frame_29
+    originalName: 
+    pivot: {x: -0.99999976, y: 1.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 118
+      width: 7
+      height: 10
+    spriteID: 0640eb06cc23e2e45942ce0a6258e6d6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 169, y: 118}
+  - name: Wreath of Legends_Frame_30
+    originalName: 
+    pivot: {x: 1.5555557, y: 2.2857141}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 200
+      y: 118
+      width: 9
+      height: 7
+    spriteID: 8feec15b7c1a35241984f4b3af6cc738
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 118}
+  - name: Wreath of Legends_Frame_31
+    originalName: 
+    pivot: {x: 1.5555557, y: 2.2857141}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 217
+      y: 118
+      width: 9
+      height: 7
+    spriteID: 0ed0d07af594b0046b8839f73ac2bc35
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 217, y: 118}
+  - name: Wreath of Legends_Frame_32
+    originalName: 
+    pivot: {x: 1.5555557, y: 2.2857141}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 234
+      y: 118
+      width: 9
+      height: 7
+    spriteID: fcff245323dfc9c4ab43aa0a06ee9613
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 234, y: 118}
+  - name: Wreath of Legends_Frame_33
+    originalName: 
+    pivot: {x: 1.5555557, y: 2.2857141}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 70
+      width: 9
+      height: 7
+    spriteID: 1ed37e2d0c56eb845be205d0aab39b33
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 70}
+  - name: Wreath of Legends_Frame_34
+    originalName: 
+    pivot: {x: 1.5555557, y: 2.2857141}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 87
+      y: 70
+      width: 9
+      height: 7
+    spriteID: ad1c5abfa4bedda4b81b07cf2be97421
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 70}
+  - name: Wreath of Legends_Frame_35
+    originalName: 
+    pivot: {x: 1.5555557, y: 2.2857141}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 70
+      width: 9
+      height: 7
+    spriteID: 93179f394fbd31543bb9cfe950fa14b4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 104, y: 70}
+  - name: Wreath of Legends_Frame_36
+    originalName: 
+    pivot: {x: 1.5555557, y: 2.2857141}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 70
+      width: 9
+      height: 7
+    spriteID: 5508fbbd9ea4b684d94cbb05937d8b63
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 70}
+  - name: Wreath of Legends_Frame_37
+    originalName: 
+    pivot: {x: 1.5555557, y: 2.2857141}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 138
+      y: 70
+      width: 9
+      height: 7
+    spriteID: 86cd991482e02014b9322e32b332778a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 138, y: 70}
+  - name: Wreath of Legends_Frame_38
+    originalName: 
+    pivot: {x: 1.5555557, y: 2.2857141}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 155
+      y: 70
+      width: 9
+      height: 7
+    spriteID: ff636c6a2f0d3f24abd9d1ccee1a7b86
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 155, y: 70}
+  - name: Wreath of Legends_Frame_39
+    originalName: 
+    pivot: {x: 1.5555557, y: 2.2857141}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 172
+      y: 70
+      width: 9
+      height: 7
+    spriteID: 90dcda4ad3dfe754a956855e185f6339
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 70}
+  - name: Wreath of Legends_Frame_40
+    originalName: 
+    pivot: {x: 1.5555557, y: 2.2857141}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 189
+      y: 70
+      width: 9
+      height: 7
+    spriteID: d6eef7add959faf4a8e06c05ddd57ad0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 189, y: 70}
+  - name: Wreath of Legends_Frame_41
+    originalName: 
+    pivot: {x: 1.5555557, y: 2.2857141}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 206
+      y: 70
+      width: 9
+      height: 7
+    spriteID: 78a37c737a8ac0540b811ef3ccf17490
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 206, y: 70}
+  - name: Wreath of Legends_Frame_46
+    originalName: 
+    pivot: {x: 0.5833334, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 19
+      width: 12
+      height: 9
+    spriteID: 1a167e1807b4a0840a9ae997a2252842
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 19}
+  - name: Wreath of Legends_Frame_47
+    originalName: 
+    pivot: {x: 0.5833334, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 19
+      width: 12
+      height: 9
+    spriteID: cbbdfeb732af9af4fb7b31ce2787db9d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 24, y: 19}
+  - name: Wreath of Legends_Frame_48
+    originalName: 
+    pivot: {x: 0.5833334, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 19
+      width: 12
+      height: 9
+    spriteID: 510e532ee80461548834d11b79dbcdbb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 44, y: 19}
+  - name: Wreath of Legends_Frame_49
+    originalName: 
+    pivot: {x: 0.5833334, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 19
+      width: 12
+      height: 9
+    spriteID: 025b50608dda2384383d50b8d4ef96e4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 19}
+  - name: Wreath of Legends_Frame_50
+    originalName: 
+    pivot: {x: 0.5833334, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 19
+      width: 12
+      height: 9
+    spriteID: 5bd89c065d309a04289ddd00706d7d78
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 19}
+  - name: Wreath of Legends_Frame_51
+    originalName: 
+    pivot: {x: 0.5833334, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 19
+      width: 12
+      height: 9
+    spriteID: 8e7d3744035cf364e8fd66e549283e40
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 104, y: 19}
+  - name: Wreath of Legends_Frame_52
+    originalName: 
+    pivot: {x: 0.5833334, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 19
+      width: 12
+      height: 9
+    spriteID: c5131adb5f16b734590a71927692da48
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 19}
+  - name: Wreath of Legends_Frame_53
+    originalName: 
+    pivot: {x: 0.5833334, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 19
+      width: 12
+      height: 9
+    spriteID: 29edfba3412cc644fabe580b14c5b636
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 19}
+  - name: Wreath of Legends_Frame_54
+    originalName: 
+    pivot: {x: 0.5833334, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 164
+      y: 19
+      width: 12
+      height: 9
+    spriteID: 873f72d881187734299925526dcd2e47
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 164, y: 19}
+  - name: Wreath of Legends_Frame_55
+    originalName: 
+    pivot: {x: 0.5833334, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 184
+      y: 19
+      width: 12
+      height: 9
+    spriteID: 862b64a5e45f34d4d89caa19f3a34659
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 184, y: 19}
+  - name: Wreath of Legends_Frame_56
+    originalName: 
+    pivot: {x: 0.5833334, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 19
+      width: 12
+      height: 9
+    spriteID: 40a302bf3767bcb42b61fb1acc82d04b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 19}
+  - name: Wreath of Legends_Frame_57
+    originalName: 
+    pivot: {x: 0.5833334, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 19
+      width: 12
+      height: 9
+    spriteID: 520861fce9bd2cb45922b3cab212203d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 224, y: 19}
+  - name: Wreath of Legends_Frame_58
+    originalName: 
+    pivot: {x: 0.5833334, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 36
+      width: 12
+      height: 9
+    spriteID: cd15dbdd80ad70b4bbdb898094ce82ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 36}
+  - name: Wreath of Legends_Frame_59
+    originalName: 
+    pivot: {x: 0.5833334, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 36
+      width: 12
+      height: 9
+    spriteID: d11adeaabb1534d4b8fbb5457415e6cd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 24, y: 36}
+  - name: Wreath of Legends_Frame_60
+    originalName: 
+    pivot: {x: 0.5833334, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 36
+      width: 12
+      height: 9
+    spriteID: 73b88cccc97e333498c21cb1ef0e3e5f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 44, y: 36}
+  - name: Wreath of Legends_Frame_61
+    originalName: 
+    pivot: {x: 0.5833334, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 36
+      width: 12
+      height: 9
+    spriteID: 8ee2d494288ba3943b584778b51cd05e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 36}
+  - name: Wreath of Legends_Frame_62
+    originalName: 
+    pivot: {x: 0.5833334, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 36
+      width: 12
+      height: 9
+    spriteID: f4680d0d33a75004caeaa24aea5b1eeb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 36}
+  - name: Wreath of Legends_Frame_63
+    originalName: 
+    pivot: {x: 0.5833334, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 36
+      width: 12
+      height: 9
+    spriteID: 4d4e16e42f521fc49b501c860fc5ff55
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 104, y: 36}
+  - name: Wreath of Legends_Frame_64
+    originalName: 
+    pivot: {x: 0.6666666, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 36
+      width: 12
+      height: 9
+    spriteID: bfba3e2ebab34b3418561625e61d4eb0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 36}
+  - name: Wreath of Legends_Frame_65
+    originalName: 
+    pivot: {x: 0.6666666, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 36
+      width: 12
+      height: 9
+    spriteID: cdd134b719c61c144aeda0b933720687
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 36}
+  - name: Wreath of Legends_Frame_66
+    originalName: 
+    pivot: {x: -0.28571403, y: -1.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 136
+      width: 7
+      height: 8
+    spriteID: 1d944c5e2c9801249a55fcca1344de27
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 136}
+  - name: Wreath of Legends_Frame_67
+    originalName: 
+    pivot: {x: -0.28571403, y: -1.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 19
+      y: 136
+      width: 7
+      height: 8
+    spriteID: c46358342b4e5f745beee92299793ff1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 19, y: 136}
+  - name: Wreath of Legends_Frame_68
+    originalName: 
+    pivot: {x: -0.12499988, y: -1.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 244
+      y: 19
+      width: 8
+      height: 8
+    spriteID: 2f77eea835932ae40a0a5e39649264ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 244, y: 19}
+  - name: Wreath of Legends_Frame_69
+    originalName: 
+    pivot: {x: -0.28571403, y: -1.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 136
+      width: 7
+      height: 8
+    spriteID: 88b023cb3016fc44ea33ee37533dddf0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 136}
+  - name: Wreath of Legends_Frame_70
+    originalName: 
+    pivot: {x: -0.12499988, y: -1.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 244
+      y: 36
+      width: 8
+      height: 8
+    spriteID: 25711d64744b9244eab8fcec0f6034b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 244, y: 36}
+  - name: Wreath of Legends_Frame_71
+    originalName: 
+    pivot: {x: -0.28571403, y: -1.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 49
+      y: 136
+      width: 7
+      height: 8
+    spriteID: 9ab26be10a84f3a4eb2e84d23df27431
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 136}
+  - name: Wreath of Legends_Frame_72
+    originalName: 
+    pivot: {x: 0.71428573, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 53
+      width: 14
+      height: 7
+    spriteID: 280b2caf5a3150943b6726f5d4fd8d93
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 53}
+  - name: Wreath of Legends_Frame_73
+    originalName: 
+    pivot: {x: 0.71428573, y: 0.14285702}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 53
+      width: 14
+      height: 7
+    spriteID: b7403e97a7875b3488122d74259bcc7b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 192, y: 53}
+  - name: Wreath of Legends_Frame_74
+    originalName: 
+    pivot: {x: 0.71428573, y: 0.14285702}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 214
+      y: 53
+      width: 14
+      height: 7
+    spriteID: e5f77c14522bde741a6d6155027d0326
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 53}
+  - name: Wreath of Legends_Frame_75
+    originalName: 
+    pivot: {x: 0.71428573, y: 0.14285702}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 236
+      y: 53
+      width: 14
+      height: 7
+    spriteID: a7e4fc4bb1562ac4381039d595fa1b21
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 236, y: 53}
+  - name: Wreath of Legends_Frame_76
+    originalName: 
+    pivot: {x: 0.71428573, y: 0.14285702}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 70
+      width: 14
+      height: 7
+    spriteID: a71ac9b733b31e44392d0b1f7d7ecc65
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 70}
+  - name: Wreath of Legends_Frame_77
+    originalName: 
+    pivot: {x: 0.71428573, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 26
+      y: 70
+      width: 14
+      height: 7
+    spriteID: 2bb1bf033fed7af4ebe86605e0fd9ada
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 26, y: 70}
+  - name: Wreath of Legends_Frame_78
+    originalName: 
+    pivot: {x: 0.75, y: 0.14285702}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 16
+      height: 7
+    spriteID: c0a9de3e3965e9c46ad5baba58857ab0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Wreath of Legends_Frame_79
+    originalName: 
+    pivot: {x: 0.8000001, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 4
+      width: 15
+      height: 7
+    spriteID: 9922105873d098946a35d9d048e8d646
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 4}
+  - name: Wreath of Legends_Frame_80
+    originalName: 
+    pivot: {x: 0.8666667, y: 0.28571436}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 147
+      y: 4
+      width: 15
+      height: 7
+    spriteID: 2b266bde4ace34c48b46f523e6ed2237
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 147, y: 4}
+  - name: Wreath of Legends_Frame_81
+    originalName: 
+    pivot: {x: 0.8000001, y: 0.14285702}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 4
+      width: 15
+      height: 7
+    spriteID: 5f97a94cd76af6c468cc121a9a284e95
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 4}
+  - name: Wreath of Legends_Frame_82
+    originalName: 
+    pivot: {x: 0.7333333, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 193
+      y: 4
+      width: 15
+      height: 7
+    spriteID: 66b6785f4a6d18d48bc514772d6d37d7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 193, y: 4}
+  - name: Wreath of Legends_Frame_83
+    originalName: 
+    pivot: {x: 0.8000001, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 216
+      y: 4
+      width: 15
+      height: 7
+    spriteID: 824df86d505efa1438ba1cf0f5fc8206
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 216, y: 4}
+  - name: Wreath of Legends_Frame_84
+    originalName: 
+    pivot: {x: 0.8000001, y: 0.28571436}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 53
+      width: 15
+      height: 7
+    spriteID: d146110d6128eed4094c9e07952597b5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 53}
+  - name: Wreath of Legends_Frame_85
+    originalName: 
+    pivot: {x: 0.8000001, y: 0.14285702}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 147
+      y: 53
+      width: 15
+      height: 7
+    spriteID: 3614b7f889e2a1541bcfd9ab396bf639
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 147, y: 53}
+  - name: Wreath of Legends_Frame_86
+    originalName: 
+    pivot: {x: 0.8125, y: 0.14285702}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 4
+      width: 16
+      height: 7
+    spriteID: b1333691bf89ba34f8866d79ec63185b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 4}
+  - name: Wreath of Legends_Frame_87
+    originalName: 
+    pivot: {x: 0.75, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 4
+      width: 16
+      height: 7
+    spriteID: ae64a55b1e32d014f9041da348a3a18e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 4}
+  - name: Wreath of Legends_Frame_88
+    originalName: 
+    pivot: {x: 0.75, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 4
+      width: 16
+      height: 7
+    spriteID: 7a0519000bf1d4543a77eca385832454
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 4}
+  - name: Wreath of Legends_Frame_89
+    originalName: 
+    pivot: {x: 0.75, y: 0.42857137}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 100
+      y: 4
+      width: 16
+      height: 7
+    spriteID: b072ec1f19d20ce43ba29126ce6fe1c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 100, y: 4}
+  - name: Wreath of Legends_Frame_90
+    originalName: 
+    pivot: {x: 0.8571429, y: 0.71428573}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 70
+      width: 14
+      height: 7
+    spriteID: 2bd59e42e1d8b3f4e8ce786772fd9278
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 48, y: 70}
+  - name: Wreath of Legends_Frame_91
+    originalName: 
+    pivot: {x: 0.4999999, y: 0.14285702}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 239
+      y: 4
+      width: 12
+      height: 7
+    spriteID: 63d6fa5c045e33c4a9d3f61d5a1e2c2d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 239, y: 4}
+  - name: Wreath of Legends_Frame_92
+    originalName: 
+    pivot: {x: 0.4999999, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 164
+      y: 36
+      width: 12
+      height: 9
+    spriteID: dca932d1a5e086e41adf345f81eda3cf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 164, y: 36}
+  - name: Wreath of Legends_Frame_93
+    originalName: 
+    pivot: {x: -0.625, y: -1.1250001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 238
+      y: 102
+      width: 8
+      height: 8
+    spriteID: ed0b0bdfd134ee94db0cfcd9f016138d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 238, y: 102}
+  - name: Wreath of Legends_Frame_94
+    originalName: 
+    pivot: {x: -0.85714275, y: -1.1250001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 136
+      width: 7
+      height: 8
+    spriteID: e96f1fb7129bad84ea0db5a3af12f96e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 136}
+  - name: Wreath of Legends_Frame_95
+    originalName: 
+    pivot: {x: -0.625, y: -1.1250001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 184
+      y: 118
+      width: 8
+      height: 8
+    spriteID: 5bd79fa59ca81d74a8297ae348123d36
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 184, y: 118}
+  - name: Wreath of Legends_Frame_96
+    originalName: 
+    pivot: {x: -0.85714275, y: -1.1250001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 136
+      width: 7
+      height: 8
+    spriteID: e956c8fdde8643544a3359e210f71635
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 136}
+  - name: Wreath of Legends_Frame_97
+    originalName: 
+    pivot: {x: 0.6666668, y: -0.8333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 70
+      width: 6
+      height: 6
+    spriteID: a8a507ec3b533154cb8c03cc3516a5ac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 223, y: 70}
+  - name: Wreath of Legends_Frame_98
+    originalName: 
+    pivot: {x: 0.6666668, y: -0.8333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 237
+      y: 70
+      width: 6
+      height: 6
+    spriteID: 1289f3e2fff2c784292d3a5bb0d11d88
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 237, y: 70}
+  - name: Wreath of Legends_Frame_99
+    originalName: 
+    pivot: {x: 0.6666668, y: -0.8333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 214
+      y: 136
+      width: 6
+      height: 6
+    spriteID: e193138105e7a78429dee8381d2bdc25
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 136}
+  - name: Wreath of Legends_Frame_100
+    originalName: 
+    pivot: {x: 0.6666668, y: -0.8333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 228
+      y: 136
+      width: 6
+      height: 6
+    spriteID: 3c53f09346549e2488064e5b11ff3df7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 228, y: 136}
+  - name: Wreath of Legends_Frame_101
+    originalName: 
+    pivot: {x: 0.6666668, y: -0.8333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 242
+      y: 136
+      width: 6
+      height: 6
+    spriteID: 58e568faf1d64d94cb3de3a38731adc4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 242, y: 136}
+  - name: Wreath of Legends_Frame_102
+    originalName: 
+    pivot: {x: 0.6666668, y: -0.8333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 152
+      width: 6
+      height: 6
+    spriteID: 63827beb988a7bf4b8f7e2d62e3bbc7a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 152}
+  - name: Wreath of Legends_Frame_103
+    originalName: 
+    pivot: {x: 0.6666668, y: -0.8333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 152
+      width: 6
+      height: 6
+    spriteID: 8d05ca476b876a646994030e9b504164
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 152}
+  - name: Wreath of Legends_Frame_104
+    originalName: 
+    pivot: {x: 0.6666668, y: -0.8333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 152
+      width: 6
+      height: 6
+    spriteID: 99b2f02341eb6c04dad46d170aa0f3a8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 152}
+  - name: Wreath of Legends_Frame_105
+    originalName: 
+    pivot: {x: 0.6666668, y: -0.8333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 116
+      y: 152
+      width: 6
+      height: 6
+    spriteID: 938329cd3992c224493ffa7c5eac1e03
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 152}
+  - name: Wreath of Legends_Frame_106
+    originalName: 
+    pivot: {x: 0.6666668, y: -0.8333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 130
+      y: 152
+      width: 6
+      height: 6
+    spriteID: 1413c722e6c9ef4448ed3994759da4de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 130, y: 152}
+  - name: Wreath of Legends_Frame_107
+    originalName: 
+    pivot: {x: 0.6666668, y: -0.8333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 152
+      width: 6
+      height: 6
+    spriteID: 5694621c9a38d17429c3901280854c0e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 152}
+  - name: Wreath of Legends_Frame_108
+    originalName: 
+    pivot: {x: 0.6666668, y: -0.8333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 158
+      y: 152
+      width: 6
+      height: 6
+    spriteID: 17d74ee8528f4c94f9ba7a79c4aefe81
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 158, y: 152}
+  - name: Wreath of Legends_Frame_109
+    originalName: 
+    pivot: {x: 0.3333334, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 184
+      y: 36
+      width: 12
+      height: 9
+    spriteID: c940e80645ddc144381efeff98d48c4b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 184, y: 36}
+  - name: Wreath of Legends_Frame_110
+    originalName: 
+    pivot: {x: 0.24999996, y: 0.33333328}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 36
+      width: 12
+      height: 9
+    spriteID: ba5943da16847274e82c94616ce6a932
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 36}
+  - name: Wreath of Legends_Frame_111
+    originalName: 
+    pivot: {x: 0.3333334, y: 0.33333328}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 36
+      width: 12
+      height: 9
+    spriteID: 23e6ecacf3789ac47b07b6f66adebfac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 224, y: 36}
+  - name: Wreath of Legends_Frame_112
+    originalName: 
+    pivot: {x: 0.11111101, y: 0.44444457}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 85
+      width: 9
+      height: 9
+    spriteID: b998180be52b6c54b9353054fb629534
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 85}
+  - name: Wreath of Legends_Frame_113
+    originalName: 
+    pivot: {x: 0.11111101, y: 0.44444457}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 21
+      y: 85
+      width: 9
+      height: 9
+    spriteID: b685c5490892e524e9deaabe19cc0174
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 21, y: 85}
+  - name: Wreath of Legends_Frame_114
+    originalName: 
+    pivot: {x: 0.3333334, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 53
+      width: 12
+      height: 9
+    spriteID: 3db9667f79edf2742ad327beb43de406
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 53}
+  - name: Wreath of Legends_Frame_115
+    originalName: 
+    pivot: {x: 0.24999996, y: 0.33333328}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 53
+      width: 12
+      height: 9
+    spriteID: 687c97085a1735d4eadec46f6c600da8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 24, y: 53}
+  - name: Wreath of Legends_Frame_116
+    originalName: 
+    pivot: {x: 0.3333334, y: 0.33333328}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 53
+      width: 12
+      height: 9
+    spriteID: 66ed8f286337f794bbc2e53f5dce8f4e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 44, y: 53}
+  - name: Wreath of Legends_Frame_117
+    originalName: 
+    pivot: {x: 0.11111101, y: 0.44444457}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 38
+      y: 85
+      width: 9
+      height: 9
+    spriteID: 1e3f950751eb29643af9d9f4f0716ffe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 38, y: 85}
+  - name: Wreath of Legends_Frame_118
+    originalName: 
+    pivot: {x: 0.11111101, y: 0.44444457}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 55
+      y: 85
+      width: 9
+      height: 9
+    spriteID: 44847cc9a7ce0a54a9318347edc21f37
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 85}
+  - name: Wreath of Legends_Frame_119
+    originalName: 
+    pivot: {x: 0.3333334, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 53
+      width: 12
+      height: 9
+    spriteID: c42742ba789dcc44baf12adb7de48e1d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 53}
+  - name: Wreath of Legends_Frame_120
+    originalName: 
+    pivot: {x: 0.24999996, y: 0.33333328}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 53
+      width: 12
+      height: 9
+    spriteID: fbd744364c9d5644fa002f1df922fbcf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 53}
+  - name: Wreath of Legends_Frame_121
+    originalName: 
+    pivot: {x: 0.3333334, y: 0.33333328}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 53
+      width: 12
+      height: 9
+    spriteID: dc48cc82920a8d6498494b673e6b07d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 104, y: 53}
+  - name: Wreath of Legends_Frame_122
+    originalName: 
+    pivot: {x: 0.11111101, y: 0.44444457}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 85
+      width: 9
+      height: 9
+    spriteID: 6e8730f2969b00d43b203cb854b20223
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 72, y: 85}
+  - name: Wreath of Legends_Frame_123
+    originalName: 
+    pivot: {x: 0.11111101, y: 0.44444457}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 89
+      y: 85
+      width: 9
+      height: 9
+    spriteID: 67a5e1bdd2059a944b2da73d7681a0b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 89, y: 85}
+  - name: Wreath of Legends_Frame_124
+    originalName: 
+    pivot: {x: 0.099999905, y: -0.12499988}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 184
+      y: 102
+      width: 10
+      height: 8
+    spriteID: 6066a119561e4a144a141f1614248971
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 184, y: 102}
+  - name: Wreath of Legends_Frame_125
+    originalName: 
+    pivot: {x: 0.099999905, y: -0.12499988}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 202
+      y: 102
+      width: 10
+      height: 8
+    spriteID: 50256fa9bdbd8f648849d15ea7bf9245
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 202, y: 102}
+  - name: Wreath of Legends_Frame_126
+    originalName: 
+    pivot: {x: 0.099999905, y: -0.12499988}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 102
+      width: 10
+      height: 8
+    spriteID: c42d051a121d0ae47a14d5b01fe245dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 220, y: 102}
+  - name: Wreath of Legends_Frame_127
+    originalName: 
+    pivot: {x: 1.5714284, y: -1.0000002}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 94
+      y: 136
+      width: 7
+      height: 8
+    spriteID: 6988227f96b212040a6370b230521447
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 94, y: 136}
+  - name: Wreath of Legends_Frame_128
+    originalName: 
+    pivot: {x: 2.5, y: -0.5555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 152
+      width: 6
+      height: 9
+    spriteID: f7f16777fc9491b4bb59feeec82c58b1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 152}
+  - name: Wreath of Legends_Frame_129
+    originalName: 
+    pivot: {x: 2.9999998, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 18
+      y: 152
+      width: 6
+      height: 9
+    spriteID: 536924b2c3192fa41b051818e525477c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 18, y: 152}
+  - name: Wreath of Legends_Frame_130
+    originalName: 
+    pivot: {x: 2.7142859, y: 1.3749999}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 136
+      width: 7
+      height: 8
+    spriteID: 4bf0b07b8096d184e89fb8911a36a06a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 136}
+  - name: Wreath of Legends_Frame_131
+    originalName: 
+    pivot: {x: 1.5714284, y: -1.0000002}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 136
+      width: 7
+      height: 8
+    spriteID: 2740a8c652616694db2894a747a6bd52
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 136}
+  - name: Wreath of Legends_Frame_132
+    originalName: 
+    pivot: {x: 2.9999998, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 152
+      width: 6
+      height: 9
+    spriteID: 64093a6686bbf114eb929fe9fc90ebd3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 32, y: 152}
+  - name: Wreath of Legends_Frame_133
+    originalName: 
+    pivot: {x: 2.7142859, y: 1.3749999}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 139
+      y: 136
+      width: 7
+      height: 8
+    spriteID: 780fa9c0356782f49baa9ecce78b327e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 139, y: 136}
+  - name: Wreath of Legends_Frame_134
+    originalName: 
+    pivot: {x: 1.5714284, y: -1.0000002}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 154
+      y: 136
+      width: 7
+      height: 8
+    spriteID: 68c330db2b8305a4983adf9c5996e415
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 154, y: 136}
+  - name: Wreath of Legends_Frame_135
+    originalName: 
+    pivot: {x: 2.9999998, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 152
+      width: 6
+      height: 9
+    spriteID: 99610cd001da776479a4aaf449dde2e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 152}
+  - name: Wreath of Legends_Frame_136
+    originalName: 
+    pivot: {x: 2.7142859, y: 1.3749999}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 136
+      width: 7
+      height: 8
+    spriteID: 50e45ceaf8144a2438634c5697c0c8ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 169, y: 136}
+  - name: Wreath of Legends_Frame_137
+    originalName: 
+    pivot: {x: 1.5714284, y: -1.0000002}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 184
+      y: 136
+      width: 7
+      height: 8
+    spriteID: 83cf4510e1f1d5a489c7e2d34917fbbb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 184, y: 136}
+  - name: Wreath of Legends_Frame_138
+    originalName: 
+    pivot: {x: 2.9999998, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 152
+      width: 6
+      height: 9
+    spriteID: 878c9cf3edf82cd49852f2da7d8c930d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 152}
+  - name: Wreath of Legends_Frame_139
+    originalName: 
+    pivot: {x: 2.7142859, y: 1.3749999}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 199
+      y: 136
+      width: 7
+      height: 8
+    spriteID: 6b8947668db1c114791bcf611241ecce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 199, y: 136}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    uuid:
+      value0: 2165502812
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: -2129464484
+    name: Wreath of Legends
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 40
+        width: 10
+        height: 8
+      spriteId: c6e3a96c172ea06429322b42ec01179e
+    - name: Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 40
+        width: 10
+        height: 8
+      spriteId: abb5ac90649de1b4a938c7575133f410
+    - name: Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 40
+        width: 10
+        height: 8
+      spriteId: c14f2dff5ba0bc04c9c8b3d68e34d6b9
+    - name: Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 40
+        width: 10
+        height: 8
+      spriteId: 7a173df835378514cbbb1a7790832392
+    - name: Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 41
+        width: 10
+        height: 8
+      spriteId: 3db81766bb3f22a4993fe8b4023c409a
+    - name: Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 41
+        width: 10
+        height: 8
+      spriteId: e77d1d74321246a48b1aa8c43c398d17
+    - name: Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 40
+        width: 10
+        height: 8
+      spriteId: e1c478213c484d64aa9d42441a12f0e4
+    - name: Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 40
+        width: 10
+        height: 8
+      spriteId: 1e574a9e4ed410541b58911b2a810969
+    - name: Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 40
+        width: 10
+        height: 8
+      spriteId: eeec64071b0b1644287e7b36613cef7e
+    - name: Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 40
+        width: 10
+        height: 8
+      spriteId: cf248c5cab0596a479f41d18e20bd427
+    - name: Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 41
+        width: 10
+        height: 8
+      spriteId: 5eb79c31a0307e0409de4a494327144b
+    - name: Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 41
+        width: 10
+        height: 8
+      spriteId: 948992719d3da524ab95febb51bc3d83
+    - name: Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 40
+        width: 10
+        height: 8
+      spriteId: 3491cd186ebb9ff4287954c31eea89b7
+    - name: Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 40
+        width: 10
+        height: 8
+      spriteId: 88dbf49d5b4ee7c4fad3b8e755ba4867
+    - name: Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 40
+        width: 10
+        height: 8
+      spriteId: 193f3c2898c59264ca8c54795a0ce167
+    - name: Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 41
+        width: 10
+        height: 8
+      spriteId: 74aa73112b674c4428c6cfc61b7dc9f9
+    - name: Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 41
+        width: 10
+        height: 8
+      spriteId: 07310b2c57390f94c82a5dfd290dc19f
+    - name: Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 41
+        width: 10
+        height: 8
+      spriteId: 60882e86c55aa874bb5387cf142855f4
+    - name: Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 28
+        width: 7
+        height: 10
+      spriteId: b99e007f6a663704e82af556eb7825c0
+    - name: Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 28
+        width: 7
+        height: 10
+      spriteId: b09b419a14c09f94bb5d5cf2922327f0
+    - name: Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 28
+        width: 7
+        height: 10
+      spriteId: b0241dea634c3144688922cc0badb979
+    - name: Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 28
+        width: 7
+        height: 10
+      spriteId: ac01974edf58eb4479ae6176502daf3e
+    - name: Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 28
+        width: 7
+        height: 10
+      spriteId: ce8dd86f0c49791489e18f2fddfab09c
+    - name: Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 28
+        width: 7
+        height: 10
+      spriteId: 4217cff529cd92743a58b9a54ed33e42
+    - name: Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 28
+        width: 7
+        height: 10
+      spriteId: a11c452b53d9c7b438035de4cb54eaf2
+    - name: Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 28
+        width: 7
+        height: 10
+      spriteId: 51b3225ccb86a3846b4d8d8dcac411bc
+    - name: Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 28
+        width: 7
+        height: 10
+      spriteId: bb2073d4a464ca24ab46f7637cfc10d8
+    - name: Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 28
+        width: 7
+        height: 10
+      spriteId: d89e8dd286f294f4793f1ba8705bea70
+    - name: Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 28
+        width: 7
+        height: 10
+      spriteId: 4ada3eedf27328d479dcf7720ccf346b
+    - name: Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 28
+        width: 7
+        height: 10
+      spriteId: 0640eb06cc23e2e45942ce0a6258e6d6
+    - name: Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 24
+        width: 9
+        height: 7
+      spriteId: 8feec15b7c1a35241984f4b3af6cc738
+    - name: Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 24
+        width: 9
+        height: 7
+      spriteId: 0ed0d07af594b0046b8839f73ac2bc35
+    - name: Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 24
+        width: 9
+        height: 7
+      spriteId: fcff245323dfc9c4ab43aa0a06ee9613
+    - name: Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 24
+        width: 9
+        height: 7
+      spriteId: 1ed37e2d0c56eb845be205d0aab39b33
+    - name: Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 24
+        width: 9
+        height: 7
+      spriteId: ad1c5abfa4bedda4b81b07cf2be97421
+    - name: Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 24
+        width: 9
+        height: 7
+      spriteId: 93179f394fbd31543bb9cfe950fa14b4
+    - name: Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 24
+        width: 9
+        height: 7
+      spriteId: 5508fbbd9ea4b684d94cbb05937d8b63
+    - name: Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 24
+        width: 9
+        height: 7
+      spriteId: 86cd991482e02014b9322e32b332778a
+    - name: Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 24
+        width: 9
+        height: 7
+      spriteId: ff636c6a2f0d3f24abd9d1ccee1a7b86
+    - name: Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 24
+        width: 9
+        height: 7
+      spriteId: 90dcda4ad3dfe754a956855e185f6339
+    - name: Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 24
+        width: 9
+        height: 7
+      spriteId: d6eef7add959faf4a8e06c05ddd57ad0
+    - name: Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 24
+        width: 9
+        height: 7
+      spriteId: 78a37c737a8ac0540b811ef3ccf17490
+    - name: Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 39
+        width: 12
+        height: 9
+      spriteId: 1a167e1807b4a0840a9ae997a2252842
+    - name: Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 39
+        width: 12
+        height: 9
+      spriteId: cbbdfeb732af9af4fb7b31ce2787db9d
+    - name: Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 39
+        width: 12
+        height: 9
+      spriteId: 510e532ee80461548834d11b79dbcdbb
+    - name: Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 39
+        width: 12
+        height: 9
+      spriteId: 025b50608dda2384383d50b8d4ef96e4
+    - name: Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 39
+        width: 12
+        height: 9
+      spriteId: 5bd89c065d309a04289ddd00706d7d78
+    - name: Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 39
+        width: 12
+        height: 9
+      spriteId: 8e7d3744035cf364e8fd66e549283e40
+    - name: Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 39
+        width: 12
+        height: 9
+      spriteId: c5131adb5f16b734590a71927692da48
+    - name: Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 39
+        width: 12
+        height: 9
+      spriteId: 29edfba3412cc644fabe580b14c5b636
+    - name: Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 39
+        width: 12
+        height: 9
+      spriteId: 873f72d881187734299925526dcd2e47
+    - name: Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 39
+        width: 12
+        height: 9
+      spriteId: 862b64a5e45f34d4d89caa19f3a34659
+    - name: Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 39
+        width: 12
+        height: 9
+      spriteId: 40a302bf3767bcb42b61fb1acc82d04b
+    - name: Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 39
+        width: 12
+        height: 9
+      spriteId: 520861fce9bd2cb45922b3cab212203d
+    - name: Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 39
+        width: 12
+        height: 9
+      spriteId: cd15dbdd80ad70b4bbdb898094ce82ca
+    - name: Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 39
+        width: 12
+        height: 9
+      spriteId: d11adeaabb1534d4b8fbb5457415e6cd
+    - name: Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 39
+        width: 12
+        height: 9
+      spriteId: 73b88cccc97e333498c21cb1ef0e3e5f
+    - name: Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 39
+        width: 12
+        height: 9
+      spriteId: 8ee2d494288ba3943b584778b51cd05e
+    - name: Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 39
+        width: 12
+        height: 9
+      spriteId: f4680d0d33a75004caeaa24aea5b1eeb
+    - name: Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 39
+        width: 12
+        height: 9
+      spriteId: 4d4e16e42f521fc49b501c860fc5ff55
+    - name: Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 32
+        y: 39
+        width: 12
+        height: 9
+      spriteId: bfba3e2ebab34b3418561625e61d4eb0
+    - name: Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 32
+        y: 39
+        width: 12
+        height: 9
+      spriteId: cdd134b719c61c144aeda0b933720687
+    - name: Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 50
+        width: 7
+        height: 8
+      spriteId: 1d944c5e2c9801249a55fcca1344de27
+    - name: Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 50
+        width: 7
+        height: 8
+      spriteId: c46358342b4e5f745beee92299793ff1
+    - name: Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 41
+        y: 50
+        width: 8
+        height: 8
+      spriteId: 2f77eea835932ae40a0a5e39649264ec
+    - name: Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 50
+        width: 7
+        height: 8
+      spriteId: 88b023cb3016fc44ea33ee37533dddf0
+    - name: Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 41
+        y: 50
+        width: 8
+        height: 8
+      spriteId: 25711d64744b9244eab8fcec0f6034b9
+    - name: Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 50
+        width: 7
+        height: 8
+      spriteId: 9ab26be10a84f3a4eb2e84d23df27431
+    - name: Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: 30
+        y: 40
+        width: 14
+        height: 7
+      spriteId: 280b2caf5a3150943b6726f5d4fd8d93
+    - name: Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: 30
+        y: 39
+        width: 14
+        height: 7
+      spriteId: b7403e97a7875b3488122d74259bcc7b
+    - name: Frame_74
+      frameIndex: 74
+      additiveSortOrder: 0
+      cellRect:
+        x: 30
+        y: 39
+        width: 14
+        height: 7
+      spriteId: e5f77c14522bde741a6d6155027d0326
+    - name: Frame_75
+      frameIndex: 75
+      additiveSortOrder: 0
+      cellRect:
+        x: 30
+        y: 39
+        width: 14
+        height: 7
+      spriteId: a7e4fc4bb1562ac4381039d595fa1b21
+    - name: Frame_76
+      frameIndex: 76
+      additiveSortOrder: 0
+      cellRect:
+        x: 30
+        y: 39
+        width: 14
+        height: 7
+      spriteId: a71ac9b733b31e44392d0b1f7d7ecc65
+    - name: Frame_77
+      frameIndex: 77
+      additiveSortOrder: 0
+      cellRect:
+        x: 30
+        y: 40
+        width: 14
+        height: 7
+      spriteId: 2bb1bf033fed7af4ebe86605e0fd9ada
+    - name: Frame_78
+      frameIndex: 78
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 39
+        width: 16
+        height: 7
+      spriteId: c0a9de3e3965e9c46ad5baba58857ab0
+    - name: Frame_79
+      frameIndex: 79
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 40
+        width: 15
+        height: 7
+      spriteId: 9922105873d098946a35d9d048e8d646
+    - name: Frame_80
+      frameIndex: 80
+      additiveSortOrder: 0
+      cellRect:
+        x: 27
+        y: 38
+        width: 15
+        height: 7
+      spriteId: 2b266bde4ace34c48b46f523e6ed2237
+    - name: Frame_81
+      frameIndex: 81
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 39
+        width: 15
+        height: 7
+      spriteId: 5f97a94cd76af6c468cc121a9a284e95
+    - name: Frame_82
+      frameIndex: 82
+      additiveSortOrder: 0
+      cellRect:
+        x: 29
+        y: 40
+        width: 15
+        height: 7
+      spriteId: 66b6785f4a6d18d48bc514772d6d37d7
+    - name: Frame_83
+      frameIndex: 83
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 40
+        width: 15
+        height: 7
+      spriteId: 824df86d505efa1438ba1cf0f5fc8206
+    - name: Frame_84
+      frameIndex: 84
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 38
+        width: 15
+        height: 7
+      spriteId: d146110d6128eed4094c9e07952597b5
+    - name: Frame_85
+      frameIndex: 85
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 39
+        width: 15
+        height: 7
+      spriteId: 3614b7f889e2a1541bcfd9ab396bf639
+    - name: Frame_86
+      frameIndex: 86
+      additiveSortOrder: 0
+      cellRect:
+        x: 27
+        y: 39
+        width: 16
+        height: 7
+      spriteId: b1333691bf89ba34f8866d79ec63185b
+    - name: Frame_87
+      frameIndex: 87
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 40
+        width: 16
+        height: 7
+      spriteId: ae64a55b1e32d014f9041da348a3a18e
+    - name: Frame_88
+      frameIndex: 88
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 40
+        width: 16
+        height: 7
+      spriteId: 7a0519000bf1d4543a77eca385832454
+    - name: Frame_89
+      frameIndex: 89
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 37
+        width: 16
+        height: 7
+      spriteId: b072ec1f19d20ce43ba29126ce6fe1c3
+    - name: Frame_90
+      frameIndex: 90
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 35
+        width: 14
+        height: 7
+      spriteId: 2bd59e42e1d8b3f4e8ce786772fd9278
+    - name: Frame_91
+      frameIndex: 91
+      additiveSortOrder: 0
+      cellRect:
+        x: 34
+        y: 39
+        width: 12
+        height: 7
+      spriteId: 63d6fa5c045e33c4a9d3f61d5a1e2c2d
+    - name: Frame_92
+      frameIndex: 92
+      additiveSortOrder: 0
+      cellRect:
+        x: 34
+        y: 39
+        width: 12
+        height: 9
+      spriteId: dca932d1a5e086e41adf345f81eda3cf
+    - name: Frame_93
+      frameIndex: 93
+      additiveSortOrder: 0
+      cellRect:
+        x: 45
+        y: 49
+        width: 8
+        height: 8
+      spriteId: ed0b0bdfd134ee94db0cfcd9f016138d
+    - name: Frame_94
+      frameIndex: 94
+      additiveSortOrder: 0
+      cellRect:
+        x: 46
+        y: 49
+        width: 7
+        height: 8
+      spriteId: e96f1fb7129bad84ea0db5a3af12f96e
+    - name: Frame_95
+      frameIndex: 95
+      additiveSortOrder: 0
+      cellRect:
+        x: 45
+        y: 49
+        width: 8
+        height: 8
+      spriteId: 5bd79fa59ca81d74a8297ae348123d36
+    - name: Frame_96
+      frameIndex: 96
+      additiveSortOrder: 0
+      cellRect:
+        x: 46
+        y: 49
+        width: 7
+        height: 8
+      spriteId: e956c8fdde8643544a3359e210f71635
+    - name: Frame_97
+      frameIndex: 97
+      additiveSortOrder: 0
+      cellRect:
+        x: 36
+        y: 45
+        width: 6
+        height: 6
+      spriteId: a8a507ec3b533154cb8c03cc3516a5ac
+    - name: Frame_98
+      frameIndex: 98
+      additiveSortOrder: 0
+      cellRect:
+        x: 36
+        y: 45
+        width: 6
+        height: 6
+      spriteId: 1289f3e2fff2c784292d3a5bb0d11d88
+    - name: Frame_99
+      frameIndex: 99
+      additiveSortOrder: 0
+      cellRect:
+        x: 36
+        y: 45
+        width: 6
+        height: 6
+      spriteId: e193138105e7a78429dee8381d2bdc25
+    - name: Frame_100
+      frameIndex: 100
+      additiveSortOrder: 0
+      cellRect:
+        x: 36
+        y: 45
+        width: 6
+        height: 6
+      spriteId: 3c53f09346549e2488064e5b11ff3df7
+    - name: Frame_101
+      frameIndex: 101
+      additiveSortOrder: 0
+      cellRect:
+        x: 36
+        y: 45
+        width: 6
+        height: 6
+      spriteId: 58e568faf1d64d94cb3de3a38731adc4
+    - name: Frame_102
+      frameIndex: 102
+      additiveSortOrder: 0
+      cellRect:
+        x: 36
+        y: 45
+        width: 6
+        height: 6
+      spriteId: 63827beb988a7bf4b8f7e2d62e3bbc7a
+    - name: Frame_103
+      frameIndex: 103
+      additiveSortOrder: 0
+      cellRect:
+        x: 36
+        y: 45
+        width: 6
+        height: 6
+      spriteId: 8d05ca476b876a646994030e9b504164
+    - name: Frame_104
+      frameIndex: 104
+      additiveSortOrder: 0
+      cellRect:
+        x: 36
+        y: 45
+        width: 6
+        height: 6
+      spriteId: 99b2f02341eb6c04dad46d170aa0f3a8
+    - name: Frame_105
+      frameIndex: 105
+      additiveSortOrder: 0
+      cellRect:
+        x: 36
+        y: 45
+        width: 6
+        height: 6
+      spriteId: 938329cd3992c224493ffa7c5eac1e03
+    - name: Frame_106
+      frameIndex: 106
+      additiveSortOrder: 0
+      cellRect:
+        x: 36
+        y: 45
+        width: 6
+        height: 6
+      spriteId: 1413c722e6c9ef4448ed3994759da4de
+    - name: Frame_107
+      frameIndex: 107
+      additiveSortOrder: 0
+      cellRect:
+        x: 36
+        y: 45
+        width: 6
+        height: 6
+      spriteId: 5694621c9a38d17429c3901280854c0e
+    - name: Frame_108
+      frameIndex: 108
+      additiveSortOrder: 0
+      cellRect:
+        x: 36
+        y: 45
+        width: 6
+        height: 6
+      spriteId: 17d74ee8528f4c94f9ba7a79c4aefe81
+    - name: Frame_109
+      frameIndex: 109
+      additiveSortOrder: 0
+      cellRect:
+        x: 36
+        y: 39
+        width: 12
+        height: 9
+      spriteId: c940e80645ddc144381efeff98d48c4b
+    - name: Frame_110
+      frameIndex: 110
+      additiveSortOrder: 0
+      cellRect:
+        x: 37
+        y: 37
+        width: 12
+        height: 9
+      spriteId: ba5943da16847274e82c94616ce6a932
+    - name: Frame_111
+      frameIndex: 111
+      additiveSortOrder: 0
+      cellRect:
+        x: 36
+        y: 37
+        width: 12
+        height: 9
+      spriteId: 23e6ecacf3789ac47b07b6f66adebfac
+    - name: Frame_112
+      frameIndex: 112
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 36
+        width: 9
+        height: 9
+      spriteId: b998180be52b6c54b9353054fb629534
+    - name: Frame_113
+      frameIndex: 113
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 36
+        width: 9
+        height: 9
+      spriteId: b685c5490892e524e9deaabe19cc0174
+    - name: Frame_114
+      frameIndex: 114
+      additiveSortOrder: 0
+      cellRect:
+        x: 36
+        y: 39
+        width: 12
+        height: 9
+      spriteId: 3db9667f79edf2742ad327beb43de406
+    - name: Frame_115
+      frameIndex: 115
+      additiveSortOrder: 0
+      cellRect:
+        x: 37
+        y: 37
+        width: 12
+        height: 9
+      spriteId: 687c97085a1735d4eadec46f6c600da8
+    - name: Frame_116
+      frameIndex: 116
+      additiveSortOrder: 0
+      cellRect:
+        x: 36
+        y: 37
+        width: 12
+        height: 9
+      spriteId: 66ed8f286337f794bbc2e53f5dce8f4e
+    - name: Frame_117
+      frameIndex: 117
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 36
+        width: 9
+        height: 9
+      spriteId: 1e3f950751eb29643af9d9f4f0716ffe
+    - name: Frame_118
+      frameIndex: 118
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 36
+        width: 9
+        height: 9
+      spriteId: 44847cc9a7ce0a54a9318347edc21f37
+    - name: Frame_119
+      frameIndex: 119
+      additiveSortOrder: 0
+      cellRect:
+        x: 36
+        y: 39
+        width: 12
+        height: 9
+      spriteId: c42742ba789dcc44baf12adb7de48e1d
+    - name: Frame_120
+      frameIndex: 120
+      additiveSortOrder: 0
+      cellRect:
+        x: 37
+        y: 37
+        width: 12
+        height: 9
+      spriteId: fbd744364c9d5644fa002f1df922fbcf
+    - name: Frame_121
+      frameIndex: 121
+      additiveSortOrder: 0
+      cellRect:
+        x: 36
+        y: 37
+        width: 12
+        height: 9
+      spriteId: dc48cc82920a8d6498494b673e6b07d9
+    - name: Frame_122
+      frameIndex: 122
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 36
+        width: 9
+        height: 9
+      spriteId: 6e8730f2969b00d43b203cb854b20223
+    - name: Frame_123
+      frameIndex: 123
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 36
+        width: 9
+        height: 9
+      spriteId: 67a5e1bdd2059a944b2da73d7681a0b2
+    - name: Frame_124
+      frameIndex: 124
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 41
+        width: 10
+        height: 8
+      spriteId: 6066a119561e4a144a141f1614248971
+    - name: Frame_125
+      frameIndex: 125
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 41
+        width: 10
+        height: 8
+      spriteId: 50256fa9bdbd8f648849d15ea7bf9245
+    - name: Frame_126
+      frameIndex: 126
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 41
+        width: 10
+        height: 8
+      spriteId: c42d051a121d0ae47a14d5b01fe245dd
+    - name: Frame_127
+      frameIndex: 127
+      additiveSortOrder: 0
+      cellRect:
+        x: 29
+        y: 48
+        width: 7
+        height: 8
+      spriteId: 6988227f96b212040a6370b230521447
+    - name: Frame_128
+      frameIndex: 128
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 45
+        width: 6
+        height: 9
+      spriteId: f7f16777fc9491b4bb59feeec82c58b1
+    - name: Frame_129
+      frameIndex: 129
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 39
+        width: 6
+        height: 9
+      spriteId: 536924b2c3192fa41b051818e525477c
+    - name: Frame_130
+      frameIndex: 130
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 29
+        width: 7
+        height: 8
+      spriteId: 4bf0b07b8096d184e89fb8911a36a06a
+    - name: Frame_131
+      frameIndex: 131
+      additiveSortOrder: 0
+      cellRect:
+        x: 29
+        y: 48
+        width: 7
+        height: 8
+      spriteId: 2740a8c652616694db2894a747a6bd52
+    - name: Frame_132
+      frameIndex: 132
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 39
+        width: 6
+        height: 9
+      spriteId: 64093a6686bbf114eb929fe9fc90ebd3
+    - name: Frame_133
+      frameIndex: 133
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 29
+        width: 7
+        height: 8
+      spriteId: 780fa9c0356782f49baa9ecce78b327e
+    - name: Frame_134
+      frameIndex: 134
+      additiveSortOrder: 0
+      cellRect:
+        x: 29
+        y: 48
+        width: 7
+        height: 8
+      spriteId: 68c330db2b8305a4983adf9c5996e415
+    - name: Frame_135
+      frameIndex: 135
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 39
+        width: 6
+        height: 9
+      spriteId: 99610cd001da776479a4aaf449dde2e9
+    - name: Frame_136
+      frameIndex: 136
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 29
+        width: 7
+        height: 8
+      spriteId: 50e45ceaf8144a2438634c5697c0c8ec
+    - name: Frame_137
+      frameIndex: 137
+      additiveSortOrder: 0
+      cellRect:
+        x: 29
+        y: 48
+        width: 7
+        height: 8
+      spriteId: 83cf4510e1f1d5a489c7e2d34917fbbb
+    - name: Frame_138
+      frameIndex: 138
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 39
+        width: 6
+        height: 9
+      spriteId: 878c9cf3edf82cd49852f2da7d8c930d
+    - name: Frame_139
+      frameIndex: 139
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 29
+        width: 7
+        height: 8
+      spriteId: 6b8947668db1c114791bcf611241ecce
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 80, y: 80}
+  previousTextureSize: {x: 256, y: 256}

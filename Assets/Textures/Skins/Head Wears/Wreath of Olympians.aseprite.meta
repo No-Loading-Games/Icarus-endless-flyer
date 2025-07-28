@@ -1,0 +1,4150 @@
+fileFormatVersion: 2
+guid: 4e34c002ee4b0d44d8dc212704205146
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  importerVersion: 2
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638633120244632806
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Wreath of Olympians_Frame_0
+    originalName: 
+    pivot: {x: 0.099999905, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 106
+      y: 85
+      width: 10
+      height: 8
+    spriteID: 8c9ba95bfb2eee74694cf377f3cd9aa0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 106, y: 85}
+  - name: Wreath of Olympians_Frame_1
+    originalName: 
+    pivot: {x: 0.099999905, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 85
+      width: 10
+      height: 8
+    spriteID: 1bf36e89dbd337b439ed13c85bb06401
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 85}
+  - name: Wreath of Olympians_Frame_2
+    originalName: 
+    pivot: {x: 0.099999905, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 142
+      y: 85
+      width: 10
+      height: 8
+    spriteID: 26f0519fe11e3c247927e1abbe925d0f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 142, y: 85}
+  - name: Wreath of Olympians_Frame_3
+    originalName: 
+    pivot: {x: 0.099999905, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 85
+      width: 10
+      height: 8
+    spriteID: fad6d1583091ec046a880d57077af0d7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 160, y: 85}
+  - name: Wreath of Olympians_Frame_4
+    originalName: 
+    pivot: {x: 0.099999905, y: -0.12499988}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 178
+      y: 85
+      width: 10
+      height: 8
+    spriteID: 2259ca587dc4bfd40b98830edb84ef5f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 178, y: 85}
+  - name: Wreath of Olympians_Frame_5
+    originalName: 
+    pivot: {x: 0.099999905, y: -0.12499988}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 196
+      y: 85
+      width: 10
+      height: 8
+    spriteID: 640d3d0c10c04b347a1a2aa810964b2a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 196, y: 85}
+  - name: Wreath of Olympians_Frame_6
+    originalName: 
+    pivot: {x: 0.099999905, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 214
+      y: 85
+      width: 10
+      height: 8
+    spriteID: e92e7983af90ad14596227e04a701f80
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 85}
+  - name: Wreath of Olympians_Frame_7
+    originalName: 
+    pivot: {x: 0.099999905, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 232
+      y: 85
+      width: 10
+      height: 8
+    spriteID: b284b6cf3df3767429f42a0349bf4996
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 232, y: 85}
+  - name: Wreath of Olympians_Frame_8
+    originalName: 
+    pivot: {x: 0.099999905, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 102
+      width: 10
+      height: 8
+    spriteID: e36a4f0b51df99f419f3c3504bf3e17e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 102}
+  - name: Wreath of Olympians_Frame_9
+    originalName: 
+    pivot: {x: 0.099999905, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 22
+      y: 102
+      width: 10
+      height: 8
+    spriteID: 9ae86d7b2a5ac3c428c68888f76896b0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 22, y: 102}
+  - name: Wreath of Olympians_Frame_10
+    originalName: 
+    pivot: {x: 0.099999905, y: -0.12499988}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 102
+      width: 10
+      height: 8
+    spriteID: fb4c8242a6e9c3b43a7a91bd7e288291
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 40, y: 102}
+  - name: Wreath of Olympians_Frame_11
+    originalName: 
+    pivot: {x: 0.099999905, y: -0.12499988}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 58
+      y: 102
+      width: 10
+      height: 8
+    spriteID: 4b5988565ad8a034f81e548bb6a3254b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 58, y: 102}
+  - name: Wreath of Olympians_Frame_12
+    originalName: 
+    pivot: {x: 0.099999905, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 102
+      width: 10
+      height: 8
+    spriteID: 795c2780382107c41a7bf5178cd7ca96
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 102}
+  - name: Wreath of Olympians_Frame_13
+    originalName: 
+    pivot: {x: 0.099999905, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 94
+      y: 102
+      width: 10
+      height: 8
+    spriteID: 5f2e2a7a8e235474785bf4ffd09bb1bd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 94, y: 102}
+  - name: Wreath of Olympians_Frame_14
+    originalName: 
+    pivot: {x: 0.099999905, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 102
+      width: 10
+      height: 8
+    spriteID: 6864e0e1422a5f745bc7981ddae6d300
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 102}
+  - name: Wreath of Olympians_Frame_15
+    originalName: 
+    pivot: {x: 0.099999905, y: -0.12499988}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 130
+      y: 102
+      width: 10
+      height: 8
+    spriteID: 40b293db599d6964790e8b279157b406
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 130, y: 102}
+  - name: Wreath of Olympians_Frame_16
+    originalName: 
+    pivot: {x: 0.099999905, y: -0.12499988}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 102
+      width: 10
+      height: 8
+    spriteID: c0af9c541069cba4db0e88f20fccddd2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 148, y: 102}
+  - name: Wreath of Olympians_Frame_17
+    originalName: 
+    pivot: {x: 0.099999905, y: -0.12499988}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 102
+      width: 10
+      height: 8
+    spriteID: 8e5164650ccf95648917f8754700e221
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 102}
+  - name: Wreath of Olympians_Frame_18
+    originalName: 
+    pivot: {x: -0.99999976, y: 1.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 118
+      width: 7
+      height: 10
+    spriteID: bbdbc9019c0353c47bd436dd9bcdf6bb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 118}
+  - name: Wreath of Olympians_Frame_19
+    originalName: 
+    pivot: {x: -0.99999976, y: 1.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 19
+      y: 118
+      width: 7
+      height: 10
+    spriteID: 49736bd2ca6c66245abb843fa8f9f256
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 19, y: 118}
+  - name: Wreath of Olympians_Frame_20
+    originalName: 
+    pivot: {x: -0.99999976, y: 1.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 118
+      width: 7
+      height: 10
+    spriteID: afea426f5f7a48943bb20cb686de1966
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 118}
+  - name: Wreath of Olympians_Frame_21
+    originalName: 
+    pivot: {x: -0.99999976, y: 1.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 49
+      y: 118
+      width: 7
+      height: 10
+    spriteID: 292d2680401eb904eb281b71b1b92b84
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 118}
+  - name: Wreath of Olympians_Frame_22
+    originalName: 
+    pivot: {x: -0.99999976, y: 1.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 118
+      width: 7
+      height: 10
+    spriteID: 78f5705549fe0b14e8a1e58352bdeb70
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 118}
+  - name: Wreath of Olympians_Frame_23
+    originalName: 
+    pivot: {x: -0.99999976, y: 1.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 118
+      width: 7
+      height: 10
+    spriteID: a546eb050fcebb24e833c67d7dc6c20f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 118}
+  - name: Wreath of Olympians_Frame_24
+    originalName: 
+    pivot: {x: -0.99999976, y: 1.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 94
+      y: 118
+      width: 7
+      height: 10
+    spriteID: fa9b46196e434244fb2e7a44b2165ade
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 94, y: 118}
+  - name: Wreath of Olympians_Frame_25
+    originalName: 
+    pivot: {x: -0.99999976, y: 1.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 118
+      width: 7
+      height: 10
+    spriteID: 9befd133cba68654898f5435f0d51241
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 118}
+  - name: Wreath of Olympians_Frame_26
+    originalName: 
+    pivot: {x: -0.99999976, y: 1.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 118
+      width: 7
+      height: 10
+    spriteID: d3e829a736c54664ebd9bdeb3848e249
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 118}
+  - name: Wreath of Olympians_Frame_27
+    originalName: 
+    pivot: {x: -0.99999976, y: 1.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 139
+      y: 118
+      width: 7
+      height: 10
+    spriteID: 47813c95908fe3d4588403eac1098c21
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 139, y: 118}
+  - name: Wreath of Olympians_Frame_28
+    originalName: 
+    pivot: {x: -0.99999976, y: 1.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 154
+      y: 118
+      width: 7
+      height: 10
+    spriteID: 3734658f668b0d640a1731d8dcf54c26
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 154, y: 118}
+  - name: Wreath of Olympians_Frame_29
+    originalName: 
+    pivot: {x: -0.99999976, y: 1.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 118
+      width: 7
+      height: 10
+    spriteID: 51ffc71bdd861d54a99597d21a6eebeb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 169, y: 118}
+  - name: Wreath of Olympians_Frame_30
+    originalName: 
+    pivot: {x: 1.5555557, y: 2.2857141}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 200
+      y: 118
+      width: 9
+      height: 7
+    spriteID: 4d3096aa12195b948917c3a3907aee64
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 118}
+  - name: Wreath of Olympians_Frame_31
+    originalName: 
+    pivot: {x: 1.5555557, y: 2.2857141}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 217
+      y: 118
+      width: 9
+      height: 7
+    spriteID: 3f45c2232a4481044b6f0a642118ec80
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 217, y: 118}
+  - name: Wreath of Olympians_Frame_32
+    originalName: 
+    pivot: {x: 1.5555557, y: 2.2857141}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 234
+      y: 118
+      width: 9
+      height: 7
+    spriteID: 79d0fb7b4ce746c48b131d14bd1d9be9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 234, y: 118}
+  - name: Wreath of Olympians_Frame_33
+    originalName: 
+    pivot: {x: 1.5555557, y: 2.2857141}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 70
+      width: 9
+      height: 7
+    spriteID: fe01d2ff596cba646ae54a09c5d07089
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 70}
+  - name: Wreath of Olympians_Frame_34
+    originalName: 
+    pivot: {x: 1.5555557, y: 2.2857141}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 87
+      y: 70
+      width: 9
+      height: 7
+    spriteID: 7a8b3a5be502ab74a981a6620482c716
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 70}
+  - name: Wreath of Olympians_Frame_35
+    originalName: 
+    pivot: {x: 1.5555557, y: 2.2857141}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 70
+      width: 9
+      height: 7
+    spriteID: 0739cef127e63354d9e49156b825a3e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 104, y: 70}
+  - name: Wreath of Olympians_Frame_36
+    originalName: 
+    pivot: {x: 1.5555557, y: 2.2857141}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 70
+      width: 9
+      height: 7
+    spriteID: a644f926f70cf744cbc418c031a6bf93
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 70}
+  - name: Wreath of Olympians_Frame_37
+    originalName: 
+    pivot: {x: 1.5555557, y: 2.2857141}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 138
+      y: 70
+      width: 9
+      height: 7
+    spriteID: 028afd54e4f15af4ca546d3db5764c0e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 138, y: 70}
+  - name: Wreath of Olympians_Frame_38
+    originalName: 
+    pivot: {x: 1.5555557, y: 2.2857141}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 155
+      y: 70
+      width: 9
+      height: 7
+    spriteID: fdebf66d12e865b48a46e8ce5b8d96c9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 155, y: 70}
+  - name: Wreath of Olympians_Frame_39
+    originalName: 
+    pivot: {x: 1.5555557, y: 2.2857141}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 172
+      y: 70
+      width: 9
+      height: 7
+    spriteID: 71d46d8253962fa409cfc570933c068f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 70}
+  - name: Wreath of Olympians_Frame_40
+    originalName: 
+    pivot: {x: 1.5555557, y: 2.2857141}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 189
+      y: 70
+      width: 9
+      height: 7
+    spriteID: 897ed32f5a9dae0429df0132ce36c719
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 189, y: 70}
+  - name: Wreath of Olympians_Frame_41
+    originalName: 
+    pivot: {x: 1.5555557, y: 2.2857141}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 206
+      y: 70
+      width: 9
+      height: 7
+    spriteID: 229203ef5c67bf24c8990a90f3caecd4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 206, y: 70}
+  - name: Wreath of Olympians_Frame_46
+    originalName: 
+    pivot: {x: 0.5833334, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 19
+      width: 12
+      height: 9
+    spriteID: 553e2632fe4f5d8438b48787c3ca3c8a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 19}
+  - name: Wreath of Olympians_Frame_47
+    originalName: 
+    pivot: {x: 0.5833334, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 19
+      width: 12
+      height: 9
+    spriteID: a83bd1165924baa479e872cb2eae2234
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 24, y: 19}
+  - name: Wreath of Olympians_Frame_48
+    originalName: 
+    pivot: {x: 0.5833334, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 19
+      width: 12
+      height: 9
+    spriteID: 4b55e036ed10fdd4aa1112428d376053
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 44, y: 19}
+  - name: Wreath of Olympians_Frame_49
+    originalName: 
+    pivot: {x: 0.5833334, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 19
+      width: 12
+      height: 9
+    spriteID: 703de96a04170e741a2acb90395c65e3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 19}
+  - name: Wreath of Olympians_Frame_50
+    originalName: 
+    pivot: {x: 0.5833334, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 19
+      width: 12
+      height: 9
+    spriteID: a5ac8ffdcbdc8c44f9431e07b9e7df2b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 19}
+  - name: Wreath of Olympians_Frame_51
+    originalName: 
+    pivot: {x: 0.5833334, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 19
+      width: 12
+      height: 9
+    spriteID: 94e5eba3fa3a2364ba3669043bcd6666
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 104, y: 19}
+  - name: Wreath of Olympians_Frame_52
+    originalName: 
+    pivot: {x: 0.5833334, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 19
+      width: 12
+      height: 9
+    spriteID: c33bf994ac07d7645ab18653928a2366
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 19}
+  - name: Wreath of Olympians_Frame_53
+    originalName: 
+    pivot: {x: 0.5833334, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 19
+      width: 12
+      height: 9
+    spriteID: 930b7874929082b48b51912100cc5e3c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 19}
+  - name: Wreath of Olympians_Frame_54
+    originalName: 
+    pivot: {x: 0.5833334, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 164
+      y: 19
+      width: 12
+      height: 9
+    spriteID: 4b48d54b603b77b4d826811f13f842c5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 164, y: 19}
+  - name: Wreath of Olympians_Frame_55
+    originalName: 
+    pivot: {x: 0.5833334, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 184
+      y: 19
+      width: 12
+      height: 9
+    spriteID: d3c3893a7330c8e40908334214085bd4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 184, y: 19}
+  - name: Wreath of Olympians_Frame_56
+    originalName: 
+    pivot: {x: 0.5833334, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 19
+      width: 12
+      height: 9
+    spriteID: 7fff386c05d333f4694517f460f11c07
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 19}
+  - name: Wreath of Olympians_Frame_57
+    originalName: 
+    pivot: {x: 0.5833334, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 19
+      width: 12
+      height: 9
+    spriteID: 180635d9749256343b94a2e564039ec4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 224, y: 19}
+  - name: Wreath of Olympians_Frame_58
+    originalName: 
+    pivot: {x: 0.5833334, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 36
+      width: 12
+      height: 9
+    spriteID: 6438b291d2b0ddc4daadb69ea7d7f821
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 36}
+  - name: Wreath of Olympians_Frame_59
+    originalName: 
+    pivot: {x: 0.5833334, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 36
+      width: 12
+      height: 9
+    spriteID: 8f609d1ee647723439eea93613f6dd95
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 24, y: 36}
+  - name: Wreath of Olympians_Frame_60
+    originalName: 
+    pivot: {x: 0.5833334, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 36
+      width: 12
+      height: 9
+    spriteID: 6272401f97b9e4e43a4da59c52b26a5e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 44, y: 36}
+  - name: Wreath of Olympians_Frame_61
+    originalName: 
+    pivot: {x: 0.5833334, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 36
+      width: 12
+      height: 9
+    spriteID: aa0823d1daeacac47be2d3d65470d6c9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 36}
+  - name: Wreath of Olympians_Frame_62
+    originalName: 
+    pivot: {x: 0.5833334, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 36
+      width: 12
+      height: 9
+    spriteID: d7db4d3c88d1aab449efcfa8b594a77d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 36}
+  - name: Wreath of Olympians_Frame_63
+    originalName: 
+    pivot: {x: 0.5833334, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 36
+      width: 12
+      height: 9
+    spriteID: ccfc554ddb8b7c84bbe995b16325f8c9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 104, y: 36}
+  - name: Wreath of Olympians_Frame_64
+    originalName: 
+    pivot: {x: 0.6666666, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 36
+      width: 12
+      height: 9
+    spriteID: 15ecaeac70017424eaddf6f5fc34ff73
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 36}
+  - name: Wreath of Olympians_Frame_65
+    originalName: 
+    pivot: {x: 0.6666666, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 36
+      width: 12
+      height: 9
+    spriteID: f972c189b89636d4fa3b11ea2e82ab2e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 36}
+  - name: Wreath of Olympians_Frame_66
+    originalName: 
+    pivot: {x: -0.28571403, y: -1.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 136
+      width: 7
+      height: 8
+    spriteID: 4752c199148a80b41a65b6f4eb439fdd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 136}
+  - name: Wreath of Olympians_Frame_67
+    originalName: 
+    pivot: {x: -0.28571403, y: -1.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 19
+      y: 136
+      width: 7
+      height: 8
+    spriteID: 62a4f06d8058891468dd1a5482b446e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 19, y: 136}
+  - name: Wreath of Olympians_Frame_68
+    originalName: 
+    pivot: {x: -0.12499988, y: -1.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 244
+      y: 19
+      width: 8
+      height: 8
+    spriteID: f02db7ab468a57944853bb4f69782c60
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 244, y: 19}
+  - name: Wreath of Olympians_Frame_69
+    originalName: 
+    pivot: {x: -0.28571403, y: -1.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 136
+      width: 7
+      height: 8
+    spriteID: d9a74feeed0ae6f4c921b0f7416b1011
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 136}
+  - name: Wreath of Olympians_Frame_70
+    originalName: 
+    pivot: {x: -0.12499988, y: -1.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 244
+      y: 36
+      width: 8
+      height: 8
+    spriteID: cad73dcbb4c21144eb6ca138f9aa8548
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 244, y: 36}
+  - name: Wreath of Olympians_Frame_71
+    originalName: 
+    pivot: {x: -0.28571403, y: -1.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 49
+      y: 136
+      width: 7
+      height: 8
+    spriteID: 1d667bdacf191944b8e698e6325910de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 136}
+  - name: Wreath of Olympians_Frame_72
+    originalName: 
+    pivot: {x: 0.71428573, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 53
+      width: 14
+      height: 7
+    spriteID: 5b14796fe81964245befea2240b4b999
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 53}
+  - name: Wreath of Olympians_Frame_73
+    originalName: 
+    pivot: {x: 0.71428573, y: 0.14285702}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 53
+      width: 14
+      height: 7
+    spriteID: 4e0a5bfbbc31b6344b4611c6fa2943ad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 192, y: 53}
+  - name: Wreath of Olympians_Frame_74
+    originalName: 
+    pivot: {x: 0.71428573, y: 0.14285702}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 214
+      y: 53
+      width: 14
+      height: 7
+    spriteID: d5658ac330657d549863cc371fff08b7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 53}
+  - name: Wreath of Olympians_Frame_75
+    originalName: 
+    pivot: {x: 0.71428573, y: 0.14285702}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 236
+      y: 53
+      width: 14
+      height: 7
+    spriteID: 17c9afe98fc0fde4e903e02fd5ab809d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 236, y: 53}
+  - name: Wreath of Olympians_Frame_76
+    originalName: 
+    pivot: {x: 0.71428573, y: 0.14285702}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 70
+      width: 14
+      height: 7
+    spriteID: 970cc3f692b8808438825852479794ea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 70}
+  - name: Wreath of Olympians_Frame_77
+    originalName: 
+    pivot: {x: 0.71428573, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 26
+      y: 70
+      width: 14
+      height: 7
+    spriteID: 57a7149417c17fe44aa85178dd7f1157
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 26, y: 70}
+  - name: Wreath of Olympians_Frame_78
+    originalName: 
+    pivot: {x: 0.75, y: 0.14285702}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 16
+      height: 7
+    spriteID: 91fe9f9bb95c7eb4d8ec6b33884ec836
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Wreath of Olympians_Frame_79
+    originalName: 
+    pivot: {x: 0.8000001, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 4
+      width: 15
+      height: 7
+    spriteID: febf08092d889fc458530463b45235ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 4}
+  - name: Wreath of Olympians_Frame_80
+    originalName: 
+    pivot: {x: 0.8666667, y: 0.28571436}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 147
+      y: 4
+      width: 15
+      height: 7
+    spriteID: 7b4babe2367e7d64bad462a580a1192f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 147, y: 4}
+  - name: Wreath of Olympians_Frame_81
+    originalName: 
+    pivot: {x: 0.8000001, y: 0.14285702}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 4
+      width: 15
+      height: 7
+    spriteID: 6d6d24500c6027043b02d50fbf44d047
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 4}
+  - name: Wreath of Olympians_Frame_82
+    originalName: 
+    pivot: {x: 0.7333333, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 193
+      y: 4
+      width: 15
+      height: 7
+    spriteID: 7978d3ed473e4e94cb5ef1a10737dea5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 193, y: 4}
+  - name: Wreath of Olympians_Frame_83
+    originalName: 
+    pivot: {x: 0.8000001, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 216
+      y: 4
+      width: 15
+      height: 7
+    spriteID: aa90f1a1766197e48aa0f61a375c8345
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 216, y: 4}
+  - name: Wreath of Olympians_Frame_84
+    originalName: 
+    pivot: {x: 0.8000001, y: 0.28571436}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 53
+      width: 15
+      height: 7
+    spriteID: abe91605a51b3504ba4541672234b49c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 53}
+  - name: Wreath of Olympians_Frame_85
+    originalName: 
+    pivot: {x: 0.8000001, y: 0.14285702}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 147
+      y: 53
+      width: 15
+      height: 7
+    spriteID: e4775a98b8054174eb169e37fed16a86
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 147, y: 53}
+  - name: Wreath of Olympians_Frame_86
+    originalName: 
+    pivot: {x: 0.8125, y: 0.14285702}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 4
+      width: 16
+      height: 7
+    spriteID: 967b33a7e0739614b925c1e4f5e99871
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 4}
+  - name: Wreath of Olympians_Frame_87
+    originalName: 
+    pivot: {x: 0.75, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 4
+      width: 16
+      height: 7
+    spriteID: 5cc181e9ba881544bbc290c9bab6fdc7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 4}
+  - name: Wreath of Olympians_Frame_88
+    originalName: 
+    pivot: {x: 0.75, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 4
+      width: 16
+      height: 7
+    spriteID: 54f8880933a96d540916f3f31f0bb4d1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 4}
+  - name: Wreath of Olympians_Frame_89
+    originalName: 
+    pivot: {x: 0.75, y: 0.42857137}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 100
+      y: 4
+      width: 16
+      height: 7
+    spriteID: 5c84aca524b34144d93553093696d6bb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 100, y: 4}
+  - name: Wreath of Olympians_Frame_90
+    originalName: 
+    pivot: {x: 0.8571429, y: 0.71428573}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 70
+      width: 14
+      height: 7
+    spriteID: 255bb2ba054a6294eb2a2530c0cb1715
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 48, y: 70}
+  - name: Wreath of Olympians_Frame_91
+    originalName: 
+    pivot: {x: 0.4999999, y: 0.14285702}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 239
+      y: 4
+      width: 12
+      height: 7
+    spriteID: 7b5697d10f1556e4491239bfcbef24a5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 239, y: 4}
+  - name: Wreath of Olympians_Frame_92
+    originalName: 
+    pivot: {x: 0.4999999, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 164
+      y: 36
+      width: 12
+      height: 9
+    spriteID: 0bf3b3f8de916174ba2946e3fcdd8337
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 164, y: 36}
+  - name: Wreath of Olympians_Frame_93
+    originalName: 
+    pivot: {x: -0.625, y: -1.1250001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 238
+      y: 102
+      width: 8
+      height: 8
+    spriteID: 3a542699f8fb587469c17ea7df4ad11d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 238, y: 102}
+  - name: Wreath of Olympians_Frame_94
+    originalName: 
+    pivot: {x: -0.85714275, y: -1.1250001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 136
+      width: 7
+      height: 8
+    spriteID: a214c3e4966cfc441b4da57c7b29c912
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 136}
+  - name: Wreath of Olympians_Frame_95
+    originalName: 
+    pivot: {x: -0.625, y: -1.1250001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 184
+      y: 118
+      width: 8
+      height: 8
+    spriteID: 9047be898d67c274eaaa4a1af4fb1e9c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 184, y: 118}
+  - name: Wreath of Olympians_Frame_96
+    originalName: 
+    pivot: {x: -0.85714275, y: -1.1250001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 136
+      width: 7
+      height: 8
+    spriteID: c0992e31f562ff94caefa5f05a845cf1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 136}
+  - name: Wreath of Olympians_Frame_97
+    originalName: 
+    pivot: {x: 0.6666668, y: -0.8333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 70
+      width: 6
+      height: 6
+    spriteID: acdabf1adfa87ec44a3e314a351dc230
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 223, y: 70}
+  - name: Wreath of Olympians_Frame_98
+    originalName: 
+    pivot: {x: 0.6666668, y: -0.8333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 237
+      y: 70
+      width: 6
+      height: 6
+    spriteID: 9e0ecefb927e38548983948a35760718
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 237, y: 70}
+  - name: Wreath of Olympians_Frame_99
+    originalName: 
+    pivot: {x: 0.6666668, y: -0.8333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 214
+      y: 136
+      width: 6
+      height: 6
+    spriteID: 504c85be35bff8a41a87acc37941ed53
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 136}
+  - name: Wreath of Olympians_Frame_100
+    originalName: 
+    pivot: {x: 0.6666668, y: -0.8333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 228
+      y: 136
+      width: 6
+      height: 6
+    spriteID: a4a760bb3a230f24bab29fd0271c5f03
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 228, y: 136}
+  - name: Wreath of Olympians_Frame_101
+    originalName: 
+    pivot: {x: 0.6666668, y: -0.8333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 242
+      y: 136
+      width: 6
+      height: 6
+    spriteID: ddd7ff48d8ab0194e95bf911cc8f47e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 242, y: 136}
+  - name: Wreath of Olympians_Frame_102
+    originalName: 
+    pivot: {x: 0.6666668, y: -0.8333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 152
+      width: 6
+      height: 6
+    spriteID: 746691dc73861cf45a502ff5e7c1431f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 152}
+  - name: Wreath of Olympians_Frame_103
+    originalName: 
+    pivot: {x: 0.6666668, y: -0.8333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 152
+      width: 6
+      height: 6
+    spriteID: 08f3928517fdcbe458aaf771ce92f1a9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 152}
+  - name: Wreath of Olympians_Frame_104
+    originalName: 
+    pivot: {x: 0.6666668, y: -0.8333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 152
+      width: 6
+      height: 6
+    spriteID: c624ccfeb896f074d99459a8854c476f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 152}
+  - name: Wreath of Olympians_Frame_105
+    originalName: 
+    pivot: {x: 0.6666668, y: -0.8333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 116
+      y: 152
+      width: 6
+      height: 6
+    spriteID: cf4ff433d29eeb9499fcdd1569d7abc7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 152}
+  - name: Wreath of Olympians_Frame_106
+    originalName: 
+    pivot: {x: 0.6666668, y: -0.8333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 130
+      y: 152
+      width: 6
+      height: 6
+    spriteID: 5cd84de7a48a82e48908ba9158f04727
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 130, y: 152}
+  - name: Wreath of Olympians_Frame_107
+    originalName: 
+    pivot: {x: 0.6666668, y: -0.8333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 152
+      width: 6
+      height: 6
+    spriteID: 7ae2a81589299ff41a8a629322f1c4b8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 152}
+  - name: Wreath of Olympians_Frame_108
+    originalName: 
+    pivot: {x: 0.6666668, y: -0.8333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 158
+      y: 152
+      width: 6
+      height: 6
+    spriteID: 4bb1703d528636e48a89e46aed1be7ba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 158, y: 152}
+  - name: Wreath of Olympians_Frame_109
+    originalName: 
+    pivot: {x: 0.3333334, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 184
+      y: 36
+      width: 12
+      height: 9
+    spriteID: 2c96c112e984ba6479b3503273a7d4df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 184, y: 36}
+  - name: Wreath of Olympians_Frame_110
+    originalName: 
+    pivot: {x: 0.24999996, y: 0.33333328}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 36
+      width: 12
+      height: 9
+    spriteID: 782db7857b87d764eb0d612f105c60b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 36}
+  - name: Wreath of Olympians_Frame_111
+    originalName: 
+    pivot: {x: 0.3333334, y: 0.33333328}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 36
+      width: 12
+      height: 9
+    spriteID: 7ccd0a48f871edd44a9f390dfd95f617
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 224, y: 36}
+  - name: Wreath of Olympians_Frame_112
+    originalName: 
+    pivot: {x: 0.11111101, y: 0.44444457}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 85
+      width: 9
+      height: 9
+    spriteID: e4d00e4d6fd036c4d80bb54568098167
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 85}
+  - name: Wreath of Olympians_Frame_113
+    originalName: 
+    pivot: {x: 0.11111101, y: 0.44444457}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 21
+      y: 85
+      width: 9
+      height: 9
+    spriteID: 5bcf0b178e9d2d2469cf270a77dfa3f5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 21, y: 85}
+  - name: Wreath of Olympians_Frame_114
+    originalName: 
+    pivot: {x: 0.3333334, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 53
+      width: 12
+      height: 9
+    spriteID: 92ec73a0df8c3f6488f026333e1c8e98
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 53}
+  - name: Wreath of Olympians_Frame_115
+    originalName: 
+    pivot: {x: 0.24999996, y: 0.33333328}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 53
+      width: 12
+      height: 9
+    spriteID: 1c6e0d079926115429146271eb5af981
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 24, y: 53}
+  - name: Wreath of Olympians_Frame_116
+    originalName: 
+    pivot: {x: 0.3333334, y: 0.33333328}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 53
+      width: 12
+      height: 9
+    spriteID: 6c3b691148548224e93d9883e6b31f0b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 44, y: 53}
+  - name: Wreath of Olympians_Frame_117
+    originalName: 
+    pivot: {x: 0.11111101, y: 0.44444457}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 38
+      y: 85
+      width: 9
+      height: 9
+    spriteID: aa935c28e6be31c42ae91d4d86473d6b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 38, y: 85}
+  - name: Wreath of Olympians_Frame_118
+    originalName: 
+    pivot: {x: 0.11111101, y: 0.44444457}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 55
+      y: 85
+      width: 9
+      height: 9
+    spriteID: 234814d4546fa3d4697474bb0d1528c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 85}
+  - name: Wreath of Olympians_Frame_119
+    originalName: 
+    pivot: {x: 0.3333334, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 53
+      width: 12
+      height: 9
+    spriteID: 178a2e193fe6bc7479237a6d9399e3df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 53}
+  - name: Wreath of Olympians_Frame_120
+    originalName: 
+    pivot: {x: 0.24999996, y: 0.33333328}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 53
+      width: 12
+      height: 9
+    spriteID: 4ec06b17668a80941978bc19670afac9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 53}
+  - name: Wreath of Olympians_Frame_121
+    originalName: 
+    pivot: {x: 0.3333334, y: 0.33333328}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 53
+      width: 12
+      height: 9
+    spriteID: 895a62f91d4c8cf47b3505467eb12b57
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 104, y: 53}
+  - name: Wreath of Olympians_Frame_122
+    originalName: 
+    pivot: {x: 0.11111101, y: 0.44444457}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 85
+      width: 9
+      height: 9
+    spriteID: e4f793135ec8574439fbc53af0eb016f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 72, y: 85}
+  - name: Wreath of Olympians_Frame_123
+    originalName: 
+    pivot: {x: 0.11111101, y: 0.44444457}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 89
+      y: 85
+      width: 9
+      height: 9
+    spriteID: c64a0b907be34944281240965853db53
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 89, y: 85}
+  - name: Wreath of Olympians_Frame_124
+    originalName: 
+    pivot: {x: 0.099999905, y: -0.12499988}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 184
+      y: 102
+      width: 10
+      height: 8
+    spriteID: 51ce4203b967a5047a9a8789dbef997d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 184, y: 102}
+  - name: Wreath of Olympians_Frame_125
+    originalName: 
+    pivot: {x: 0.099999905, y: -0.12499988}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 202
+      y: 102
+      width: 10
+      height: 8
+    spriteID: e608c2c042eab14478afe64f673b779f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 202, y: 102}
+  - name: Wreath of Olympians_Frame_126
+    originalName: 
+    pivot: {x: 0.099999905, y: -0.12499988}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 102
+      width: 10
+      height: 8
+    spriteID: ecf0d624802ffd042835284f5afb1e92
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 220, y: 102}
+  - name: Wreath of Olympians_Frame_127
+    originalName: 
+    pivot: {x: 1.5714284, y: -1.0000002}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 94
+      y: 136
+      width: 7
+      height: 8
+    spriteID: accd1054865248144a0d448bfa45d7c1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 94, y: 136}
+  - name: Wreath of Olympians_Frame_128
+    originalName: 
+    pivot: {x: 2.5, y: -0.5555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 152
+      width: 6
+      height: 9
+    spriteID: 59fd7835a38f30e4689ea79c6718495d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 152}
+  - name: Wreath of Olympians_Frame_129
+    originalName: 
+    pivot: {x: 2.9999998, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 18
+      y: 152
+      width: 6
+      height: 9
+    spriteID: 1e31aa394b4359a4fb9db98fbe9bb7b7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 18, y: 152}
+  - name: Wreath of Olympians_Frame_130
+    originalName: 
+    pivot: {x: 2.7142859, y: 1.3749999}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 136
+      width: 7
+      height: 8
+    spriteID: 05b9d25df5b7d3948937715b381aa82d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 136}
+  - name: Wreath of Olympians_Frame_131
+    originalName: 
+    pivot: {x: 1.5714284, y: -1.0000002}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 136
+      width: 7
+      height: 8
+    spriteID: 55c822d1efd6f3c488ea96f6eec93d7b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 136}
+  - name: Wreath of Olympians_Frame_132
+    originalName: 
+    pivot: {x: 2.9999998, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 152
+      width: 6
+      height: 9
+    spriteID: 5d4deed39af7b714d96014a70002d531
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 32, y: 152}
+  - name: Wreath of Olympians_Frame_133
+    originalName: 
+    pivot: {x: 2.7142859, y: 1.3749999}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 139
+      y: 136
+      width: 7
+      height: 8
+    spriteID: da59feab56c364343b29bbee4e4d960f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 139, y: 136}
+  - name: Wreath of Olympians_Frame_134
+    originalName: 
+    pivot: {x: 1.5714284, y: -1.0000002}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 154
+      y: 136
+      width: 7
+      height: 8
+    spriteID: 4056a507bf0d6774baf81b0fdd6e4592
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 154, y: 136}
+  - name: Wreath of Olympians_Frame_135
+    originalName: 
+    pivot: {x: 2.9999998, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 152
+      width: 6
+      height: 9
+    spriteID: 18ff230a843f46842b28ccc19a59bffa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 152}
+  - name: Wreath of Olympians_Frame_136
+    originalName: 
+    pivot: {x: 2.7142859, y: 1.3749999}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 136
+      width: 7
+      height: 8
+    spriteID: dd225ec3a43a3574f96aa5e31949bb39
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 169, y: 136}
+  - name: Wreath of Olympians_Frame_137
+    originalName: 
+    pivot: {x: 1.5714284, y: -1.0000002}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 184
+      y: 136
+      width: 7
+      height: 8
+    spriteID: f2d16e3c54fda6445b2b2f12ef95e546
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 184, y: 136}
+  - name: Wreath of Olympians_Frame_138
+    originalName: 
+    pivot: {x: 2.9999998, y: 0.11111101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 152
+      width: 6
+      height: 9
+    spriteID: 8be3083190aa5fe4082bdaaf78cc97c5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 152}
+  - name: Wreath of Olympians_Frame_139
+    originalName: 
+    pivot: {x: 2.7142859, y: 1.3749999}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 199
+      y: 136
+      width: 7
+      height: 8
+    spriteID: d5222a397f75eaf44b3ff28075de03bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 199, y: 136}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    uuid:
+      value0: 283539492
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: 283539492
+    name: Wreath of Olympians
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 40
+        width: 10
+        height: 8
+      spriteId: 8c9ba95bfb2eee74694cf377f3cd9aa0
+    - name: Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 40
+        width: 10
+        height: 8
+      spriteId: 1bf36e89dbd337b439ed13c85bb06401
+    - name: Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 40
+        width: 10
+        height: 8
+      spriteId: 26f0519fe11e3c247927e1abbe925d0f
+    - name: Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 40
+        width: 10
+        height: 8
+      spriteId: fad6d1583091ec046a880d57077af0d7
+    - name: Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 41
+        width: 10
+        height: 8
+      spriteId: 2259ca587dc4bfd40b98830edb84ef5f
+    - name: Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 41
+        width: 10
+        height: 8
+      spriteId: 640d3d0c10c04b347a1a2aa810964b2a
+    - name: Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 40
+        width: 10
+        height: 8
+      spriteId: e92e7983af90ad14596227e04a701f80
+    - name: Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 40
+        width: 10
+        height: 8
+      spriteId: b284b6cf3df3767429f42a0349bf4996
+    - name: Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 40
+        width: 10
+        height: 8
+      spriteId: e36a4f0b51df99f419f3c3504bf3e17e
+    - name: Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 40
+        width: 10
+        height: 8
+      spriteId: 9ae86d7b2a5ac3c428c68888f76896b0
+    - name: Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 41
+        width: 10
+        height: 8
+      spriteId: fb4c8242a6e9c3b43a7a91bd7e288291
+    - name: Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 41
+        width: 10
+        height: 8
+      spriteId: 4b5988565ad8a034f81e548bb6a3254b
+    - name: Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 40
+        width: 10
+        height: 8
+      spriteId: 795c2780382107c41a7bf5178cd7ca96
+    - name: Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 40
+        width: 10
+        height: 8
+      spriteId: 5f2e2a7a8e235474785bf4ffd09bb1bd
+    - name: Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 40
+        width: 10
+        height: 8
+      spriteId: 6864e0e1422a5f745bc7981ddae6d300
+    - name: Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 41
+        width: 10
+        height: 8
+      spriteId: 40b293db599d6964790e8b279157b406
+    - name: Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 41
+        width: 10
+        height: 8
+      spriteId: c0af9c541069cba4db0e88f20fccddd2
+    - name: Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 41
+        width: 10
+        height: 8
+      spriteId: 8e5164650ccf95648917f8754700e221
+    - name: Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 28
+        width: 7
+        height: 10
+      spriteId: bbdbc9019c0353c47bd436dd9bcdf6bb
+    - name: Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 28
+        width: 7
+        height: 10
+      spriteId: 49736bd2ca6c66245abb843fa8f9f256
+    - name: Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 28
+        width: 7
+        height: 10
+      spriteId: afea426f5f7a48943bb20cb686de1966
+    - name: Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 28
+        width: 7
+        height: 10
+      spriteId: 292d2680401eb904eb281b71b1b92b84
+    - name: Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 28
+        width: 7
+        height: 10
+      spriteId: 78f5705549fe0b14e8a1e58352bdeb70
+    - name: Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 28
+        width: 7
+        height: 10
+      spriteId: a546eb050fcebb24e833c67d7dc6c20f
+    - name: Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 28
+        width: 7
+        height: 10
+      spriteId: fa9b46196e434244fb2e7a44b2165ade
+    - name: Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 28
+        width: 7
+        height: 10
+      spriteId: 9befd133cba68654898f5435f0d51241
+    - name: Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 28
+        width: 7
+        height: 10
+      spriteId: d3e829a736c54664ebd9bdeb3848e249
+    - name: Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 28
+        width: 7
+        height: 10
+      spriteId: 47813c95908fe3d4588403eac1098c21
+    - name: Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 28
+        width: 7
+        height: 10
+      spriteId: 3734658f668b0d640a1731d8dcf54c26
+    - name: Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 28
+        width: 7
+        height: 10
+      spriteId: 51ffc71bdd861d54a99597d21a6eebeb
+    - name: Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 24
+        width: 9
+        height: 7
+      spriteId: 4d3096aa12195b948917c3a3907aee64
+    - name: Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 24
+        width: 9
+        height: 7
+      spriteId: 3f45c2232a4481044b6f0a642118ec80
+    - name: Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 24
+        width: 9
+        height: 7
+      spriteId: 79d0fb7b4ce746c48b131d14bd1d9be9
+    - name: Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 24
+        width: 9
+        height: 7
+      spriteId: fe01d2ff596cba646ae54a09c5d07089
+    - name: Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 24
+        width: 9
+        height: 7
+      spriteId: 7a8b3a5be502ab74a981a6620482c716
+    - name: Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 24
+        width: 9
+        height: 7
+      spriteId: 0739cef127e63354d9e49156b825a3e9
+    - name: Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 24
+        width: 9
+        height: 7
+      spriteId: a644f926f70cf744cbc418c031a6bf93
+    - name: Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 24
+        width: 9
+        height: 7
+      spriteId: 028afd54e4f15af4ca546d3db5764c0e
+    - name: Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 24
+        width: 9
+        height: 7
+      spriteId: fdebf66d12e865b48a46e8ce5b8d96c9
+    - name: Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 24
+        width: 9
+        height: 7
+      spriteId: 71d46d8253962fa409cfc570933c068f
+    - name: Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 24
+        width: 9
+        height: 7
+      spriteId: 897ed32f5a9dae0429df0132ce36c719
+    - name: Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 24
+        width: 9
+        height: 7
+      spriteId: 229203ef5c67bf24c8990a90f3caecd4
+    - name: Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 39
+        width: 12
+        height: 9
+      spriteId: 553e2632fe4f5d8438b48787c3ca3c8a
+    - name: Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 39
+        width: 12
+        height: 9
+      spriteId: a83bd1165924baa479e872cb2eae2234
+    - name: Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 39
+        width: 12
+        height: 9
+      spriteId: 4b55e036ed10fdd4aa1112428d376053
+    - name: Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 39
+        width: 12
+        height: 9
+      spriteId: 703de96a04170e741a2acb90395c65e3
+    - name: Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 39
+        width: 12
+        height: 9
+      spriteId: a5ac8ffdcbdc8c44f9431e07b9e7df2b
+    - name: Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 39
+        width: 12
+        height: 9
+      spriteId: 94e5eba3fa3a2364ba3669043bcd6666
+    - name: Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 39
+        width: 12
+        height: 9
+      spriteId: c33bf994ac07d7645ab18653928a2366
+    - name: Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 39
+        width: 12
+        height: 9
+      spriteId: 930b7874929082b48b51912100cc5e3c
+    - name: Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 39
+        width: 12
+        height: 9
+      spriteId: 4b48d54b603b77b4d826811f13f842c5
+    - name: Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 39
+        width: 12
+        height: 9
+      spriteId: d3c3893a7330c8e40908334214085bd4
+    - name: Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 39
+        width: 12
+        height: 9
+      spriteId: 7fff386c05d333f4694517f460f11c07
+    - name: Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 39
+        width: 12
+        height: 9
+      spriteId: 180635d9749256343b94a2e564039ec4
+    - name: Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 39
+        width: 12
+        height: 9
+      spriteId: 6438b291d2b0ddc4daadb69ea7d7f821
+    - name: Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 39
+        width: 12
+        height: 9
+      spriteId: 8f609d1ee647723439eea93613f6dd95
+    - name: Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 39
+        width: 12
+        height: 9
+      spriteId: 6272401f97b9e4e43a4da59c52b26a5e
+    - name: Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 39
+        width: 12
+        height: 9
+      spriteId: aa0823d1daeacac47be2d3d65470d6c9
+    - name: Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 39
+        width: 12
+        height: 9
+      spriteId: d7db4d3c88d1aab449efcfa8b594a77d
+    - name: Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 39
+        width: 12
+        height: 9
+      spriteId: ccfc554ddb8b7c84bbe995b16325f8c9
+    - name: Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 32
+        y: 39
+        width: 12
+        height: 9
+      spriteId: 15ecaeac70017424eaddf6f5fc34ff73
+    - name: Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 32
+        y: 39
+        width: 12
+        height: 9
+      spriteId: f972c189b89636d4fa3b11ea2e82ab2e
+    - name: Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 50
+        width: 7
+        height: 8
+      spriteId: 4752c199148a80b41a65b6f4eb439fdd
+    - name: Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 50
+        width: 7
+        height: 8
+      spriteId: 62a4f06d8058891468dd1a5482b446e1
+    - name: Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 41
+        y: 50
+        width: 8
+        height: 8
+      spriteId: f02db7ab468a57944853bb4f69782c60
+    - name: Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 50
+        width: 7
+        height: 8
+      spriteId: d9a74feeed0ae6f4c921b0f7416b1011
+    - name: Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 41
+        y: 50
+        width: 8
+        height: 8
+      spriteId: cad73dcbb4c21144eb6ca138f9aa8548
+    - name: Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 50
+        width: 7
+        height: 8
+      spriteId: 1d667bdacf191944b8e698e6325910de
+    - name: Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: 30
+        y: 40
+        width: 14
+        height: 7
+      spriteId: 5b14796fe81964245befea2240b4b999
+    - name: Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: 30
+        y: 39
+        width: 14
+        height: 7
+      spriteId: 4e0a5bfbbc31b6344b4611c6fa2943ad
+    - name: Frame_74
+      frameIndex: 74
+      additiveSortOrder: 0
+      cellRect:
+        x: 30
+        y: 39
+        width: 14
+        height: 7
+      spriteId: d5658ac330657d549863cc371fff08b7
+    - name: Frame_75
+      frameIndex: 75
+      additiveSortOrder: 0
+      cellRect:
+        x: 30
+        y: 39
+        width: 14
+        height: 7
+      spriteId: 17c9afe98fc0fde4e903e02fd5ab809d
+    - name: Frame_76
+      frameIndex: 76
+      additiveSortOrder: 0
+      cellRect:
+        x: 30
+        y: 39
+        width: 14
+        height: 7
+      spriteId: 970cc3f692b8808438825852479794ea
+    - name: Frame_77
+      frameIndex: 77
+      additiveSortOrder: 0
+      cellRect:
+        x: 30
+        y: 40
+        width: 14
+        height: 7
+      spriteId: 57a7149417c17fe44aa85178dd7f1157
+    - name: Frame_78
+      frameIndex: 78
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 39
+        width: 16
+        height: 7
+      spriteId: 91fe9f9bb95c7eb4d8ec6b33884ec836
+    - name: Frame_79
+      frameIndex: 79
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 40
+        width: 15
+        height: 7
+      spriteId: febf08092d889fc458530463b45235ec
+    - name: Frame_80
+      frameIndex: 80
+      additiveSortOrder: 0
+      cellRect:
+        x: 27
+        y: 38
+        width: 15
+        height: 7
+      spriteId: 7b4babe2367e7d64bad462a580a1192f
+    - name: Frame_81
+      frameIndex: 81
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 39
+        width: 15
+        height: 7
+      spriteId: 6d6d24500c6027043b02d50fbf44d047
+    - name: Frame_82
+      frameIndex: 82
+      additiveSortOrder: 0
+      cellRect:
+        x: 29
+        y: 40
+        width: 15
+        height: 7
+      spriteId: 7978d3ed473e4e94cb5ef1a10737dea5
+    - name: Frame_83
+      frameIndex: 83
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 40
+        width: 15
+        height: 7
+      spriteId: aa90f1a1766197e48aa0f61a375c8345
+    - name: Frame_84
+      frameIndex: 84
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 38
+        width: 15
+        height: 7
+      spriteId: abe91605a51b3504ba4541672234b49c
+    - name: Frame_85
+      frameIndex: 85
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 39
+        width: 15
+        height: 7
+      spriteId: e4775a98b8054174eb169e37fed16a86
+    - name: Frame_86
+      frameIndex: 86
+      additiveSortOrder: 0
+      cellRect:
+        x: 27
+        y: 39
+        width: 16
+        height: 7
+      spriteId: 967b33a7e0739614b925c1e4f5e99871
+    - name: Frame_87
+      frameIndex: 87
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 40
+        width: 16
+        height: 7
+      spriteId: 5cc181e9ba881544bbc290c9bab6fdc7
+    - name: Frame_88
+      frameIndex: 88
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 40
+        width: 16
+        height: 7
+      spriteId: 54f8880933a96d540916f3f31f0bb4d1
+    - name: Frame_89
+      frameIndex: 89
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 37
+        width: 16
+        height: 7
+      spriteId: 5c84aca524b34144d93553093696d6bb
+    - name: Frame_90
+      frameIndex: 90
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 35
+        width: 14
+        height: 7
+      spriteId: 255bb2ba054a6294eb2a2530c0cb1715
+    - name: Frame_91
+      frameIndex: 91
+      additiveSortOrder: 0
+      cellRect:
+        x: 34
+        y: 39
+        width: 12
+        height: 7
+      spriteId: 7b5697d10f1556e4491239bfcbef24a5
+    - name: Frame_92
+      frameIndex: 92
+      additiveSortOrder: 0
+      cellRect:
+        x: 34
+        y: 39
+        width: 12
+        height: 9
+      spriteId: 0bf3b3f8de916174ba2946e3fcdd8337
+    - name: Frame_93
+      frameIndex: 93
+      additiveSortOrder: 0
+      cellRect:
+        x: 45
+        y: 49
+        width: 8
+        height: 8
+      spriteId: 3a542699f8fb587469c17ea7df4ad11d
+    - name: Frame_94
+      frameIndex: 94
+      additiveSortOrder: 0
+      cellRect:
+        x: 46
+        y: 49
+        width: 7
+        height: 8
+      spriteId: a214c3e4966cfc441b4da57c7b29c912
+    - name: Frame_95
+      frameIndex: 95
+      additiveSortOrder: 0
+      cellRect:
+        x: 45
+        y: 49
+        width: 8
+        height: 8
+      spriteId: 9047be898d67c274eaaa4a1af4fb1e9c
+    - name: Frame_96
+      frameIndex: 96
+      additiveSortOrder: 0
+      cellRect:
+        x: 46
+        y: 49
+        width: 7
+        height: 8
+      spriteId: c0992e31f562ff94caefa5f05a845cf1
+    - name: Frame_97
+      frameIndex: 97
+      additiveSortOrder: 0
+      cellRect:
+        x: 36
+        y: 45
+        width: 6
+        height: 6
+      spriteId: acdabf1adfa87ec44a3e314a351dc230
+    - name: Frame_98
+      frameIndex: 98
+      additiveSortOrder: 0
+      cellRect:
+        x: 36
+        y: 45
+        width: 6
+        height: 6
+      spriteId: 9e0ecefb927e38548983948a35760718
+    - name: Frame_99
+      frameIndex: 99
+      additiveSortOrder: 0
+      cellRect:
+        x: 36
+        y: 45
+        width: 6
+        height: 6
+      spriteId: 504c85be35bff8a41a87acc37941ed53
+    - name: Frame_100
+      frameIndex: 100
+      additiveSortOrder: 0
+      cellRect:
+        x: 36
+        y: 45
+        width: 6
+        height: 6
+      spriteId: a4a760bb3a230f24bab29fd0271c5f03
+    - name: Frame_101
+      frameIndex: 101
+      additiveSortOrder: 0
+      cellRect:
+        x: 36
+        y: 45
+        width: 6
+        height: 6
+      spriteId: ddd7ff48d8ab0194e95bf911cc8f47e5
+    - name: Frame_102
+      frameIndex: 102
+      additiveSortOrder: 0
+      cellRect:
+        x: 36
+        y: 45
+        width: 6
+        height: 6
+      spriteId: 746691dc73861cf45a502ff5e7c1431f
+    - name: Frame_103
+      frameIndex: 103
+      additiveSortOrder: 0
+      cellRect:
+        x: 36
+        y: 45
+        width: 6
+        height: 6
+      spriteId: 08f3928517fdcbe458aaf771ce92f1a9
+    - name: Frame_104
+      frameIndex: 104
+      additiveSortOrder: 0
+      cellRect:
+        x: 36
+        y: 45
+        width: 6
+        height: 6
+      spriteId: c624ccfeb896f074d99459a8854c476f
+    - name: Frame_105
+      frameIndex: 105
+      additiveSortOrder: 0
+      cellRect:
+        x: 36
+        y: 45
+        width: 6
+        height: 6
+      spriteId: cf4ff433d29eeb9499fcdd1569d7abc7
+    - name: Frame_106
+      frameIndex: 106
+      additiveSortOrder: 0
+      cellRect:
+        x: 36
+        y: 45
+        width: 6
+        height: 6
+      spriteId: 5cd84de7a48a82e48908ba9158f04727
+    - name: Frame_107
+      frameIndex: 107
+      additiveSortOrder: 0
+      cellRect:
+        x: 36
+        y: 45
+        width: 6
+        height: 6
+      spriteId: 7ae2a81589299ff41a8a629322f1c4b8
+    - name: Frame_108
+      frameIndex: 108
+      additiveSortOrder: 0
+      cellRect:
+        x: 36
+        y: 45
+        width: 6
+        height: 6
+      spriteId: 4bb1703d528636e48a89e46aed1be7ba
+    - name: Frame_109
+      frameIndex: 109
+      additiveSortOrder: 0
+      cellRect:
+        x: 36
+        y: 39
+        width: 12
+        height: 9
+      spriteId: 2c96c112e984ba6479b3503273a7d4df
+    - name: Frame_110
+      frameIndex: 110
+      additiveSortOrder: 0
+      cellRect:
+        x: 37
+        y: 37
+        width: 12
+        height: 9
+      spriteId: 782db7857b87d764eb0d612f105c60b2
+    - name: Frame_111
+      frameIndex: 111
+      additiveSortOrder: 0
+      cellRect:
+        x: 36
+        y: 37
+        width: 12
+        height: 9
+      spriteId: 7ccd0a48f871edd44a9f390dfd95f617
+    - name: Frame_112
+      frameIndex: 112
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 36
+        width: 9
+        height: 9
+      spriteId: e4d00e4d6fd036c4d80bb54568098167
+    - name: Frame_113
+      frameIndex: 113
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 36
+        width: 9
+        height: 9
+      spriteId: 5bcf0b178e9d2d2469cf270a77dfa3f5
+    - name: Frame_114
+      frameIndex: 114
+      additiveSortOrder: 0
+      cellRect:
+        x: 36
+        y: 39
+        width: 12
+        height: 9
+      spriteId: 92ec73a0df8c3f6488f026333e1c8e98
+    - name: Frame_115
+      frameIndex: 115
+      additiveSortOrder: 0
+      cellRect:
+        x: 37
+        y: 37
+        width: 12
+        height: 9
+      spriteId: 1c6e0d079926115429146271eb5af981
+    - name: Frame_116
+      frameIndex: 116
+      additiveSortOrder: 0
+      cellRect:
+        x: 36
+        y: 37
+        width: 12
+        height: 9
+      spriteId: 6c3b691148548224e93d9883e6b31f0b
+    - name: Frame_117
+      frameIndex: 117
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 36
+        width: 9
+        height: 9
+      spriteId: aa935c28e6be31c42ae91d4d86473d6b
+    - name: Frame_118
+      frameIndex: 118
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 36
+        width: 9
+        height: 9
+      spriteId: 234814d4546fa3d4697474bb0d1528c6
+    - name: Frame_119
+      frameIndex: 119
+      additiveSortOrder: 0
+      cellRect:
+        x: 36
+        y: 39
+        width: 12
+        height: 9
+      spriteId: 178a2e193fe6bc7479237a6d9399e3df
+    - name: Frame_120
+      frameIndex: 120
+      additiveSortOrder: 0
+      cellRect:
+        x: 37
+        y: 37
+        width: 12
+        height: 9
+      spriteId: 4ec06b17668a80941978bc19670afac9
+    - name: Frame_121
+      frameIndex: 121
+      additiveSortOrder: 0
+      cellRect:
+        x: 36
+        y: 37
+        width: 12
+        height: 9
+      spriteId: 895a62f91d4c8cf47b3505467eb12b57
+    - name: Frame_122
+      frameIndex: 122
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 36
+        width: 9
+        height: 9
+      spriteId: e4f793135ec8574439fbc53af0eb016f
+    - name: Frame_123
+      frameIndex: 123
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 36
+        width: 9
+        height: 9
+      spriteId: c64a0b907be34944281240965853db53
+    - name: Frame_124
+      frameIndex: 124
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 41
+        width: 10
+        height: 8
+      spriteId: 51ce4203b967a5047a9a8789dbef997d
+    - name: Frame_125
+      frameIndex: 125
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 41
+        width: 10
+        height: 8
+      spriteId: e608c2c042eab14478afe64f673b779f
+    - name: Frame_126
+      frameIndex: 126
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 41
+        width: 10
+        height: 8
+      spriteId: ecf0d624802ffd042835284f5afb1e92
+    - name: Frame_127
+      frameIndex: 127
+      additiveSortOrder: 0
+      cellRect:
+        x: 29
+        y: 48
+        width: 7
+        height: 8
+      spriteId: accd1054865248144a0d448bfa45d7c1
+    - name: Frame_128
+      frameIndex: 128
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 45
+        width: 6
+        height: 9
+      spriteId: 59fd7835a38f30e4689ea79c6718495d
+    - name: Frame_129
+      frameIndex: 129
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 39
+        width: 6
+        height: 9
+      spriteId: 1e31aa394b4359a4fb9db98fbe9bb7b7
+    - name: Frame_130
+      frameIndex: 130
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 29
+        width: 7
+        height: 8
+      spriteId: 05b9d25df5b7d3948937715b381aa82d
+    - name: Frame_131
+      frameIndex: 131
+      additiveSortOrder: 0
+      cellRect:
+        x: 29
+        y: 48
+        width: 7
+        height: 8
+      spriteId: 55c822d1efd6f3c488ea96f6eec93d7b
+    - name: Frame_132
+      frameIndex: 132
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 39
+        width: 6
+        height: 9
+      spriteId: 5d4deed39af7b714d96014a70002d531
+    - name: Frame_133
+      frameIndex: 133
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 29
+        width: 7
+        height: 8
+      spriteId: da59feab56c364343b29bbee4e4d960f
+    - name: Frame_134
+      frameIndex: 134
+      additiveSortOrder: 0
+      cellRect:
+        x: 29
+        y: 48
+        width: 7
+        height: 8
+      spriteId: 4056a507bf0d6774baf81b0fdd6e4592
+    - name: Frame_135
+      frameIndex: 135
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 39
+        width: 6
+        height: 9
+      spriteId: 18ff230a843f46842b28ccc19a59bffa
+    - name: Frame_136
+      frameIndex: 136
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 29
+        width: 7
+        height: 8
+      spriteId: dd225ec3a43a3574f96aa5e31949bb39
+    - name: Frame_137
+      frameIndex: 137
+      additiveSortOrder: 0
+      cellRect:
+        x: 29
+        y: 48
+        width: 7
+        height: 8
+      spriteId: f2d16e3c54fda6445b2b2f12ef95e546
+    - name: Frame_138
+      frameIndex: 138
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 39
+        width: 6
+        height: 9
+      spriteId: 8be3083190aa5fe4082bdaaf78cc97c5
+    - name: Frame_139
+      frameIndex: 139
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 29
+        width: 7
+        height: 8
+      spriteId: d5222a397f75eaf44b3ff28075de03bc
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 80, y: 80}
+  previousTextureSize: {x: 256, y: 256}

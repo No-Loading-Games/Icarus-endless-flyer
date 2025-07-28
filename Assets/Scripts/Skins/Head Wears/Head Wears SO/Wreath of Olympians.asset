@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f56302be68b2c4a4fbd52edc8ede4c63, type: 3}
+  m_Name: Wreath of Olympians
+  m_EditorClassIdentifier: 
+  lockedIcon: {fileID: -1884678325, guid: e8ff034fa596e0c4fa2f2a4855f0a741, type: 3}
+  unlockedIcon: {fileID: -79450433, guid: e8ff034fa596e0c4fa2f2a4855f0a741, type: 3}
+  headWearName: Wreath of Olympians
+  desription: 'The Ultimate Wreath awarded to beings who reached heights worthy of
+    being part of Olympus
+
+
+    ( Reach a score of 777 )'
+  isPurchasable: 0
+  isUnlocked: 0
+  price: 0
+  headWearNamePP: olympian-wreath-obtained
+  isUnlockedPP: 
+  isEquipped: 0
+  flyingAnimation: {fileID: 7400000, guid: 5b4504c087eea144d97cfdfc1ee5001a, type: 2}
+  headWearAnimator: {fileID: 22100000, guid: 21cb3bb31fd338746a865bbda9ba2089, type: 2}
+  animationClips:
+  - {fileID: -7218947517464398808, guid: 4e34c002ee4b0d44d8dc212704205146, type: 3}
+  - {fileID: -6399448172265169914, guid: 4e34c002ee4b0d44d8dc212704205146, type: 3}
+  - {fileID: 3262007928353940185, guid: 4e34c002ee4b0d44d8dc212704205146, type: 3}
+  - {fileID: 6394172343127457249, guid: 4e34c002ee4b0d44d8dc212704205146, type: 3}
+  - {fileID: 6315607744250431929, guid: 4e34c002ee4b0d44d8dc212704205146, type: 3}
+  - {fileID: 5560837898174712445, guid: 4e34c002ee4b0d44d8dc212704205146, type: 3}
+  - {fileID: 5264402961320062952, guid: 4e34c002ee4b0d44d8dc212704205146, type: 3}
+  - {fileID: -5104558117300688815, guid: 4e34c002ee4b0d44d8dc212704205146, type: 3}
+  - {fileID: 6001450342859226504, guid: 4e34c002ee4b0d44d8dc212704205146, type: 3}
+  - {fileID: -5765985306823005930, guid: 4e34c002ee4b0d44d8dc212704205146, type: 3}
+  - {fileID: -4984418030670930737, guid: 4e34c002ee4b0d44d8dc212704205146, type: 3}
+  - {fileID: -5787377984655401753, guid: 4e34c002ee4b0d44d8dc212704205146, type: 3}
+  - {fileID: 6071445558875993208, guid: 4e34c002ee4b0d44d8dc212704205146, type: 3}
+  - {fileID: -3141305347106383603, guid: 4e34c002ee4b0d44d8dc212704205146, type: 3}
+  - {fileID: -8853211069113931585, guid: 4e34c002ee4b0d44d8dc212704205146, type: 3}
+  - {fileID: -3138711999292732545, guid: 4e34c002ee4b0d44d8dc212704205146, type: 3}
+  - {fileID: 6786664362023768414, guid: 4e34c002ee4b0d44d8dc212704205146, type: 3}
+  - {fileID: 2835153337849411780, guid: 4e34c002ee4b0d44d8dc212704205146, type: 3}
+  - {fileID: -6866403859815622480, guid: 4e34c002ee4b0d44d8dc212704205146, type: 3}
+  - {fileID: 4169831742965888896, guid: 4e34c002ee4b0d44d8dc212704205146, type: 3}
+  - {fileID: -1548125629005003097, guid: 4e34c002ee4b0d44d8dc212704205146, type: 3}
+  - {fileID: -6358838231115339448, guid: 4e34c002ee4b0d44d8dc212704205146, type: 3}
+  - {fileID: 1669697622575372768, guid: 4e34c002ee4b0d44d8dc212704205146, type: 3}
+  - {fileID: -5252816984213320552, guid: 4e34c002ee4b0d44d8dc212704205146, type: 3}
+  - {fileID: 2210946697377823099, guid: 4e34c002ee4b0d44d8dc212704205146, type: 3}
+  - {fileID: -8638682793069807479, guid: 4e34c002ee4b0d44d8dc212704205146, type: 3}
+  - {fileID: 1592952438488220442, guid: 4e34c002ee4b0d44d8dc212704205146, type: 3}
+  - {fileID: -3419257869308726280, guid: 4e34c002ee4b0d44d8dc212704205146, type: 3}

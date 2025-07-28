@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f56302be68b2c4a4fbd52edc8ede4c63, type: 3}
+  m_Name: Wreath of Legends
+  m_EditorClassIdentifier: 
+  lockedIcon: {fileID: -1884678325, guid: e8ff034fa596e0c4fa2f2a4855f0a741, type: 3}
+  unlockedIcon: {fileID: 552439646, guid: e8ff034fa596e0c4fa2f2a4855f0a741, type: 3}
+  headWearName: Wreath of Legends
+  desription: 'The wreath awarded to beings who accomplished Legendary feats
+
+
+    (
+    Reach a score of 333 )'
+  isPurchasable: 0
+  isUnlocked: 0
+  price: 0
+  headWearNamePP: legendary-wreath-obtained
+  isUnlockedPP: 
+  isEquipped: 0
+  flyingAnimation: {fileID: 7400000, guid: 138389c5b91f89e4aa52ae0ed3c24e61, type: 2}
+  headWearAnimator: {fileID: 22100000, guid: f3c6cc4f2bce13b45aef302444dbf543, type: 2}
+  animationClips:
+  - {fileID: -7218947517464398808, guid: bb4d8dd4bbf58e449b471418683b23c1, type: 3}
+  - {fileID: -6399448172265169914, guid: bb4d8dd4bbf58e449b471418683b23c1, type: 3}
+  - {fileID: 3262007928353940185, guid: bb4d8dd4bbf58e449b471418683b23c1, type: 3}
+  - {fileID: 6394172343127457249, guid: bb4d8dd4bbf58e449b471418683b23c1, type: 3}
+  - {fileID: 6315607744250431929, guid: bb4d8dd4bbf58e449b471418683b23c1, type: 3}
+  - {fileID: 5560837898174712445, guid: bb4d8dd4bbf58e449b471418683b23c1, type: 3}
+  - {fileID: 5264402961320062952, guid: bb4d8dd4bbf58e449b471418683b23c1, type: 3}
+  - {fileID: -5104558117300688815, guid: bb4d8dd4bbf58e449b471418683b23c1, type: 3}
+  - {fileID: 6001450342859226504, guid: bb4d8dd4bbf58e449b471418683b23c1, type: 3}
+  - {fileID: -5765985306823005930, guid: bb4d8dd4bbf58e449b471418683b23c1, type: 3}
+  - {fileID: -4984418030670930737, guid: bb4d8dd4bbf58e449b471418683b23c1, type: 3}
+  - {fileID: -5787377984655401753, guid: bb4d8dd4bbf58e449b471418683b23c1, type: 3}
+  - {fileID: 6071445558875993208, guid: bb4d8dd4bbf58e449b471418683b23c1, type: 3}
+  - {fileID: -3141305347106383603, guid: bb4d8dd4bbf58e449b471418683b23c1, type: 3}
+  - {fileID: -8853211069113931585, guid: bb4d8dd4bbf58e449b471418683b23c1, type: 3}
+  - {fileID: -3138711999292732545, guid: bb4d8dd4bbf58e449b471418683b23c1, type: 3}
+  - {fileID: 6786664362023768414, guid: bb4d8dd4bbf58e449b471418683b23c1, type: 3}
+  - {fileID: 2835153337849411780, guid: bb4d8dd4bbf58e449b471418683b23c1, type: 3}
+  - {fileID: -6866403859815622480, guid: bb4d8dd4bbf58e449b471418683b23c1, type: 3}
+  - {fileID: 4169831742965888896, guid: bb4d8dd4bbf58e449b471418683b23c1, type: 3}
+  - {fileID: -1548125629005003097, guid: bb4d8dd4bbf58e449b471418683b23c1, type: 3}
+  - {fileID: -6358838231115339448, guid: bb4d8dd4bbf58e449b471418683b23c1, type: 3}
+  - {fileID: 1669697622575372768, guid: bb4d8dd4bbf58e449b471418683b23c1, type: 3}
+  - {fileID: -5252816984213320552, guid: bb4d8dd4bbf58e449b471418683b23c1, type: 3}
+  - {fileID: 2210946697377823099, guid: bb4d8dd4bbf58e449b471418683b23c1, type: 3}
+  - {fileID: -8638682793069807479, guid: bb4d8dd4bbf58e449b471418683b23c1, type: 3}
+  - {fileID: 1592952438488220442, guid: bb4d8dd4bbf58e449b471418683b23c1, type: 3}
+  - {fileID: -3419257869308726280, guid: bb4d8dd4bbf58e449b471418683b23c1, type: 3}

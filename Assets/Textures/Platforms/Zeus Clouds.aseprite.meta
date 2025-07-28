@@ -1,0 +1,1016 @@
+fileFormatVersion: 2
+guid: e0a841ab8e3a7d0498f5c2c507908ef9
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  importerVersion: 2
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Zeus Clouds
+    originalName: 
+    pivot: {x: 0.50427353, y: -5.305556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 86
+      width: 234
+      height: 72
+    spriteID: 0ba735c4bab41cf428ae5ae3175d2f28
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 86}
+  - name: Zeus Clouds_Frame_1
+    originalName: 
+    pivot: {x: 0.50427353, y: -5.305556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 246
+      y: 86
+      width: 234
+      height: 72
+    spriteID: f41ae063314e8a142b398cc4858d5914
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 246, y: 86}
+  - name: Zeus Clouds_Frame_2
+    originalName: 
+    pivot: {x: 0.50427353, y: -5.305556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 488
+      y: 86
+      width: 234
+      height: 72
+    spriteID: 92a7c629a99974849b9496128ef1f91f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 488, y: 86}
+  - name: Zeus Clouds_Frame_3
+    originalName: 
+    pivot: {x: 0.50427353, y: -5.219178}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 488
+      y: 4
+      width: 234
+      height: 73
+    spriteID: b5fc421731a5ceb4ab3b302ef32bf841
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 488, y: 4}
+  - name: Zeus Clouds_Frame_4
+    originalName: 
+    pivot: {x: 0.50427353, y: -5.219178}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 730
+      y: 4
+      width: 234
+      height: 73
+    spriteID: e5e385ac30731504785b4f491ddeae0a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 730, y: 4}
+  - name: Zeus Clouds_Frame_5
+    originalName: 
+    pivot: {x: 0.50427353, y: -5.305556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 730
+      y: 86
+      width: 234
+      height: 72
+    spriteID: ad3a73bf39fbf5c49981bf3491aeb278
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 730, y: 86}
+  - name: Zeus Clouds_Frame_6
+    originalName: 
+    pivot: {x: 0.50427353, y: -5.305556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 166
+      width: 234
+      height: 72
+    spriteID: 62a1e7daf2c528940990578ca4c440dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 166}
+  - name: Zeus Clouds_Frame_7
+    originalName: 
+    pivot: {x: 0.50427353, y: -5.305556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 246
+      y: 166
+      width: 234
+      height: 72
+    spriteID: 01e1b1d74822a7d4ab46745ebeacd788
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 246, y: 166}
+  - name: Zeus Clouds_Frame_8
+    originalName: 
+    pivot: {x: 0.50427353, y: -5.305556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 488
+      y: 166
+      width: 234
+      height: 72
+    spriteID: 2bd512c0c98815043bdb90bd48e32690
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 488, y: 166}
+  - name: Zeus Clouds_Frame_9
+    originalName: 
+    pivot: {x: 0.50427353, y: -5.305556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 730
+      y: 166
+      width: 234
+      height: 72
+    spriteID: 76382e1b4009b264aad9c3aa6fc0ebc0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 730, y: 166}
+  - name: Zeus Clouds_Frame_10
+    originalName: 
+    pivot: {x: 0.50427353, y: -5.305556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 246
+      width: 234
+      height: 72
+    spriteID: e480014723c6ffd4cba660dd288b25b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 246}
+  - name: Zeus Clouds_Frame_11
+    originalName: 
+    pivot: {x: 0.50427353, y: -5.305556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 246
+      y: 246
+      width: 234
+      height: 72
+    spriteID: b57bd7e40f782e84dbb316601ecc17a6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 246, y: 246}
+  - name: Zeus Clouds_Frame_12
+    originalName: 
+    pivot: {x: 0.50427353, y: -5.305556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 488
+      y: 246
+      width: 234
+      height: 72
+    spriteID: 4f71e64b8f9bc234c92dd13244909cff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 488, y: 246}
+  - name: Zeus Clouds_Frame_13
+    originalName: 
+    pivot: {x: 0.50427353, y: -5.305556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 730
+      y: 246
+      width: 234
+      height: 72
+    spriteID: fa1e804b21501374381a0e21bc51a51a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 730, y: 246}
+  - name: Zeus Clouds_Frame_14
+    originalName: 
+    pivot: {x: 0.50427353, y: -5.305556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 326
+      width: 234
+      height: 72
+    spriteID: 9e0009319ebc66e47ba1c942197b982a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 326}
+  - name: Zeus Clouds_Frame_15
+    originalName: 
+    pivot: {x: 0.50427353, y: -5.305556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 246
+      y: 326
+      width: 234
+      height: 72
+    spriteID: f09295c3d08d1974caa3fa0b435a5c36
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 246, y: 326}
+  - name: Zeus Clouds_Frame_16
+    originalName: 
+    pivot: {x: 0.50427353, y: -5.305556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 488
+      y: 326
+      width: 234
+      height: 72
+    spriteID: d590593f3a160924db842ec8bd4b80d7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 488, y: 326}
+  - name: Zeus Clouds_Frame_17
+    originalName: 
+    pivot: {x: 0.50427353, y: -5.305556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 730
+      y: 326
+      width: 234
+      height: 72
+    spriteID: 768b959beeb8ee649993a1f34d12a3d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 730, y: 326}
+  - name: Zeus Clouds_Frame_18
+    originalName: 
+    pivot: {x: 0.50427353, y: -5.305556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 406
+      width: 234
+      height: 72
+    spriteID: b57b883ee5279dd4e96b33de086aa492
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 406}
+  - name: Zeus Clouds_Frame_19
+    originalName: 
+    pivot: {x: 0.50427353, y: -5.305556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 246
+      y: 406
+      width: 234
+      height: 72
+    spriteID: de9af709851e4c44e98a5c6b8aaa3247
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 246, y: 406}
+  - name: Zeus Clouds_Frame_20
+    originalName: 
+    pivot: {x: 0.50427353, y: -5.305556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 488
+      y: 406
+      width: 234
+      height: 72
+    spriteID: 48cf6673e8a0428448c7f50abeec7b51
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 488, y: 406}
+  - name: Zeus Clouds_Frame_21
+    originalName: 
+    pivot: {x: 0.50427353, y: -5.305556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 730
+      y: 406
+      width: 234
+      height: 72
+    spriteID: e743397d7ca99ef4f8f02e2cba2ed8e0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 730, y: 406}
+  - name: Zeus Clouds_Frame_22
+    originalName: 
+    pivot: {x: 0.50427353, y: -5.305556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 486
+      width: 234
+      height: 72
+    spriteID: 80730e6ce42d9394a88427ff00291701
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 486}
+  - name: Zeus Clouds_Frame_23
+    originalName: 
+    pivot: {x: 0.50427353, y: -5.305556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 246
+      y: 486
+      width: 234
+      height: 72
+    spriteID: af86a323951b3474487f6b5898bd258a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 246, y: 486}
+  - name: Zeus Clouds_Frame_24
+    originalName: 
+    pivot: {x: 0.50427353, y: -5.1621623}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 234
+      height: 74
+    spriteID: cea8699394ba97a40b31b6592bd100a2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Zeus Clouds_Frame_25
+    originalName: 
+    pivot: {x: 0.50427353, y: -5.1621623}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 246
+      y: 4
+      width: 234
+      height: 74
+    spriteID: b401b4ccfe58d0e4c9d3d35b897740aa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 246, y: 4}
+  - name: Zeus Clouds_Frame_26
+    originalName: 
+    pivot: {x: 0.50427353, y: -5.305556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 488
+      y: 486
+      width: 234
+      height: 72
+    spriteID: 9f6bf3c5b5b12964f86d66a1074c42f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 488, y: 486}
+  - name: Zeus Clouds_Frame_27
+    originalName: 
+    pivot: {x: 0.50427353, y: -5.305556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 730
+      y: 486
+      width: 234
+      height: 72
+    spriteID: 64e0c22f895a86c40aad9af63632aeee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 730, y: 486}
+  - name: Zeus Clouds_Frame_28
+    originalName: 
+    pivot: {x: 0.50427353, y: -5.305556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 566
+      width: 234
+      height: 72
+    spriteID: 87ee92f6626a9a94588ad1519be8b6c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 566}
+  - name: Zeus Clouds_Frame_29
+    originalName: 
+    pivot: {x: 0.50427353, y: -5.305556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 246
+      y: 566
+      width: 234
+      height: 72
+    spriteID: e84dbf61918ca204fae558892874ce55
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 246, y: 566}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    uuid:
+      value0: 2425406279
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: -1869561017
+    name: Zeus Clouds
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 382
+        width: 234
+        height: 72
+      spriteId: 0ba735c4bab41cf428ae5ae3175d2f28
+    - name: Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 382
+        width: 234
+        height: 72
+      spriteId: f41ae063314e8a142b398cc4858d5914
+    - name: Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 382
+        width: 234
+        height: 72
+      spriteId: 92a7c629a99974849b9496128ef1f91f
+    - name: Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 381
+        width: 234
+        height: 73
+      spriteId: b5fc421731a5ceb4ab3b302ef32bf841
+    - name: Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 381
+        width: 234
+        height: 73
+      spriteId: e5e385ac30731504785b4f491ddeae0a
+    - name: Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 382
+        width: 234
+        height: 72
+      spriteId: ad3a73bf39fbf5c49981bf3491aeb278
+    - name: Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 382
+        width: 234
+        height: 72
+      spriteId: 62a1e7daf2c528940990578ca4c440dd
+    - name: Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 382
+        width: 234
+        height: 72
+      spriteId: 01e1b1d74822a7d4ab46745ebeacd788
+    - name: Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 382
+        width: 234
+        height: 72
+      spriteId: 2bd512c0c98815043bdb90bd48e32690
+    - name: Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 382
+        width: 234
+        height: 72
+      spriteId: 76382e1b4009b264aad9c3aa6fc0ebc0
+    - name: Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 382
+        width: 234
+        height: 72
+      spriteId: e480014723c6ffd4cba660dd288b25b2
+    - name: Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 382
+        width: 234
+        height: 72
+      spriteId: b57bd7e40f782e84dbb316601ecc17a6
+    - name: Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 382
+        width: 234
+        height: 72
+      spriteId: 4f71e64b8f9bc234c92dd13244909cff
+    - name: Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 382
+        width: 234
+        height: 72
+      spriteId: fa1e804b21501374381a0e21bc51a51a
+    - name: Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 382
+        width: 234
+        height: 72
+      spriteId: 9e0009319ebc66e47ba1c942197b982a
+    - name: Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 382
+        width: 234
+        height: 72
+      spriteId: f09295c3d08d1974caa3fa0b435a5c36
+    - name: Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 382
+        width: 234
+        height: 72
+      spriteId: d590593f3a160924db842ec8bd4b80d7
+    - name: Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 382
+        width: 234
+        height: 72
+      spriteId: 768b959beeb8ee649993a1f34d12a3d5
+    - name: Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 382
+        width: 234
+        height: 72
+      spriteId: b57b883ee5279dd4e96b33de086aa492
+    - name: Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 382
+        width: 234
+        height: 72
+      spriteId: de9af709851e4c44e98a5c6b8aaa3247
+    - name: Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 382
+        width: 234
+        height: 72
+      spriteId: 48cf6673e8a0428448c7f50abeec7b51
+    - name: Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 382
+        width: 234
+        height: 72
+      spriteId: e743397d7ca99ef4f8f02e2cba2ed8e0
+    - name: Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 382
+        width: 234
+        height: 72
+      spriteId: 80730e6ce42d9394a88427ff00291701
+    - name: Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 382
+        width: 234
+        height: 72
+      spriteId: af86a323951b3474487f6b5898bd258a
+    - name: Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 382
+        width: 234
+        height: 74
+      spriteId: cea8699394ba97a40b31b6592bd100a2
+    - name: Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 382
+        width: 234
+        height: 74
+      spriteId: b401b4ccfe58d0e4c9d3d35b897740aa
+    - name: Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 382
+        width: 234
+        height: 72
+      spriteId: 9f6bf3c5b5b12964f86d66a1074c42f6
+    - name: Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 382
+        width: 234
+        height: 72
+      spriteId: 64e0c22f895a86c40aad9af63632aeee
+    - name: Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 382
+        width: 234
+        height: 72
+      spriteId: 87ee92f6626a9a94588ad1519be8b6c2
+    - name: Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 382
+        width: 234
+        height: 72
+      spriteId: e84dbf61918ca204fae558892874ce55
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 260, y: 494}
+  previousTextureSize: {x: 1024, y: 1024}

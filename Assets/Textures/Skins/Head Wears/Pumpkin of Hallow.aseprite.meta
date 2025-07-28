@@ -1,0 +1,4150 @@
+fileFormatVersion: 2
+guid: 6fa6c8458bfd83d44a50420e47852dde
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  importerVersion: 2
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638665293967809432
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Pumpkin of Hallow_Frame_0
+    originalName: 
+    pivot: {x: 0.31578943, y: 0.33333328}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 38
+      y: 166
+      width: 19
+      height: 18
+    spriteID: dbcca477f0bc4ec43ab00177393f7952
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 38, y: 166}
+  - name: Pumpkin of Hallow_Frame_1
+    originalName: 
+    pivot: {x: 0.31578943, y: 0.33333328}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 38
+      y: 192
+      width: 19
+      height: 18
+    spriteID: 3c7f09ad19fb30a4fa78a74d6277f5d3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 38, y: 192}
+  - name: Pumpkin of Hallow_Frame_2
+    originalName: 
+    pivot: {x: 0.31578943, y: 0.33333328}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 38
+      y: 218
+      width: 19
+      height: 18
+    spriteID: 6371907ce5eb7dc4289b8d052745b917
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 38, y: 218}
+  - name: Pumpkin of Hallow_Frame_3
+    originalName: 
+    pivot: {x: 0.31578943, y: 0.33333328}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 38
+      y: 244
+      width: 19
+      height: 18
+    spriteID: 3d8bb4022f0247b43a3420f562d8f1dc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 38, y: 244}
+  - name: Pumpkin of Hallow_Frame_4
+    originalName: 
+    pivot: {x: 0.31578943, y: 0.2777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 38
+      y: 270
+      width: 19
+      height: 18
+    spriteID: aece0b23ea59ad649ae0bf054cd45974
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 38, y: 270}
+  - name: Pumpkin of Hallow_Frame_5
+    originalName: 
+    pivot: {x: 0.2777778, y: 0.2777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 30
+      width: 18
+      height: 18
+    spriteID: ced5ab317f85a0a4b906875883a08213
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 30}
+  - name: Pumpkin of Hallow_Frame_6
+    originalName: 
+    pivot: {x: 0.31578943, y: 0.33333328}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 38
+      y: 296
+      width: 19
+      height: 18
+    spriteID: 582d5fe2e429bfa4ea63b4394854c2c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 38, y: 296}
+  - name: Pumpkin of Hallow_Frame_7
+    originalName: 
+    pivot: {x: 0.31578943, y: 0.33333328}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 38
+      y: 322
+      width: 19
+      height: 18
+    spriteID: 577b773856fa5004789d2313914b522f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 38, y: 322}
+  - name: Pumpkin of Hallow_Frame_8
+    originalName: 
+    pivot: {x: 0.31578943, y: 0.33333328}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 38
+      y: 348
+      width: 19
+      height: 18
+    spriteID: 814b583104644514d95bcc4e7e92f920
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 38, y: 348}
+  - name: Pumpkin of Hallow_Frame_9
+    originalName: 
+    pivot: {x: 0.31578943, y: 0.33333328}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 38
+      y: 374
+      width: 19
+      height: 18
+    spriteID: 7bebd31bfe67fa44198ab969850cfec2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 38, y: 374}
+  - name: Pumpkin of Hallow_Frame_10
+    originalName: 
+    pivot: {x: 0.31578943, y: 0.2777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 38
+      y: 400
+      width: 19
+      height: 18
+    spriteID: a9f9dec5bb06cc74381c9960ad8837c0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 38, y: 400}
+  - name: Pumpkin of Hallow_Frame_11
+    originalName: 
+    pivot: {x: 0.2777778, y: 0.2777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 56
+      width: 18
+      height: 18
+    spriteID: b2f779334ae75ff4fa89aec323e94c29
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 56}
+  - name: Pumpkin of Hallow_Frame_12
+    originalName: 
+    pivot: {x: 0.31578943, y: 0.33333328}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 38
+      y: 426
+      width: 19
+      height: 18
+    spriteID: 1e0cc8e586cc8cd4e9393aa163d02906
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 38, y: 426}
+  - name: Pumpkin of Hallow_Frame_13
+    originalName: 
+    pivot: {x: 0.31578943, y: 0.33333328}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 38
+      y: 452
+      width: 19
+      height: 18
+    spriteID: 8ef81b900e31bc545a2404a7881e55a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 38, y: 452}
+  - name: Pumpkin of Hallow_Frame_14
+    originalName: 
+    pivot: {x: 0.31578943, y: 0.33333328}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 38
+      y: 478
+      width: 19
+      height: 18
+    spriteID: 6321880a528ed1142be3a5500b6d8192
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 38, y: 478}
+  - name: Pumpkin of Hallow_Frame_15
+    originalName: 
+    pivot: {x: 0.31578943, y: 0.2777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 30
+      width: 19
+      height: 18
+    spriteID: fa3029bcfc5d39a40a0c3fcda214e5a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 30}
+  - name: Pumpkin of Hallow_Frame_16
+    originalName: 
+    pivot: {x: 0.2777778, y: 0.2777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 82
+      width: 18
+      height: 18
+    spriteID: 1bd1185f96484fb4eafabff943372eb7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 82}
+  - name: Pumpkin of Hallow_Frame_17
+    originalName: 
+    pivot: {x: 0.2777778, y: 0.2777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 108
+      width: 18
+      height: 18
+    spriteID: 8a404d24ff54e8040a59f0a5ce1e43c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 108}
+  - name: Pumpkin of Hallow_Frame_18
+    originalName: 
+    pivot: {x: -0.35714287, y: 1.0555557}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 73
+      width: 14
+      height: 18
+    spriteID: 550f5c4858e92f6439e0bc8a1d75c67d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 176, y: 73}
+  - name: Pumpkin of Hallow_Frame_19
+    originalName: 
+    pivot: {x: -0.35714287, y: 1.0555557}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 99
+      width: 14
+      height: 18
+    spriteID: 16bfb758f924f594aaa10dbc626c3310
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 176, y: 99}
+  - name: Pumpkin of Hallow_Frame_20
+    originalName: 
+    pivot: {x: -0.35714287, y: 1.0555557}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 125
+      width: 14
+      height: 18
+    spriteID: f5e52c448c1a1c24e8acf8137d06302b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 176, y: 125}
+  - name: Pumpkin of Hallow_Frame_21
+    originalName: 
+    pivot: {x: -0.35714287, y: 1.0555557}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 151
+      width: 14
+      height: 18
+    spriteID: ad1e27a037e953d4d83ceca4b77321e4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 176, y: 151}
+  - name: Pumpkin of Hallow_Frame_22
+    originalName: 
+    pivot: {x: -0.35714287, y: 1.0555557}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 177
+      width: 14
+      height: 18
+    spriteID: 87dd8355d129a804da1914eb35c95122
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 176, y: 177}
+  - name: Pumpkin of Hallow_Frame_23
+    originalName: 
+    pivot: {x: -0.35714287, y: 1.0555557}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 203
+      width: 14
+      height: 18
+    spriteID: 6ffc367ef20b15941aadef5c0f994c11
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 176, y: 203}
+  - name: Pumpkin of Hallow_Frame_24
+    originalName: 
+    pivot: {x: -0.35714287, y: 1.0555557}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 229
+      width: 14
+      height: 18
+    spriteID: 8755144661f11994096d959d8e7664dc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 176, y: 229}
+  - name: Pumpkin of Hallow_Frame_25
+    originalName: 
+    pivot: {x: -0.35714287, y: 1.0555557}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 255
+      width: 14
+      height: 18
+    spriteID: 65d0fa13a4dc0b24fa6f3d7a9b1eed9a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 176, y: 255}
+  - name: Pumpkin of Hallow_Frame_26
+    originalName: 
+    pivot: {x: -0.35714287, y: 1.0555557}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 281
+      width: 14
+      height: 18
+    spriteID: 548243ef4e34ee74dba421c0647fffe7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 176, y: 281}
+  - name: Pumpkin of Hallow_Frame_27
+    originalName: 
+    pivot: {x: -0.35714287, y: 1.0555557}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 307
+      width: 14
+      height: 18
+    spriteID: 2be1506c65bbe9b4a958c5eebc5c8e9c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 176, y: 307}
+  - name: Pumpkin of Hallow_Frame_28
+    originalName: 
+    pivot: {x: -0.35714287, y: 1.0555557}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 333
+      width: 14
+      height: 18
+    spriteID: 3c95528584fe87c469c8e1d7bc82837f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 176, y: 333}
+  - name: Pumpkin of Hallow_Frame_29
+    originalName: 
+    pivot: {x: -0.35714287, y: 1.0555557}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 359
+      width: 14
+      height: 18
+    spriteID: e762a47ddd9c13c4cb0ce1b436e8dea7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 176, y: 359}
+  - name: Pumpkin of Hallow_Frame_30
+    originalName: 
+    pivot: {x: 1.0526316, y: 0.94736844}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 83
+      width: 19
+      height: 19
+    spriteID: 78c0b5eb5eac61745ad9380b433c0935
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 83}
+  - name: Pumpkin of Hallow_Frame_31
+    originalName: 
+    pivot: {x: 1.0526316, y: 0.94736844}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 110
+      width: 19
+      height: 19
+    spriteID: 20ba87b8f0aad034489c12bb79d01e0e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 110}
+  - name: Pumpkin of Hallow_Frame_32
+    originalName: 
+    pivot: {x: 1.0526316, y: 0.94736844}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 137
+      width: 19
+      height: 19
+    spriteID: 9fbb74b2dacf3e6429675727b0fabdf9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 137}
+  - name: Pumpkin of Hallow_Frame_33
+    originalName: 
+    pivot: {x: 1.0526316, y: 0.94736844}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 164
+      width: 19
+      height: 19
+    spriteID: a0083261475b2d743817ac8f5a948f80
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 164}
+  - name: Pumpkin of Hallow_Frame_34
+    originalName: 
+    pivot: {x: 1.0526316, y: 0.94736844}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 191
+      width: 19
+      height: 19
+    spriteID: 4efec22695d905e4c8d6d3fa00249fdb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 191}
+  - name: Pumpkin of Hallow_Frame_35
+    originalName: 
+    pivot: {x: 1.0526316, y: 0.94736844}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 218
+      width: 19
+      height: 19
+    spriteID: 73fab4eb0a99f8347b2aabe4ce20b6a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 218}
+  - name: Pumpkin of Hallow_Frame_36
+    originalName: 
+    pivot: {x: 1.0526316, y: 0.94736844}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 245
+      width: 19
+      height: 19
+    spriteID: a1e2164fe0e61f14d8fc04ccda3c91fa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 245}
+  - name: Pumpkin of Hallow_Frame_37
+    originalName: 
+    pivot: {x: 1.0526316, y: 0.94736844}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 272
+      width: 19
+      height: 19
+    spriteID: 0665c7d21f5993f4881f153d44c6f832
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 272}
+  - name: Pumpkin of Hallow_Frame_38
+    originalName: 
+    pivot: {x: 1.0526316, y: 0.94736844}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 299
+      width: 19
+      height: 19
+    spriteID: 6f99aef0cfc9f2a4099caeab7ceea4b1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 299}
+  - name: Pumpkin of Hallow_Frame_39
+    originalName: 
+    pivot: {x: 1.0526316, y: 0.94736844}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 326
+      width: 19
+      height: 19
+    spriteID: f45484635c575d842b23b987d09a581c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 326}
+  - name: Pumpkin of Hallow_Frame_40
+    originalName: 
+    pivot: {x: 1.0526316, y: 0.94736844}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 353
+      width: 19
+      height: 19
+    spriteID: 6a64b30a386628646a38f2c6cbad0998
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 353}
+  - name: Pumpkin of Hallow_Frame_41
+    originalName: 
+    pivot: {x: 1.0526316, y: 0.94736844}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 380
+      width: 19
+      height: 19
+    spriteID: 2e1a25288d025514f8d62429512c7f64
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 380}
+  - name: Pumpkin of Hallow_Frame_42
+    originalName: 
+    pivot: {x: 0.47368428, y: 0.39999995}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 320
+      width: 19
+      height: 15
+    spriteID: 3f6da732f184b874682f548ffe2273cb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 320}
+  - name: Pumpkin of Hallow_Frame_43
+    originalName: 
+    pivot: {x: 0.47368428, y: 0.39999995}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 343
+      width: 19
+      height: 15
+    spriteID: ae6659ea47d295d41a5630200ec12bbc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 343}
+  - name: Pumpkin of Hallow_Frame_44
+    originalName: 
+    pivot: {x: 0.47368428, y: 0.39999995}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 366
+      width: 19
+      height: 15
+    spriteID: 102bff707bf65504db6be1b9e7c3d620
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 366}
+  - name: Pumpkin of Hallow_Frame_45
+    originalName: 
+    pivot: {x: 0.47368428, y: 0.39999995}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 389
+      width: 19
+      height: 15
+    spriteID: 80f923f8b9df00d4cb077fbef706d7eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 389}
+  - name: Pumpkin of Hallow_Frame_46
+    originalName: 
+    pivot: {x: 0.47368428, y: 0.39999995}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 412
+      width: 19
+      height: 15
+    spriteID: a9ca964577200f04f9c0eff15afb3529
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 412}
+  - name: Pumpkin of Hallow_Frame_47
+    originalName: 
+    pivot: {x: 0.47368428, y: 0.39999995}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 435
+      width: 19
+      height: 15
+    spriteID: e390e4e4a2c0a24439582447483122de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 435}
+  - name: Pumpkin of Hallow_Frame_48
+    originalName: 
+    pivot: {x: 0.47368428, y: 0.39999995}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 458
+      width: 19
+      height: 15
+    spriteID: f094bf822816f7c4b9a8adda7e6931b5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 458}
+  - name: Pumpkin of Hallow_Frame_49
+    originalName: 
+    pivot: {x: 0.47368428, y: 0.39999995}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 481
+      width: 19
+      height: 15
+    spriteID: f041a06b283d5b640aa3120300a736e6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 481}
+  - name: Pumpkin of Hallow_Frame_50
+    originalName: 
+    pivot: {x: 0.47368428, y: 0.39999995}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 27
+      width: 19
+      height: 15
+    spriteID: cb7b93b88fb02064186e943ee1fbc677
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 27}
+  - name: Pumpkin of Hallow_Frame_51
+    originalName: 
+    pivot: {x: 0.47368428, y: 0.39999995}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 50
+      width: 19
+      height: 15
+    spriteID: cad0da4e37b5ab5488c8d952ecf12853
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 50}
+  - name: Pumpkin of Hallow_Frame_52
+    originalName: 
+    pivot: {x: 0.47368428, y: 0.39999995}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 73
+      width: 19
+      height: 15
+    spriteID: f9083e95cc90590429dd409848452010
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 73}
+  - name: Pumpkin of Hallow_Frame_53
+    originalName: 
+    pivot: {x: 0.47368428, y: 0.39999995}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 96
+      width: 19
+      height: 15
+    spriteID: 5993d1121aa030948943c7d4fc6904b8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 96}
+  - name: Pumpkin of Hallow_Frame_54
+    originalName: 
+    pivot: {x: 0.47368428, y: 0.39999995}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 119
+      width: 19
+      height: 15
+    spriteID: a59f990a4f12ad7408d3ac001b6d18a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 119}
+  - name: Pumpkin of Hallow_Frame_55
+    originalName: 
+    pivot: {x: 0.47368428, y: 0.39999995}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 142
+      width: 19
+      height: 15
+    spriteID: 1226131e9d03ba54793033aab56e4faf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 142}
+  - name: Pumpkin of Hallow_Frame_56
+    originalName: 
+    pivot: {x: 0.47368428, y: 0.39999995}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 165
+      width: 19
+      height: 15
+    spriteID: eba27c825390ca741af0b722a040c384
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 165}
+  - name: Pumpkin of Hallow_Frame_57
+    originalName: 
+    pivot: {x: 0.42857146, y: 0.39999995}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 4
+      width: 21
+      height: 15
+    spriteID: 40a6ad9fed97dfc4dac7d18898dbb5f5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 4}
+  - name: Pumpkin of Hallow_Frame_58
+    originalName: 
+    pivot: {x: 0.39130437, y: 0.37499994}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 59
+      width: 23
+      height: 16
+    spriteID: 32bbfbe2001af8a488579dc2e671b71e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 59}
+  - name: Pumpkin of Hallow_Frame_59
+    originalName: 
+    pivot: {x: 0.39130437, y: 0.33333328}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 33
+      width: 23
+      height: 18
+    spriteID: f3864916567dccb4a9cf7d6c309e25b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 33}
+  - name: Pumpkin of Hallow_Frame_60
+    originalName: 
+    pivot: {x: 0.3846154, y: 0.28571424}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 26
+      height: 21
+    spriteID: b2cb02125cd855e4599bc5a5400dd8c8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Pumpkin of Hallow_Frame_61
+    originalName: 
+    pivot: {x: 0.5263158, y: 0.39999995}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 188
+      width: 19
+      height: 15
+    spriteID: 706a381573cb9304ebf175f9354a98c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 188}
+  - name: Pumpkin of Hallow_Frame_62
+    originalName: 
+    pivot: {x: 0.055555504, y: -0.46666655}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 27
+      width: 18
+      height: 15
+    spriteID: 6ab17d73445f7f340af3f427025313c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 27}
+  - name: Pumpkin of Hallow_Frame_63
+    originalName: 
+    pivot: {x: 0.055555504, y: -0.46666655}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 50
+      width: 18
+      height: 15
+    spriteID: 693718a85bbc8ad4b9f07bf6ce88d773
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 50}
+  - name: Pumpkin of Hallow_Frame_64
+    originalName: 
+    pivot: {x: 0.055555504, y: -0.46666655}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 73
+      width: 18
+      height: 15
+    spriteID: beb01c66392f0284cb223d800f26cd65
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 73}
+  - name: Pumpkin of Hallow_Frame_65
+    originalName: 
+    pivot: {x: 0.055555504, y: -0.46666655}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 96
+      width: 18
+      height: 15
+    spriteID: 35b310e3ea6c9654391a9377447f4763
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 96}
+  - name: Pumpkin of Hallow_Frame_66
+    originalName: 
+    pivot: {x: 0.055555504, y: -0.46666655}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 119
+      width: 18
+      height: 15
+    spriteID: d68460ce0b043864890cef74ae98a435
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 119}
+  - name: Pumpkin of Hallow_Frame_67
+    originalName: 
+    pivot: {x: 0.055555504, y: -0.46666655}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 142
+      width: 18
+      height: 15
+    spriteID: f4f4d6beb84872e49b3d2bbff71be660
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 142}
+  - name: Pumpkin of Hallow_Frame_68
+    originalName: 
+    pivot: {x: 0.631579, y: 0.2777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 56
+      width: 19
+      height: 18
+    spriteID: 84646b6532c964548a1836f73eedb55f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 56}
+  - name: Pumpkin of Hallow_Frame_69
+    originalName: 
+    pivot: {x: 0.631579, y: 0.33333328}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 82
+      width: 19
+      height: 18
+    spriteID: d16938b34dd02ea43925ac021fd9ede5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 82}
+  - name: Pumpkin of Hallow_Frame_70
+    originalName: 
+    pivot: {x: 0.631579, y: 0.33333328}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 108
+      width: 19
+      height: 18
+    spriteID: d33d156a891ef504fb300a2ebeb0260d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 108}
+  - name: Pumpkin of Hallow_Frame_71
+    originalName: 
+    pivot: {x: 0.631579, y: 0.33333328}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 134
+      width: 19
+      height: 18
+    spriteID: 9e8ac828c9e915b43bc1b9d0a72307d8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 134}
+  - name: Pumpkin of Hallow_Frame_72
+    originalName: 
+    pivot: {x: 0.631579, y: 0.33333328}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 160
+      width: 19
+      height: 18
+    spriteID: 734e0efc239cc8e4d96171f6e9f47cf7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 160}
+  - name: Pumpkin of Hallow_Frame_73
+    originalName: 
+    pivot: {x: 0.631579, y: 0.2777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 186
+      width: 19
+      height: 18
+    spriteID: 4bae1f9943f26004fac504ff9543743b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 186}
+  - name: Pumpkin of Hallow_Frame_74
+    originalName: 
+    pivot: {x: 0.68421054, y: 0.33333328}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 212
+      width: 19
+      height: 18
+    spriteID: 4acc70d24ef2da642bbd8068d0f6e0be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 212}
+  - name: Pumpkin of Hallow_Frame_75
+    originalName: 
+    pivot: {x: 0.68421054, y: 0.2777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 238
+      width: 19
+      height: 18
+    spriteID: 97f53ba96eebdb74aab8e18de13b1758
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 238}
+  - name: Pumpkin of Hallow_Frame_76
+    originalName: 
+    pivot: {x: 0.73684216, y: 0.36842108}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 407
+      width: 19
+      height: 19
+    spriteID: 253074a2030fe3043bce339f14e7a9ef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 407}
+  - name: Pumpkin of Hallow_Frame_77
+    originalName: 
+    pivot: {x: 0.68421054, y: 0.38888893}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 264
+      width: 19
+      height: 18
+    spriteID: 588a922ab9a253947b2f72c91702bf2c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 264}
+  - name: Pumpkin of Hallow_Frame_78
+    originalName: 
+    pivot: {x: 0.631579, y: 0.33333328}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 290
+      width: 19
+      height: 18
+    spriteID: 28a7907142779e0478288e5c250eac96
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 290}
+  - name: Pumpkin of Hallow_Frame_79
+    originalName: 
+    pivot: {x: 0.68421054, y: 0.33333328}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 316
+      width: 19
+      height: 18
+    spriteID: 0ff8a5fed8d6bb44baf540bc54e11366
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 316}
+  - name: Pumpkin of Hallow_Frame_80
+    originalName: 
+    pivot: {x: 0.68421054, y: 0.44444445}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 342
+      width: 19
+      height: 18
+    spriteID: 2af1cb20bc7af84488f9b8010385b9b4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 342}
+  - name: Pumpkin of Hallow_Frame_81
+    originalName: 
+    pivot: {x: 0.68421054, y: 0.38888893}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 368
+      width: 19
+      height: 18
+    spriteID: 32e628d4f86724940be5afce50919e17
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 368}
+  - name: Pumpkin of Hallow_Frame_82
+    originalName: 
+    pivot: {x: 0.73684216, y: 0.33333328}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 394
+      width: 19
+      height: 18
+    spriteID: 074fad40d3613a344b100d5a0b461666
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 394}
+  - name: Pumpkin of Hallow_Frame_83
+    originalName: 
+    pivot: {x: 0.68421054, y: 0.2777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 420
+      width: 19
+      height: 18
+    spriteID: e64fc4f43ef0f404d957f03c88eb7661
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 420}
+  - name: Pumpkin of Hallow_Frame_84
+    originalName: 
+    pivot: {x: 0.68421054, y: 0.2777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 446
+      width: 19
+      height: 18
+    spriteID: 49f509dd395b63c4d92554647c9319b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 446}
+  - name: Pumpkin of Hallow_Frame_85
+    originalName: 
+    pivot: {x: 0.68421054, y: 0.44444445}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 472
+      width: 19
+      height: 18
+    spriteID: c395e3fd536381b4aad37671969f984f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 472}
+  - name: Pumpkin of Hallow_Frame_86
+    originalName: 
+    pivot: {x: 0.7894737, y: 0.5555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 4
+      width: 19
+      height: 18
+    spriteID: 324c5b04209146d4d8a1e054bdb5f9ce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 4}
+  - name: Pumpkin of Hallow_Frame_87
+    originalName: 
+    pivot: {x: 0.6, y: 0.38888893}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 4
+      width: 20
+      height: 18
+    spriteID: 84ff01ff66e895c42b45eb003e647782
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 4}
+  - name: Pumpkin of Hallow_Frame_88
+    originalName: 
+    pivot: {x: 0.631579, y: 0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 211
+      width: 19
+      height: 15
+    spriteID: feb744f8d6e92ac4986e05b862801c76
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 211}
+  - name: Pumpkin of Hallow_Frame_89
+    originalName: 
+    pivot: {x: -0.11111101, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 165
+      width: 18
+      height: 15
+    spriteID: 2fac66bcb8d3e8545b13f05ad7f41626
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 165}
+  - name: Pumpkin of Hallow_Frame_90
+    originalName: 
+    pivot: {x: -0.11111101, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 188
+      width: 18
+      height: 15
+    spriteID: ae5365308e663c842a0c0e2db3bd0166
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 188}
+  - name: Pumpkin of Hallow_Frame_91
+    originalName: 
+    pivot: {x: -0.11111101, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 211
+      width: 18
+      height: 15
+    spriteID: ac0a57dcb6898ea4ca6b254789990706
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 211}
+  - name: Pumpkin of Hallow_Frame_92
+    originalName: 
+    pivot: {x: -0.11111101, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 234
+      width: 18
+      height: 15
+    spriteID: ba92b6d869001ae468ad6ebbc84445a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 234}
+  - name: Pumpkin of Hallow_Frame_93
+    originalName: 
+    pivot: {x: 0.5555556, y: 0.0666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 257
+      width: 18
+      height: 15
+    spriteID: fd9d57bd4e5e5e546bbb369207cc478f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 257}
+  - name: Pumpkin of Hallow_Frame_94
+    originalName: 
+    pivot: {x: 0.5555556, y: 0.0666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 280
+      width: 18
+      height: 15
+    spriteID: 4659387d715c6b446a474efae8a60683
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 280}
+  - name: Pumpkin of Hallow_Frame_95
+    originalName: 
+    pivot: {x: 0.5555556, y: 0.0666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 303
+      width: 18
+      height: 15
+    spriteID: ce83a8bd6259042498e6cfb02043f4f9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 303}
+  - name: Pumpkin of Hallow_Frame_96
+    originalName: 
+    pivot: {x: 0.5555556, y: 0.0666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 326
+      width: 18
+      height: 15
+    spriteID: 2d408288939b6464cb82942ecc0a79ac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 326}
+  - name: Pumpkin of Hallow_Frame_97
+    originalName: 
+    pivot: {x: 0.5555556, y: 0.0666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 349
+      width: 18
+      height: 15
+    spriteID: 8477ad1aa76f4974abdbf241aec6a737
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 349}
+  - name: Pumpkin of Hallow_Frame_98
+    originalName: 
+    pivot: {x: 0.5555556, y: 0.0666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 372
+      width: 18
+      height: 15
+    spriteID: b6b2b7d5a08ed54489ea7ae439382d31
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 372}
+  - name: Pumpkin of Hallow_Frame_99
+    originalName: 
+    pivot: {x: 0.5555556, y: 0.0666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 395
+      width: 18
+      height: 15
+    spriteID: 7b34394769d9cd94194b63b543827c2b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 395}
+  - name: Pumpkin of Hallow_Frame_100
+    originalName: 
+    pivot: {x: 0.5555556, y: 0.0666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 418
+      width: 18
+      height: 15
+    spriteID: d27e36a743ecbad4eb1b40034ada60bb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 418}
+  - name: Pumpkin of Hallow_Frame_101
+    originalName: 
+    pivot: {x: 0.5555556, y: 0.0666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 441
+      width: 18
+      height: 15
+    spriteID: ab77faab6e3fefc46bf345ef5bab3fc5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 441}
+  - name: Pumpkin of Hallow_Frame_102
+    originalName: 
+    pivot: {x: 0.5555556, y: 0.0666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 464
+      width: 18
+      height: 15
+    spriteID: 55de4ff325180654ba77627d9e865158
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 464}
+  - name: Pumpkin of Hallow_Frame_103
+    originalName: 
+    pivot: {x: 0.5555556, y: 0.0666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 487
+      width: 18
+      height: 15
+    spriteID: def3e19cf91bad44dbc3901c0a1b11fd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 487}
+  - name: Pumpkin of Hallow_Frame_104
+    originalName: 
+    pivot: {x: 0.5555556, y: 0.0666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 4
+      width: 18
+      height: 15
+    spriteID: 839bc6a49d2cf9c4ea3291888f977c9d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 176, y: 4}
+  - name: Pumpkin of Hallow_Frame_105
+    originalName: 
+    pivot: {x: 0.36842108, y: 0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 234
+      width: 19
+      height: 15
+    spriteID: 3720854ccf4d76a47b52972bbbce5654
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 234}
+  - name: Pumpkin of Hallow_Frame_106
+    originalName: 
+    pivot: {x: 0.2631579, y: 0.5333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 257
+      width: 19
+      height: 15
+    spriteID: 483bafa407510344c95f34b8545515ae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 257}
+  - name: Pumpkin of Hallow_Frame_107
+    originalName: 
+    pivot: {x: 0.2631579, y: 0.5333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 280
+      width: 19
+      height: 15
+    spriteID: 105a6d022d126874e9fb9ea69d9defd1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 280}
+  - name: Pumpkin of Hallow_Frame_108
+    originalName: 
+    pivot: {x: 0.17647056, y: 0.5333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 27
+      width: 17
+      height: 15
+    spriteID: 2efab7d9c10f48e43b3ada8ebe5b4a87
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 176, y: 27}
+  - name: Pumpkin of Hallow_Frame_109
+    originalName: 
+    pivot: {x: 0.17647056, y: 0.5333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 50
+      width: 17
+      height: 15
+    spriteID: e7f62944a8bc31646b80bfdb830fc597
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 176, y: 50}
+  - name: Pumpkin of Hallow_Frame_110
+    originalName: 
+    pivot: {x: 0.36842108, y: 0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 303
+      width: 19
+      height: 15
+    spriteID: c630a9ad43b0de847a5d02be2bf64c0a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 303}
+  - name: Pumpkin of Hallow_Frame_111
+    originalName: 
+    pivot: {x: 0.2631579, y: 0.5333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 326
+      width: 19
+      height: 15
+    spriteID: a6999303672b85846aa8c72870cda395
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 326}
+  - name: Pumpkin of Hallow_Frame_112
+    originalName: 
+    pivot: {x: 0.2631579, y: 0.5333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 349
+      width: 19
+      height: 15
+    spriteID: 20ee51f8d19582b4cad0254a218f9b8d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 349}
+  - name: Pumpkin of Hallow_Frame_113
+    originalName: 
+    pivot: {x: 0.2631579, y: 0.5333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 372
+      width: 19
+      height: 15
+    spriteID: 541b0e56ac5a26f4eac3f9930f65eac1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 372}
+  - name: Pumpkin of Hallow_Frame_114
+    originalName: 
+    pivot: {x: 0.2631579, y: 0.5333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 395
+      width: 19
+      height: 15
+    spriteID: f978b4575a3bbc543a0bd1b653977670
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 395}
+  - name: Pumpkin of Hallow_Frame_115
+    originalName: 
+    pivot: {x: 0.36842108, y: 0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 418
+      width: 19
+      height: 15
+    spriteID: 35f553d1ad33c6e4ab855c2105cce5b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 418}
+  - name: Pumpkin of Hallow_Frame_116
+    originalName: 
+    pivot: {x: 0.2631579, y: 0.5333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 441
+      width: 19
+      height: 15
+    spriteID: 38e4afe54518713499fc848090453a0f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 441}
+  - name: Pumpkin of Hallow_Frame_117
+    originalName: 
+    pivot: {x: 0.2631579, y: 0.5333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 464
+      width: 19
+      height: 15
+    spriteID: 52c3cd4b5d9ecfd49a071246562d20f3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 464}
+  - name: Pumpkin of Hallow_Frame_118
+    originalName: 
+    pivot: {x: 0.2631579, y: 0.5333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 487
+      width: 19
+      height: 15
+    spriteID: dfb1e0eecfd731d4d9ce106a09e274e3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 487}
+  - name: Pumpkin of Hallow_Frame_119
+    originalName: 
+    pivot: {x: 0.2631579, y: 0.5333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 4
+      width: 19
+      height: 15
+    spriteID: 34bc8e97f6379a44f978b2ac7de82f52
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 4}
+  - name: Pumpkin of Hallow_Frame_120
+    originalName: 
+    pivot: {x: 0.2777778, y: 0.2777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 134
+      width: 18
+      height: 18
+    spriteID: bf718be3246e51648a7d84f0c16bd336
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 134}
+  - name: Pumpkin of Hallow_Frame_121
+    originalName: 
+    pivot: {x: 0.2777778, y: 0.2777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 160
+      width: 18
+      height: 18
+    spriteID: e673fd119ab9b714e97e636d51bdeb50
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 160}
+  - name: Pumpkin of Hallow_Frame_122
+    originalName: 
+    pivot: {x: 0.2777778, y: 0.2777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 186
+      width: 18
+      height: 18
+    spriteID: 6bbbbcdec31a7234386963c6ada5664b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 186}
+  - name: Pumpkin of Hallow_Frame_123
+    originalName: 
+    pivot: {x: 0.7894737, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 434
+      width: 19
+      height: 19
+    spriteID: 510721f68e172984c9c3df69ca18b2f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 434}
+  - name: Pumpkin of Hallow_Frame_124
+    originalName: 
+    pivot: {x: 0.94736844, y: 0.05263153}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 461
+      width: 19
+      height: 19
+    spriteID: fb2d14388dbfc8141bc2ca59c35866a8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 461}
+  - name: Pumpkin of Hallow_Frame_125
+    originalName: 
+    pivot: {x: 1.1875, y: 0.31578943}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 212
+      width: 16
+      height: 19
+    spriteID: 00ed14feccfa14e4a8e7c69a84114b2e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 212}
+  - name: Pumpkin of Hallow_Frame_126
+    originalName: 
+    pivot: {x: 1.2105263, y: 0.73684216}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 488
+      width: 19
+      height: 19
+    spriteID: f979ca22725d9d1499ff7290ad337d67
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 488}
+  - name: Pumpkin of Hallow_Frame_127
+    originalName: 
+    pivot: {x: 0.7894737, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 38
+      y: 4
+      width: 19
+      height: 19
+    spriteID: 75114101204db994298274a153f914e8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 38, y: 4}
+  - name: Pumpkin of Hallow_Frame_128
+    originalName: 
+    pivot: {x: 1.1875, y: 0.31578943}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 239
+      width: 16
+      height: 19
+    spriteID: 4e187905bdf9af2408c534eeb4943062
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 239}
+  - name: Pumpkin of Hallow_Frame_129
+    originalName: 
+    pivot: {x: 1.2105263, y: 0.73684216}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 38
+      y: 31
+      width: 19
+      height: 19
+    spriteID: ba4883683e8410447b742ca04421f235
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 38, y: 31}
+  - name: Pumpkin of Hallow_Frame_130
+    originalName: 
+    pivot: {x: 0.7894737, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 38
+      y: 58
+      width: 19
+      height: 19
+    spriteID: 592be267d91db074db97d790d41884f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 38, y: 58}
+  - name: Pumpkin of Hallow_Frame_131
+    originalName: 
+    pivot: {x: 1.1875, y: 0.31578943}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 266
+      width: 16
+      height: 19
+    spriteID: b8945dcb8b374a34396e3b1204ac4a06
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 266}
+  - name: Pumpkin of Hallow_Frame_132
+    originalName: 
+    pivot: {x: 1.2105263, y: 0.73684216}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 38
+      y: 85
+      width: 19
+      height: 19
+    spriteID: 3b71bd51a8abb464789cbfbef278cdb8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 38, y: 85}
+  - name: Pumpkin of Hallow_Frame_133
+    originalName: 
+    pivot: {x: 0.7894737, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 38
+      y: 112
+      width: 19
+      height: 19
+    spriteID: 56b08a85ae4c643468f8ef1843da1845
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 38, y: 112}
+  - name: Pumpkin of Hallow_Frame_134
+    originalName: 
+    pivot: {x: 1.1875, y: 0.31578943}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 293
+      width: 16
+      height: 19
+    spriteID: 56e727c9f6cead84fb6b683a7ef170f4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 293}
+  - name: Pumpkin of Hallow_Frame_135
+    originalName: 
+    pivot: {x: 1.2105263, y: 0.73684216}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 38
+      y: 139
+      width: 19
+      height: 19
+    spriteID: cd1043711eaf97f42b08a941e5c144b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 38, y: 139}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    uuid:
+      value0: 1397237948
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: 1397237948
+    name: Pumpkin of Hallow
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 34
+        y: 34
+        width: 19
+        height: 18
+      spriteId: dbcca477f0bc4ec43ab00177393f7952
+    - name: Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 34
+        y: 34
+        width: 19
+        height: 18
+      spriteId: 3c7f09ad19fb30a4fa78a74d6277f5d3
+    - name: Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 34
+        y: 34
+        width: 19
+        height: 18
+      spriteId: 6371907ce5eb7dc4289b8d052745b917
+    - name: Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 34
+        y: 34
+        width: 19
+        height: 18
+      spriteId: 3d8bb4022f0247b43a3420f562d8f1dc
+    - name: Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 34
+        y: 35
+        width: 19
+        height: 18
+      spriteId: aece0b23ea59ad649ae0bf054cd45974
+    - name: Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 35
+        y: 35
+        width: 18
+        height: 18
+      spriteId: ced5ab317f85a0a4b906875883a08213
+    - name: Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 34
+        y: 34
+        width: 19
+        height: 18
+      spriteId: 582d5fe2e429bfa4ea63b4394854c2c2
+    - name: Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 34
+        y: 34
+        width: 19
+        height: 18
+      spriteId: 577b773856fa5004789d2313914b522f
+    - name: Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 34
+        y: 34
+        width: 19
+        height: 18
+      spriteId: 814b583104644514d95bcc4e7e92f920
+    - name: Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 34
+        y: 34
+        width: 19
+        height: 18
+      spriteId: 7bebd31bfe67fa44198ab969850cfec2
+    - name: Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 34
+        y: 35
+        width: 19
+        height: 18
+      spriteId: a9f9dec5bb06cc74381c9960ad8837c0
+    - name: Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 35
+        y: 35
+        width: 18
+        height: 18
+      spriteId: b2f779334ae75ff4fa89aec323e94c29
+    - name: Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 34
+        y: 34
+        width: 19
+        height: 18
+      spriteId: 1e0cc8e586cc8cd4e9393aa163d02906
+    - name: Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 34
+        y: 34
+        width: 19
+        height: 18
+      spriteId: 8ef81b900e31bc545a2404a7881e55a4
+    - name: Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 34
+        y: 34
+        width: 19
+        height: 18
+      spriteId: 6321880a528ed1142be3a5500b6d8192
+    - name: Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 34
+        y: 35
+        width: 19
+        height: 18
+      spriteId: fa3029bcfc5d39a40a0c3fcda214e5a3
+    - name: Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 35
+        y: 35
+        width: 18
+        height: 18
+      spriteId: 1bd1185f96484fb4eafabff943372eb7
+    - name: Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 35
+        y: 35
+        width: 18
+        height: 18
+      spriteId: 8a404d24ff54e8040a59f0a5ce1e43c6
+    - name: Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 45
+        y: 21
+        width: 14
+        height: 18
+      spriteId: 550f5c4858e92f6439e0bc8a1d75c67d
+    - name: Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 45
+        y: 21
+        width: 14
+        height: 18
+      spriteId: 16bfb758f924f594aaa10dbc626c3310
+    - name: Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 45
+        y: 21
+        width: 14
+        height: 18
+      spriteId: f5e52c448c1a1c24e8acf8137d06302b
+    - name: Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 45
+        y: 21
+        width: 14
+        height: 18
+      spriteId: ad1e27a037e953d4d83ceca4b77321e4
+    - name: Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 45
+        y: 21
+        width: 14
+        height: 18
+      spriteId: 87dd8355d129a804da1914eb35c95122
+    - name: Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 45
+        y: 21
+        width: 14
+        height: 18
+      spriteId: 6ffc367ef20b15941aadef5c0f994c11
+    - name: Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 45
+        y: 21
+        width: 14
+        height: 18
+      spriteId: 8755144661f11994096d959d8e7664dc
+    - name: Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 45
+        y: 21
+        width: 14
+        height: 18
+      spriteId: 65d0fa13a4dc0b24fa6f3d7a9b1eed9a
+    - name: Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 45
+        y: 21
+        width: 14
+        height: 18
+      spriteId: 548243ef4e34ee74dba421c0647fffe7
+    - name: Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 45
+        y: 21
+        width: 14
+        height: 18
+      spriteId: 2be1506c65bbe9b4a958c5eebc5c8e9c
+    - name: Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 45
+        y: 21
+        width: 14
+        height: 18
+      spriteId: 3c95528584fe87c469c8e1d7bc82837f
+    - name: Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 45
+        y: 21
+        width: 14
+        height: 18
+      spriteId: e762a47ddd9c13c4cb0ce1b436e8dea7
+    - name: Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 20
+        y: 22
+        width: 19
+        height: 19
+      spriteId: 78c0b5eb5eac61745ad9380b433c0935
+    - name: Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 20
+        y: 22
+        width: 19
+        height: 19
+      spriteId: 20ba87b8f0aad034489c12bb79d01e0e
+    - name: Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 20
+        y: 22
+        width: 19
+        height: 19
+      spriteId: 9fbb74b2dacf3e6429675727b0fabdf9
+    - name: Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 20
+        y: 22
+        width: 19
+        height: 19
+      spriteId: a0083261475b2d743817ac8f5a948f80
+    - name: Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 20
+        y: 22
+        width: 19
+        height: 19
+      spriteId: 4efec22695d905e4c8d6d3fa00249fdb
+    - name: Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 20
+        y: 22
+        width: 19
+        height: 19
+      spriteId: 73fab4eb0a99f8347b2aabe4ce20b6a3
+    - name: Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 20
+        y: 22
+        width: 19
+        height: 19
+      spriteId: a1e2164fe0e61f14d8fc04ccda3c91fa
+    - name: Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 20
+        y: 22
+        width: 19
+        height: 19
+      spriteId: 0665c7d21f5993f4881f153d44c6f832
+    - name: Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 20
+        y: 22
+        width: 19
+        height: 19
+      spriteId: 6f99aef0cfc9f2a4099caeab7ceea4b1
+    - name: Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 20
+        y: 22
+        width: 19
+        height: 19
+      spriteId: f45484635c575d842b23b987d09a581c
+    - name: Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 20
+        y: 22
+        width: 19
+        height: 19
+      spriteId: 6a64b30a386628646a38f2c6cbad0998
+    - name: Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 20
+        y: 22
+        width: 19
+        height: 19
+      spriteId: 2e1a25288d025514f8d62429512c7f64
+    - name: Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 34
+        width: 19
+        height: 15
+      spriteId: 3f6da732f184b874682f548ffe2273cb
+    - name: Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 34
+        width: 19
+        height: 15
+      spriteId: ae6659ea47d295d41a5630200ec12bbc
+    - name: Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 34
+        width: 19
+        height: 15
+      spriteId: 102bff707bf65504db6be1b9e7c3d620
+    - name: Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 34
+        width: 19
+        height: 15
+      spriteId: 80f923f8b9df00d4cb077fbef706d7eb
+    - name: Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 34
+        width: 19
+        height: 15
+      spriteId: a9ca964577200f04f9c0eff15afb3529
+    - name: Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 34
+        width: 19
+        height: 15
+      spriteId: e390e4e4a2c0a24439582447483122de
+    - name: Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 34
+        width: 19
+        height: 15
+      spriteId: f094bf822816f7c4b9a8adda7e6931b5
+    - name: Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 34
+        width: 19
+        height: 15
+      spriteId: f041a06b283d5b640aa3120300a736e6
+    - name: Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 34
+        width: 19
+        height: 15
+      spriteId: cb7b93b88fb02064186e943ee1fbc677
+    - name: Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 34
+        width: 19
+        height: 15
+      spriteId: cad0da4e37b5ab5488c8d952ecf12853
+    - name: Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 34
+        width: 19
+        height: 15
+      spriteId: f9083e95cc90590429dd409848452010
+    - name: Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 34
+        width: 19
+        height: 15
+      spriteId: 5993d1121aa030948943c7d4fc6904b8
+    - name: Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 34
+        width: 19
+        height: 15
+      spriteId: a59f990a4f12ad7408d3ac001b6d18a4
+    - name: Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 34
+        width: 19
+        height: 15
+      spriteId: 1226131e9d03ba54793033aab56e4faf
+    - name: Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 34
+        width: 19
+        height: 15
+      spriteId: eba27c825390ca741af0b722a040c384
+    - name: Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 34
+        width: 21
+        height: 15
+      spriteId: 40a6ad9fed97dfc4dac7d18898dbb5f5
+    - name: Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 34
+        width: 23
+        height: 16
+      spriteId: 32bbfbe2001af8a488579dc2e671b71e
+    - name: Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 34
+        width: 23
+        height: 18
+      spriteId: f3864916567dccb4a9cf7d6c309e25b2
+    - name: Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 30
+        y: 34
+        width: 26
+        height: 21
+      spriteId: b2cb02125cd855e4599bc5a5400dd8c8
+    - name: Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 30
+        y: 34
+        width: 19
+        height: 15
+      spriteId: 706a381573cb9304ebf175f9354a98c6
+    - name: Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 47
+        width: 18
+        height: 15
+      spriteId: 6ab17d73445f7f340af3f427025313c3
+    - name: Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 47
+        width: 18
+        height: 15
+      spriteId: 693718a85bbc8ad4b9f07bf6ce88d773
+    - name: Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 47
+        width: 18
+        height: 15
+      spriteId: beb01c66392f0284cb223d800f26cd65
+    - name: Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 47
+        width: 18
+        height: 15
+      spriteId: 35b310e3ea6c9654391a9377447f4763
+    - name: Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 47
+        width: 18
+        height: 15
+      spriteId: d68460ce0b043864890cef74ae98a435
+    - name: Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 39
+        y: 47
+        width: 18
+        height: 15
+      spriteId: f4f4d6beb84872e49b3d2bbff71be660
+    - name: Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 35
+        width: 19
+        height: 18
+      spriteId: 84646b6532c964548a1836f73eedb55f
+    - name: Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 34
+        width: 19
+        height: 18
+      spriteId: d16938b34dd02ea43925ac021fd9ede5
+    - name: Frame_74
+      frameIndex: 74
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 34
+        width: 19
+        height: 18
+      spriteId: d33d156a891ef504fb300a2ebeb0260d
+    - name: Frame_75
+      frameIndex: 75
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 34
+        width: 19
+        height: 18
+      spriteId: 9e8ac828c9e915b43bc1b9d0a72307d8
+    - name: Frame_76
+      frameIndex: 76
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 34
+        width: 19
+        height: 18
+      spriteId: 734e0efc239cc8e4d96171f6e9f47cf7
+    - name: Frame_77
+      frameIndex: 77
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 35
+        width: 19
+        height: 18
+      spriteId: 4bae1f9943f26004fac504ff9543743b
+    - name: Frame_78
+      frameIndex: 78
+      additiveSortOrder: 0
+      cellRect:
+        x: 27
+        y: 34
+        width: 19
+        height: 18
+      spriteId: 4acc70d24ef2da642bbd8068d0f6e0be
+    - name: Frame_79
+      frameIndex: 79
+      additiveSortOrder: 0
+      cellRect:
+        x: 27
+        y: 35
+        width: 19
+        height: 18
+      spriteId: 97f53ba96eebdb74aab8e18de13b1758
+    - name: Frame_80
+      frameIndex: 80
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 33
+        width: 19
+        height: 19
+      spriteId: 253074a2030fe3043bce339f14e7a9ef
+    - name: Frame_81
+      frameIndex: 81
+      additiveSortOrder: 0
+      cellRect:
+        x: 27
+        y: 33
+        width: 19
+        height: 18
+      spriteId: 588a922ab9a253947b2f72c91702bf2c
+    - name: Frame_82
+      frameIndex: 82
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 34
+        width: 19
+        height: 18
+      spriteId: 28a7907142779e0478288e5c250eac96
+    - name: Frame_83
+      frameIndex: 83
+      additiveSortOrder: 0
+      cellRect:
+        x: 27
+        y: 34
+        width: 19
+        height: 18
+      spriteId: 0ff8a5fed8d6bb44baf540bc54e11366
+    - name: Frame_84
+      frameIndex: 84
+      additiveSortOrder: 0
+      cellRect:
+        x: 27
+        y: 32
+        width: 19
+        height: 18
+      spriteId: 2af1cb20bc7af84488f9b8010385b9b4
+    - name: Frame_85
+      frameIndex: 85
+      additiveSortOrder: 0
+      cellRect:
+        x: 27
+        y: 33
+        width: 19
+        height: 18
+      spriteId: 32e628d4f86724940be5afce50919e17
+    - name: Frame_86
+      frameIndex: 86
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 34
+        width: 19
+        height: 18
+      spriteId: 074fad40d3613a344b100d5a0b461666
+    - name: Frame_87
+      frameIndex: 87
+      additiveSortOrder: 0
+      cellRect:
+        x: 27
+        y: 35
+        width: 19
+        height: 18
+      spriteId: e64fc4f43ef0f404d957f03c88eb7661
+    - name: Frame_88
+      frameIndex: 88
+      additiveSortOrder: 0
+      cellRect:
+        x: 27
+        y: 35
+        width: 19
+        height: 18
+      spriteId: 49f509dd395b63c4d92554647c9319b6
+    - name: Frame_89
+      frameIndex: 89
+      additiveSortOrder: 0
+      cellRect:
+        x: 27
+        y: 32
+        width: 19
+        height: 18
+      spriteId: c395e3fd536381b4aad37671969f984f
+    - name: Frame_90
+      frameIndex: 90
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 30
+        width: 19
+        height: 18
+      spriteId: 324c5b04209146d4d8a1e054bdb5f9ce
+    - name: Frame_91
+      frameIndex: 91
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 33
+        width: 20
+        height: 18
+      spriteId: 84ff01ff66e895c42b45eb003e647782
+    - name: Frame_92
+      frameIndex: 92
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 35
+        width: 19
+        height: 15
+      spriteId: feb744f8d6e92ac4986e05b862801c76
+    - name: Frame_93
+      frameIndex: 93
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 45
+        width: 18
+        height: 15
+      spriteId: 2fac66bcb8d3e8545b13f05ad7f41626
+    - name: Frame_94
+      frameIndex: 94
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 45
+        width: 18
+        height: 15
+      spriteId: ae5365308e663c842a0c0e2db3bd0166
+    - name: Frame_95
+      frameIndex: 95
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 45
+        width: 18
+        height: 15
+      spriteId: ac0a57dcb6898ea4ca6b254789990706
+    - name: Frame_96
+      frameIndex: 96
+      additiveSortOrder: 0
+      cellRect:
+        x: 42
+        y: 45
+        width: 18
+        height: 15
+      spriteId: ba92b6d869001ae468ad6ebbc84445a3
+    - name: Frame_97
+      frameIndex: 97
+      additiveSortOrder: 0
+      cellRect:
+        x: 30
+        y: 39
+        width: 18
+        height: 15
+      spriteId: fd9d57bd4e5e5e546bbb369207cc478f
+    - name: Frame_98
+      frameIndex: 98
+      additiveSortOrder: 0
+      cellRect:
+        x: 30
+        y: 39
+        width: 18
+        height: 15
+      spriteId: 4659387d715c6b446a474efae8a60683
+    - name: Frame_99
+      frameIndex: 99
+      additiveSortOrder: 0
+      cellRect:
+        x: 30
+        y: 39
+        width: 18
+        height: 15
+      spriteId: ce83a8bd6259042498e6cfb02043f4f9
+    - name: Frame_100
+      frameIndex: 100
+      additiveSortOrder: 0
+      cellRect:
+        x: 30
+        y: 39
+        width: 18
+        height: 15
+      spriteId: 2d408288939b6464cb82942ecc0a79ac
+    - name: Frame_101
+      frameIndex: 101
+      additiveSortOrder: 0
+      cellRect:
+        x: 30
+        y: 39
+        width: 18
+        height: 15
+      spriteId: 8477ad1aa76f4974abdbf241aec6a737
+    - name: Frame_102
+      frameIndex: 102
+      additiveSortOrder: 0
+      cellRect:
+        x: 30
+        y: 39
+        width: 18
+        height: 15
+      spriteId: b6b2b7d5a08ed54489ea7ae439382d31
+    - name: Frame_103
+      frameIndex: 103
+      additiveSortOrder: 0
+      cellRect:
+        x: 30
+        y: 39
+        width: 18
+        height: 15
+      spriteId: 7b34394769d9cd94194b63b543827c2b
+    - name: Frame_104
+      frameIndex: 104
+      additiveSortOrder: 0
+      cellRect:
+        x: 30
+        y: 39
+        width: 18
+        height: 15
+      spriteId: d27e36a743ecbad4eb1b40034ada60bb
+    - name: Frame_105
+      frameIndex: 105
+      additiveSortOrder: 0
+      cellRect:
+        x: 30
+        y: 39
+        width: 18
+        height: 15
+      spriteId: ab77faab6e3fefc46bf345ef5bab3fc5
+    - name: Frame_106
+      frameIndex: 106
+      additiveSortOrder: 0
+      cellRect:
+        x: 30
+        y: 39
+        width: 18
+        height: 15
+      spriteId: 55de4ff325180654ba77627d9e865158
+    - name: Frame_107
+      frameIndex: 107
+      additiveSortOrder: 0
+      cellRect:
+        x: 30
+        y: 39
+        width: 18
+        height: 15
+      spriteId: def3e19cf91bad44dbc3901c0a1b11fd
+    - name: Frame_108
+      frameIndex: 108
+      additiveSortOrder: 0
+      cellRect:
+        x: 30
+        y: 39
+        width: 18
+        height: 15
+      spriteId: 839bc6a49d2cf9c4ea3291888f977c9d
+    - name: Frame_109
+      frameIndex: 109
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 35
+        width: 19
+        height: 15
+      spriteId: 3720854ccf4d76a47b52972bbbce5654
+    - name: Frame_110
+      frameIndex: 110
+      additiveSortOrder: 0
+      cellRect:
+        x: 35
+        y: 32
+        width: 19
+        height: 15
+      spriteId: 483bafa407510344c95f34b8545515ae
+    - name: Frame_111
+      frameIndex: 111
+      additiveSortOrder: 0
+      cellRect:
+        x: 35
+        y: 32
+        width: 19
+        height: 15
+      spriteId: 105a6d022d126874e9fb9ea69d9defd1
+    - name: Frame_112
+      frameIndex: 112
+      additiveSortOrder: 0
+      cellRect:
+        x: 37
+        y: 32
+        width: 17
+        height: 15
+      spriteId: 2efab7d9c10f48e43b3ada8ebe5b4a87
+    - name: Frame_113
+      frameIndex: 113
+      additiveSortOrder: 0
+      cellRect:
+        x: 37
+        y: 32
+        width: 17
+        height: 15
+      spriteId: e7f62944a8bc31646b80bfdb830fc597
+    - name: Frame_114
+      frameIndex: 114
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 35
+        width: 19
+        height: 15
+      spriteId: c630a9ad43b0de847a5d02be2bf64c0a
+    - name: Frame_115
+      frameIndex: 115
+      additiveSortOrder: 0
+      cellRect:
+        x: 35
+        y: 32
+        width: 19
+        height: 15
+      spriteId: a6999303672b85846aa8c72870cda395
+    - name: Frame_116
+      frameIndex: 116
+      additiveSortOrder: 0
+      cellRect:
+        x: 35
+        y: 32
+        width: 19
+        height: 15
+      spriteId: 20ee51f8d19582b4cad0254a218f9b8d
+    - name: Frame_117
+      frameIndex: 117
+      additiveSortOrder: 0
+      cellRect:
+        x: 35
+        y: 32
+        width: 19
+        height: 15
+      spriteId: 541b0e56ac5a26f4eac3f9930f65eac1
+    - name: Frame_118
+      frameIndex: 118
+      additiveSortOrder: 0
+      cellRect:
+        x: 35
+        y: 32
+        width: 19
+        height: 15
+      spriteId: f978b4575a3bbc543a0bd1b653977670
+    - name: Frame_119
+      frameIndex: 119
+      additiveSortOrder: 0
+      cellRect:
+        x: 33
+        y: 35
+        width: 19
+        height: 15
+      spriteId: 35f553d1ad33c6e4ab855c2105cce5b6
+    - name: Frame_120
+      frameIndex: 120
+      additiveSortOrder: 0
+      cellRect:
+        x: 35
+        y: 32
+        width: 19
+        height: 15
+      spriteId: 38e4afe54518713499fc848090453a0f
+    - name: Frame_121
+      frameIndex: 121
+      additiveSortOrder: 0
+      cellRect:
+        x: 35
+        y: 32
+        width: 19
+        height: 15
+      spriteId: 52c3cd4b5d9ecfd49a071246562d20f3
+    - name: Frame_122
+      frameIndex: 122
+      additiveSortOrder: 0
+      cellRect:
+        x: 35
+        y: 32
+        width: 19
+        height: 15
+      spriteId: dfb1e0eecfd731d4d9ce106a09e274e3
+    - name: Frame_123
+      frameIndex: 123
+      additiveSortOrder: 0
+      cellRect:
+        x: 35
+        y: 32
+        width: 19
+        height: 15
+      spriteId: 34bc8e97f6379a44f978b2ac7de82f52
+    - name: Frame_124
+      frameIndex: 124
+      additiveSortOrder: 0
+      cellRect:
+        x: 35
+        y: 35
+        width: 18
+        height: 18
+      spriteId: bf718be3246e51648a7d84f0c16bd336
+    - name: Frame_125
+      frameIndex: 125
+      additiveSortOrder: 0
+      cellRect:
+        x: 35
+        y: 35
+        width: 18
+        height: 18
+      spriteId: e673fd119ab9b714e97e636d51bdeb50
+    - name: Frame_126
+      frameIndex: 126
+      additiveSortOrder: 0
+      cellRect:
+        x: 35
+        y: 35
+        width: 18
+        height: 18
+      spriteId: 6bbbbcdec31a7234386963c6ada5664b
+    - name: Frame_127
+      frameIndex: 127
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 40
+        width: 19
+        height: 19
+      spriteId: 510721f68e172984c9c3df69ca18b2f2
+    - name: Frame_128
+      frameIndex: 128
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 39
+        width: 19
+        height: 19
+      spriteId: fb2d14388dbfc8141bc2ca59c35866a8
+    - name: Frame_129
+      frameIndex: 129
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 34
+        width: 16
+        height: 19
+      spriteId: 00ed14feccfa14e4a8e7c69a84114b2e
+    - name: Frame_130
+      frameIndex: 130
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 26
+        width: 19
+        height: 19
+      spriteId: f979ca22725d9d1499ff7290ad337d67
+    - name: Frame_131
+      frameIndex: 131
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 40
+        width: 19
+        height: 19
+      spriteId: 75114101204db994298274a153f914e8
+    - name: Frame_132
+      frameIndex: 132
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 34
+        width: 16
+        height: 19
+      spriteId: 4e187905bdf9af2408c534eeb4943062
+    - name: Frame_133
+      frameIndex: 133
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 26
+        width: 19
+        height: 19
+      spriteId: ba4883683e8410447b742ca04421f235
+    - name: Frame_134
+      frameIndex: 134
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 40
+        width: 19
+        height: 19
+      spriteId: 592be267d91db074db97d790d41884f6
+    - name: Frame_135
+      frameIndex: 135
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 34
+        width: 16
+        height: 19
+      spriteId: b8945dcb8b374a34396e3b1204ac4a06
+    - name: Frame_136
+      frameIndex: 136
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 26
+        width: 19
+        height: 19
+      spriteId: 3b71bd51a8abb464789cbfbef278cdb8
+    - name: Frame_137
+      frameIndex: 137
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 40
+        width: 19
+        height: 19
+      spriteId: 56b08a85ae4c643468f8ef1843da1845
+    - name: Frame_138
+      frameIndex: 138
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 34
+        width: 16
+        height: 19
+      spriteId: 56e727c9f6cead84fb6b683a7ef170f4
+    - name: Frame_139
+      frameIndex: 139
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 26
+        width: 19
+        height: 19
+      spriteId: cd1043711eaf97f42b08a941e5c144b9
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 80, y: 80}
+  previousTextureSize: {x: 256, y: 512}

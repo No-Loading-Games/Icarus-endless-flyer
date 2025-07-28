@@ -1,0 +1,4406 @@
+fileFormatVersion: 2
+guid: 0f2b17e7131b7c64884889c78f7fd4d9
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: artemis-barely
+    second: {fileID: 7400000, guid: b686362961c90b142a9704452eb6c62b, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: artemis-full
+    second: {fileID: 7400000, guid: b64c9ac8f213e98438c64acc230be45b, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: artemis-semi
+    second: {fileID: 7400000, guid: 78d007b45cde6a44f95303b591ef102c, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: diving-barely
+    second: {fileID: 7400000, guid: 4c9c603df9f0eb34ea42196900d7fcf1, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: diving-full
+    second: {fileID: 7400000, guid: 87d3808da1e7ec744a789b0e512d5922, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: diving-semi
+    second: {fileID: 7400000, guid: 159c28c00bad2a845ab8d8a1834b0723, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: falling-barely
+    second: {fileID: 7400000, guid: 51662222098f1ba42abd66ad5a19e094, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: falling-barely prep
+    second: {fileID: 7400000, guid: 4a0c637ee79328047af3da1e973ea7bc, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: falling-burnt
+    second: {fileID: 7400000, guid: 3d5228032ba23144c94d86178a2fe3a5, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: falling-full
+    second: {fileID: 7400000, guid: 4e221ba79352b8c4a942e79c77547f53, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: falling-full prep
+    second: {fileID: 7400000, guid: 0c147dad400f40d41a38265cdf649556, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: falling-none
+    second: {fileID: 7400000, guid: 6e460d564c2ca12498d2d3fb180c7c40, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: falling-none prep
+    second: {fileID: 7400000, guid: 6871e354db6abb94e8715243953dd871, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: falling-none-start prep
+    second: {fileID: 7400000, guid: aa86369bf9aac1643bdf5ff96b90edfb, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: falling-semi
+    second: {fileID: 7400000, guid: bbabc2d84868a34498e8774a975a63d5, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: falling-semi prep
+    second: {fileID: 7400000, guid: b2d1b80c5bd767142abe6a3ea3f9b6d8, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: flying-barely
+    second: {fileID: 7400000, guid: e732f85c1291774438a3aee61955dadb, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: flying-full
+    second: {fileID: 7400000, guid: 86a33853f08a6b145b9a134a905760e3, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: flying-semi
+    second: {fileID: 7400000, guid: a4b2158587935604faebaa11b2ec3a97, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: hermes-barely
+    second: {fileID: 7400000, guid: ea1d4f480c84cea4cbf399ce28e139d6, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: hermes-full
+    second: {fileID: 7400000, guid: 6bab81f969c11cd4683d9364fd3df2e9, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: hermes-semi
+    second: {fileID: 7400000, guid: 20552ab4ecd637e4c8c9379e8550608d, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: hop
+    second: {fileID: 7400000, guid: 8dbcfce365c4ddd418d1bce8fe465139, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: idle
+    second: {fileID: 7400000, guid: c86c180afa3416e4c959d34ddcc377ec, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: prep
+    second: {fileID: 7400000, guid: 5cbfb2667edd76d468a90505844fd6cf, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: sling up
+    second: {fileID: 7400000, guid: 257b1ad101fe50a4385ed6cefdbf6b0f, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: slinging
+    second: {fileID: 7400000, guid: bee89233665f15c48978cf6fa04e2055, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: walk
+    second: {fileID: 7400000, guid: f4f84abf51699674ba8db16dd0fd0f21, type: 2}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  importerVersion: 2
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 0
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 0
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638621843934862044
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Icarus Animations - Copy_Frame_0
+    originalName: 
+    pivot: {x: 0.6363636, y: 0.45}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 67
+      width: 33
+      height: 40
+    spriteID: fd193549943748c4591aeb113125a936
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 220, y: 67}
+  - name: Icarus Animations - Copy_Frame_1
+    originalName: 
+    pivot: {x: 0.5555555, y: 0.75000006}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 438
+      width: 27
+      height: 36
+    spriteID: b354ae0ca4aad6443bc8fdb9f1c070b5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 438}
+  - name: Icarus Animations - Copy_Frame_2
+    originalName: 
+    pivot: {x: 0.53846157, y: 0.7941177}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 110
+      y: 345
+      width: 26
+      height: 34
+    spriteID: 7374bbf4d7aa81743a16220fb57f54c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 110, y: 345}
+  - name: Icarus Animations - Copy_Frame_3
+    originalName: 
+    pivot: {x: 0.57142854, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 349
+      y: 345
+      width: 28
+      height: 28
+    spriteID: 9a906d6ca8239ff47bbbfb3b1388756c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 349, y: 345}
+  - name: Icarus Animations - Copy_Frame_4
+    originalName: 
+    pivot: {x: 0.6363636, y: 0.42105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 343
+      y: 67
+      width: 33
+      height: 38
+    spriteID: 7b6bcc0736227984aad0d3de18aa46ed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 343, y: 67}
+  - name: Icarus Animations - Copy_Frame_5
+    originalName: 
+    pivot: {x: 0.57142854, y: 0.36363634}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 384
+      y: 67
+      width: 28
+      height: 44
+    spriteID: 55e1f1f1ea8368d48bb0c9206220d7d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 384, y: 67}
+  - name: Icarus Animations - Copy_Frame_6
+    originalName: 
+    pivot: {x: 0.6363636, y: 0.45}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 261
+      y: 67
+      width: 33
+      height: 40
+    spriteID: 0f1279483e2daed438a6f37030dc2895
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 261, y: 67}
+  - name: Icarus Animations - Copy_Frame_7
+    originalName: 
+    pivot: {x: 0.5555555, y: 0.75000006}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 345
+      width: 27
+      height: 36
+    spriteID: 5751ba9485d6b864494f6b5fd3ad6d8e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 40, y: 345}
+  - name: Icarus Animations - Copy_Frame_8
+    originalName: 
+    pivot: {x: 0.53846157, y: 0.7941177}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 345
+      width: 26
+      height: 34
+    spriteID: b09d3b84b4394ab43843eeec60271c72
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 345}
+  - name: Icarus Animations - Copy_Frame_9
+    originalName: 
+    pivot: {x: 0.5555555, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 206
+      y: 307
+      width: 27
+      height: 28
+    spriteID: db1b8d94ae5f11b449b7414298ab6062
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 206, y: 307}
+  - name: Icarus Animations - Copy_Frame_10
+    originalName: 
+    pivot: {x: 0.625, y: 0.42105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 126
+      width: 32
+      height: 38
+    spriteID: c2401628aa10e92418469d3cc9c88804
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 40, y: 126}
+  - name: Icarus Animations - Copy_Frame_11
+    originalName: 
+    pivot: {x: 0.57142854, y: 0.36363634}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 420
+      y: 67
+      width: 28
+      height: 44
+    spriteID: 265f84bc365e9ec4499e416ab5670063
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 420, y: 67}
+  - name: Icarus Animations - Copy_Frame_12
+    originalName: 
+    pivot: {x: 0.6363636, y: 0.45}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 302
+      y: 67
+      width: 33
+      height: 40
+    spriteID: 401ada7a3118def4d8dbf604092f28eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 302, y: 67}
+  - name: Icarus Animations - Copy_Frame_13
+    originalName: 
+    pivot: {x: 0.5555555, y: 0.75000006}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 75
+      y: 345
+      width: 27
+      height: 36
+    spriteID: e8532b7c346aa904aa6f51a147938e2f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 75, y: 345}
+  - name: Icarus Animations - Copy_Frame_14
+    originalName: 
+    pivot: {x: 0.53846157, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 389
+      width: 26
+      height: 28
+    spriteID: 6908ced66238adf4c9fee5f3ef4df58f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 288, y: 389}
+  - name: Icarus Animations - Copy_Frame_15
+    originalName: 
+    pivot: {x: 0.61290324, y: 0.42105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 126
+      width: 31
+      height: 38
+    spriteID: 49e60a480355f054d8a512bd4a873508
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 80, y: 126}
+  - name: Icarus Animations - Copy_Frame_16
+    originalName: 
+    pivot: {x: 0.5555555, y: 0.36363634}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 178
+      width: 27
+      height: 44
+    spriteID: 9e5189416dd5ded48a11e99849b31698
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 178}
+  - name: Icarus Animations - Copy_Frame_17
+    originalName: 
+    pivot: {x: 0.57142854, y: 0.36363634}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 456
+      y: 67
+      width: 28
+      height: 44
+    spriteID: 36f9735b37a3de743af34eed8e36a5c0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 456, y: 67}
+  - name: Icarus Animations - Copy_Frame_18
+    originalName: 
+    pivot: {x: 0.68421054, y: 0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 391
+      y: 4
+      width: 57
+      height: 51
+    spriteID: 2799c813f56040547b669a2a803d8be9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 391, y: 4}
+  - name: Icarus Animations - Copy_Frame_19
+    originalName: 
+    pivot: {x: 0.6896552, y: 0.3090909}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 58
+      height: 55
+    spriteID: c8e87b1812fda284ab951e394590bc44
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Icarus Animations - Copy_Frame_20
+    originalName: 
+    pivot: {x: 0.6909091, y: 0.3148148}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 202
+      y: 4
+      width: 55
+      height: 54
+    spriteID: cac3151c835c7394dab24221f3031795
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 202, y: 4}
+  - name: Icarus Animations - Copy_Frame_21
+    originalName: 
+    pivot: {x: 0.43750003, y: 0.47222227}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 260
+      y: 126
+      width: 32
+      height: 36
+    spriteID: 674767265d56f8c46996edb65c4e1332
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 260, y: 126}
+  - name: Icarus Animations - Copy_Frame_22
+    originalName: 
+    pivot: {x: 0.68421054, y: 0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 67
+      width: 57
+      height: 51
+    spriteID: e5b309febd63b9e4eb7421e72c2bc0f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 67}
+  - name: Icarus Animations - Copy_Frame_23
+    originalName: 
+    pivot: {x: 0.6896552, y: 0.3090909}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 4
+      width: 58
+      height: 55
+    spriteID: 622705def6cf9034cbe98b63fe4a842f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 4}
+  - name: Icarus Animations - Copy_Frame_24
+    originalName: 
+    pivot: {x: 0.6909091, y: 0.3148148}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 265
+      y: 4
+      width: 55
+      height: 54
+    spriteID: 6a43ddab930b70448bb22c2236f50ac4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 265, y: 4}
+  - name: Icarus Animations - Copy_Frame_25
+    originalName: 
+    pivot: {x: 0.43750003, y: 0.47222227}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 300
+      y: 126
+      width: 32
+      height: 36
+    spriteID: f80c97121e2055c429029d8a06e6a1dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 300, y: 126}
+  - name: Icarus Animations - Copy_Frame_26
+    originalName: 
+    pivot: {x: 0.68421054, y: 0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 69
+      y: 67
+      width: 57
+      height: 51
+    spriteID: 62b962077a089d14db90725dfff0d166
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 69, y: 67}
+  - name: Icarus Animations - Copy_Frame_27
+    originalName: 
+    pivot: {x: 0.6896552, y: 0.3090909}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 136
+      y: 4
+      width: 58
+      height: 55
+    spriteID: 2ef6f4dbc2b0fdd489546dcdd1e708b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 136, y: 4}
+  - name: Icarus Animations - Copy_Frame_28
+    originalName: 
+    pivot: {x: 0.6909091, y: 0.3148148}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 328
+      y: 4
+      width: 55
+      height: 54
+    spriteID: 2cf53c2cd3d77ce4d93817cfbf87ff41
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 328, y: 4}
+  - name: Icarus Animations - Copy_Frame_29
+    originalName: 
+    pivot: {x: 0.43750003, y: 0.47222227}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 340
+      y: 126
+      width: 32
+      height: 36
+    spriteID: bedd3935cc3922c479370f76c4ab5e64
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 340, y: 126}
+  - name: Icarus Animations - Copy_Frame_30
+    originalName: 
+    pivot: {x: 0.58064514, y: 0.44444445}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 219
+      width: 31
+      height: 36
+    spriteID: 6ce4e80a3275fb942901abae8ee67896
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 40, y: 219}
+  - name: Icarus Animations - Copy_Frame_31
+    originalName: 
+    pivot: {x: 0.58064514, y: 0.43243238}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 154
+      y: 172
+      width: 31
+      height: 37
+    spriteID: 969dd2b6a5e94f64abcb0a24bb513015
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 154, y: 172}
+  - name: Icarus Animations - Copy_Frame_32
+    originalName: 
+    pivot: {x: 0.58064514, y: 0.43243238}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 193
+      y: 172
+      width: 31
+      height: 37
+    spriteID: adf5b38f743ca184faf5364a194275aa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 193, y: 172}
+  - name: Icarus Animations - Copy_Frame_33
+    originalName: 
+    pivot: {x: 0.58064514, y: 0.44444445}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 219
+      width: 31
+      height: 36
+    spriteID: 071166c28204de7448e4f9ca97f82b43
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 219}
+  - name: Icarus Animations - Copy_Frame_34
+    originalName: 
+    pivot: {x: 0.58064514, y: 0.43243238}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 232
+      y: 172
+      width: 31
+      height: 37
+    spriteID: 2991e79e5e2f5584ca5e89135beb8a34
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 232, y: 172}
+  - name: Icarus Animations - Copy_Frame_35
+    originalName: 
+    pivot: {x: 0.58064514, y: 0.43243238}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 271
+      y: 172
+      width: 31
+      height: 37
+    spriteID: 04cb66e7944fb8d47aebbedabe001fa8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 271, y: 172}
+  - name: Icarus Animations - Copy_Frame_36
+    originalName: 
+    pivot: {x: 0.58064514, y: 0.44444445}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 118
+      y: 219
+      width: 31
+      height: 36
+    spriteID: 9b7e085e2263966488e1998902edb87b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 118, y: 219}
+  - name: Icarus Animations - Copy_Frame_37
+    originalName: 
+    pivot: {x: 0.58064514, y: 0.43243238}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 310
+      y: 172
+      width: 31
+      height: 37
+    spriteID: 6fcf938f98a61b8468b28707d7d18ceb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 310, y: 172}
+  - name: Icarus Animations - Copy_Frame_38
+    originalName: 
+    pivot: {x: 0.58064514, y: 0.43243238}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 349
+      y: 172
+      width: 31
+      height: 37
+    spriteID: a53ea3d04661a484d86c8883c51841eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 349, y: 172}
+  - name: Icarus Animations - Copy_Frame_39
+    originalName: 
+    pivot: {x: 0.58064514, y: 0.44444445}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 157
+      y: 219
+      width: 31
+      height: 36
+    spriteID: 030dc594a42782c4a82145c133f776c4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 157, y: 219}
+  - name: Icarus Animations - Copy_Frame_40
+    originalName: 
+    pivot: {x: 0.58064514, y: 0.44444445}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 196
+      y: 219
+      width: 31
+      height: 36
+    spriteID: 43e4ba010f2301749b55f3b58884cae5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 196, y: 219}
+  - name: Icarus Animations - Copy_Frame_41
+    originalName: 
+    pivot: {x: 0.58064514, y: 0.44444445}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 235
+      y: 219
+      width: 31
+      height: 36
+    spriteID: bd7e9e0959bc72349aae40279ffeeb82
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 235, y: 219}
+  - name: Icarus Animations - Copy_Frame_42
+    originalName: 
+    pivot: {x: 0.57142854, y: 0.36363634}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 126
+      width: 28
+      height: 44
+    spriteID: 4c4e43fe9878ef24e9645423b274e100
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 126}
+  - name: Icarus Animations - Copy_Frame_43
+    originalName: 
+    pivot: {x: 0.5555555, y: 0.36363634}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 230
+      width: 27
+      height: 44
+    spriteID: 5f7049f443c811e408bebaa84e962185
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 230}
+  - name: Icarus Animations - Copy_Frame_44
+    originalName: 
+    pivot: {x: 0.54999995, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 241
+      y: 307
+      width: 20
+      height: 28
+    spriteID: cbbcbd759c83a63439a88ac27e110306
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 241, y: 307}
+  - name: Icarus Animations - Copy_Frame_45
+    originalName: 
+    pivot: {x: -1.9999996, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 115
+      width: 3
+      height: 3
+    spriteID: 1a7495cf3d3780140af64d8b9a075f98
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 220, y: 115}
+  - name: Icarus Animations - Copy_Frame_46
+    originalName: 
+    pivot: {x: 0.6086957, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 389
+      width: 23
+      height: 32
+    spriteID: 8835ccf882b542d40b8a4cf9deb45e8d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 389}
+  - name: Icarus Animations - Copy_Frame_47
+    originalName: 
+    pivot: {x: 0.6086957, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 164
+      y: 389
+      width: 23
+      height: 32
+    spriteID: e03972381e92d254bade5d6ba58f8d50
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 164, y: 389}
+  - name: Icarus Animations - Copy_Frame_48
+    originalName: 
+    pivot: {x: 0.6086957, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 195
+      y: 389
+      width: 23
+      height: 32
+    spriteID: 0071270353fe4e642b9f681bde48bc49
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 195, y: 389}
+  - name: Icarus Animations - Copy_Frame_49
+    originalName: 
+    pivot: {x: 0.6363637, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 414
+      y: 389
+      width: 22
+      height: 32
+    spriteID: 5e60733946be4494a9acf175eb69bea4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 414, y: 389}
+  - name: Icarus Animations - Copy_Frame_50
+    originalName: 
+    pivot: {x: 0.6363637, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 444
+      y: 389
+      width: 22
+      height: 32
+    spriteID: 35ea5c3d9301d0941999aaf428d77c41
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 444, y: 389}
+  - name: Icarus Animations - Copy_Frame_51
+    originalName: 
+    pivot: {x: 0.6363637, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 474
+      y: 389
+      width: 22
+      height: 32
+    spriteID: 2c256794d9e3d5d4c8a78ae5c6382c8f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 474, y: 389}
+  - name: Icarus Animations - Copy_Frame_52
+    originalName: 
+    pivot: {x: 0.6363637, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 430
+      width: 22
+      height: 32
+    spriteID: 3e5aa3302dc69194483ca8e114bb0800
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 430}
+  - name: Icarus Animations - Copy_Frame_53
+    originalName: 
+    pivot: {x: 0.6363637, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 100
+      y: 430
+      width: 22
+      height: 32
+    spriteID: 127b3b4f0f5aecd4f9bc88cde2ef7b9c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 100, y: 430}
+  - name: Icarus Animations - Copy_Frame_54
+    originalName: 
+    pivot: {x: 0.6363637, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 130
+      y: 430
+      width: 22
+      height: 32
+    spriteID: 20e955d761a368f448fbb4a48b8ccadb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 130, y: 430}
+  - name: Icarus Animations - Copy_Frame_55
+    originalName: 
+    pivot: {x: 0.6363637, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 430
+      width: 22
+      height: 32
+    spriteID: d3c214081c4d6ea48b625dea4b0e7f14
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 160, y: 430}
+  - name: Icarus Animations - Copy_Frame_56
+    originalName: 
+    pivot: {x: 0.6363637, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 190
+      y: 430
+      width: 22
+      height: 32
+    spriteID: a05b86b0a7fd0ac4eadfc3b3c650b318
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 190, y: 430}
+  - name: Icarus Animations - Copy_Frame_57
+    originalName: 
+    pivot: {x: 0.6363637, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 430
+      width: 22
+      height: 32
+    spriteID: c72013d89c307c84c8ac6b0d46c32d9a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 220, y: 430}
+  - name: Icarus Animations - Copy_Frame_58
+    originalName: 
+    pivot: {x: 0.6363637, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 250
+      y: 430
+      width: 22
+      height: 32
+    spriteID: 7ddcf17ca59fe3142bc9d47fe188486d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 250, y: 430}
+  - name: Icarus Animations - Copy_Frame_59
+    originalName: 
+    pivot: {x: 0.6363637, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 280
+      y: 430
+      width: 22
+      height: 32
+    spriteID: 075f98f957f1ad6449deedbbe16331be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 280, y: 430}
+  - name: Icarus Animations - Copy_Frame_60
+    originalName: 
+    pivot: {x: 0.6363637, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 310
+      y: 430
+      width: 22
+      height: 32
+    spriteID: 09cedd680b93ce946a05067fb25a8e8f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 310, y: 430}
+  - name: Icarus Animations - Copy_Frame_61
+    originalName: 
+    pivot: {x: 0.6363637, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 340
+      y: 430
+      width: 22
+      height: 32
+    spriteID: 1b343eee58c9d294e9cd2af0f0b8e726
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 340, y: 430}
+  - name: Icarus Animations - Copy_Frame_62
+    originalName: 
+    pivot: {x: 0.6363637, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 370
+      y: 430
+      width: 22
+      height: 32
+    spriteID: 44a1a5daaba12a6418c85e13f7ad2cf9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 370, y: 430}
+  - name: Icarus Animations - Copy_Frame_63
+    originalName: 
+    pivot: {x: 0.6363637, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 400
+      y: 430
+      width: 22
+      height: 32
+    spriteID: 7090ca05c3a66894ba8f43ba5ed55b57
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 400, y: 430}
+  - name: Icarus Animations - Copy_Frame_64
+    originalName: 
+    pivot: {x: 0.6521739, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 389
+      width: 23
+      height: 32
+    spriteID: d475e398cce05d045bb8291c7d9cb935
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 226, y: 389}
+  - name: Icarus Animations - Copy_Frame_65
+    originalName: 
+    pivot: {x: 0.6521739, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 257
+      y: 389
+      width: 23
+      height: 32
+    spriteID: cdd45f3621d7a0846bd8494964e14d57
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 257, y: 389}
+  - name: Icarus Animations - Copy_Frame_66
+    originalName: 
+    pivot: {x: 0.5333333, y: 0.44444445}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 263
+      width: 30
+      height: 36
+    spriteID: 6e7306dfcda219d42a3dc1c901b1d39a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 40, y: 263}
+  - name: Icarus Animations - Copy_Frame_67
+    originalName: 
+    pivot: {x: 0.5333333, y: 0.44444445}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 78
+      y: 263
+      width: 30
+      height: 36
+    spriteID: 3514a2688e7a1de42a3551945ad9d051
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 263}
+  - name: Icarus Animations - Copy_Frame_68
+    originalName: 
+    pivot: {x: 0.5333333, y: 0.44444445}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 116
+      y: 263
+      width: 30
+      height: 36
+    spriteID: e8d314aafd2adc04f9e5e9b96c37ee2b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 263}
+  - name: Icarus Animations - Copy_Frame_69
+    originalName: 
+    pivot: {x: 0.5333333, y: 0.44444445}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 154
+      y: 263
+      width: 30
+      height: 36
+    spriteID: 913469e8476feb141b447a48b7654cfa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 154, y: 263}
+  - name: Icarus Animations - Copy_Frame_70
+    originalName: 
+    pivot: {x: 0.5333333, y: 0.45714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 449
+      y: 263
+      width: 30
+      height: 35
+    spriteID: 27f21150b2b115a419b7656e9f7be5df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 449, y: 263}
+  - name: Icarus Animations - Copy_Frame_71
+    originalName: 
+    pivot: {x: 0.5333333, y: 0.44444445}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 263
+      width: 30
+      height: 36
+    spriteID: e90dca10f40665249af22c8df1636d82
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 192, y: 263}
+  - name: Icarus Animations - Copy_Frame_72
+    originalName: 
+    pivot: {x: 0.5217391, y: 0.70588243}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 385
+      y: 345
+      width: 23
+      height: 34
+    spriteID: f90b64a8c087cea46aab6dfde629190a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 385, y: 345}
+  - name: Icarus Animations - Copy_Frame_73
+    originalName: 
+    pivot: {x: 0.5217391, y: 0.72727275}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 447
+      y: 345
+      width: 23
+      height: 33
+    spriteID: cba5d9ad89ea42d46837aa04b2710f21
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 447, y: 345}
+  - name: Icarus Animations - Copy_Frame_74
+    originalName: 
+    pivot: {x: 0.5217391, y: 0.72727275}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 478
+      y: 345
+      width: 23
+      height: 33
+    spriteID: f30cad2cf1bb88d459de9c3a85050cd3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 478, y: 345}
+  - name: Icarus Animations - Copy_Frame_75
+    originalName: 
+    pivot: {x: 0.5217391, y: 0.72727275}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 389
+      width: 23
+      height: 33
+    spriteID: 57693558e47ee4543a160e957d984f6b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 40, y: 389}
+  - name: Icarus Animations - Copy_Frame_76
+    originalName: 
+    pivot: {x: 0.5217391, y: 0.72727275}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 71
+      y: 389
+      width: 23
+      height: 33
+    spriteID: 75758ce02d2f2f44895897ed1bd758e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 71, y: 389}
+  - name: Icarus Animations - Copy_Frame_77
+    originalName: 
+    pivot: {x: 0.5217391, y: 0.70588243}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 416
+      y: 345
+      width: 23
+      height: 34
+    spriteID: 63d118308a9f1a4459ad04aa2fd32f97
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 416, y: 345}
+  - name: Icarus Animations - Copy_Frame_78
+    originalName: 
+    pivot: {x: 0.54999995, y: 0.72727275}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 69
+      y: 472
+      width: 20
+      height: 33
+    spriteID: 27de31e24e9f94f4f8cd622867146c8c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 69, y: 472}
+  - name: Icarus Animations - Copy_Frame_79
+    originalName: 
+    pivot: {x: 0.59090906, y: 0.70588243}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 430
+      width: 22
+      height: 34
+    spriteID: b94b02ab954afc84f88a24cda58e5e2f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 40, y: 430}
+  - name: Icarus Animations - Copy_Frame_80
+    originalName: 
+    pivot: {x: 0.5714286, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 472
+      width: 21
+      height: 32
+    spriteID: 2a3ba0e2ba38f144dbe1a9870acd80db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 40, y: 472}
+  - name: Icarus Animations - Copy_Frame_81
+    originalName: 
+    pivot: {x: 0.5, y: 0.72727275}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 472
+      width: 20
+      height: 33
+    spriteID: d412b44c8208e3f4fac3c63cfe14a813
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 472}
+  - name: Icarus Animations - Copy_Frame_82
+    originalName: 
+    pivot: {x: 0.5, y: 0.70588243}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 488
+      y: 219
+      width: 20
+      height: 34
+    spriteID: e32562a65f5c9e248a6cbd4af29e0369
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 488, y: 219}
+  - name: Icarus Animations - Copy_Frame_83
+    originalName: 
+    pivot: {x: 0.5714286, y: 0.70588243}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 487
+      y: 263
+      width: 21
+      height: 34
+    spriteID: 7215203ef03f8294db15ebb26befb825
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 487, y: 263}
+  - name: Icarus Animations - Copy_Frame_84
+    originalName: 
+    pivot: {x: 0.6, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 316
+      y: 345
+      width: 25
+      height: 32
+    spriteID: 8c4a6c082173edc4c8f9039160377e7d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 316, y: 345}
+  - name: Icarus Animations - Copy_Frame_85
+    originalName: 
+    pivot: {x: 0.54545456, y: 0.72727275}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 322
+      y: 389
+      width: 22
+      height: 33
+    spriteID: ce450c3659231014fb77dd19b86700c5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 322, y: 389}
+  - name: Icarus Animations - Copy_Frame_86
+    originalName: 
+    pivot: {x: 0.54545456, y: 0.7096774}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 461
+      y: 430
+      width: 22
+      height: 31
+    spriteID: a88d5e3ef7622364983f90ab9edc3527
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 461, y: 430}
+  - name: Icarus Animations - Copy_Frame_87
+    originalName: 
+    pivot: {x: 0.6086957, y: 0.6774193}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 389
+      width: 23
+      height: 31
+    spriteID: 18e0fbec2980b834586107b6f2c5efa8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 352, y: 389}
+  - name: Icarus Animations - Copy_Frame_88
+    originalName: 
+    pivot: {x: 0.6, y: 0.6875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 125
+      y: 472
+      width: 20
+      height: 32
+    spriteID: f28ad854757277c458ac9897e2288bb8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 125, y: 472}
+  - name: Icarus Animations - Copy_Frame_89
+    originalName: 
+    pivot: {x: 0.5217391, y: 0.76666665}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 430
+      y: 430
+      width: 23
+      height: 30
+    spriteID: 0db1d18f72a4ebe4691e43c433722f36
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 430, y: 430}
+  - name: Icarus Animations - Copy_Frame_90
+    originalName: 
+    pivot: {x: 0.50000006, y: 0.82758623}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 280
+      y: 345
+      width: 28
+      height: 29
+    spriteID: 86a0c44544427a04cb8ca3873bb9b5f5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 280, y: 345}
+  - name: Icarus Animations - Copy_Frame_91
+    originalName: 
+    pivot: {x: 0.47826082, y: 0.7741936}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 383
+      y: 389
+      width: 23
+      height: 31
+    spriteID: edc75a9f69bbd734dae0348d08aeb0a2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 383, y: 389}
+  - name: Icarus Animations - Copy_Frame_92
+    originalName: 
+    pivot: {x: 0.5217391, y: 0.72727275}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 389
+      width: 23
+      height: 33
+    spriteID: 3e0f8c448ddcbd143800a6da90a14225
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 389}
+  - name: Icarus Animations - Copy_Frame_93
+    originalName: 
+    pivot: {x: 0.52777785, y: 0.43750003}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 380
+      y: 126
+      width: 36
+      height: 32
+    spriteID: e988d918c9ea5304eb02a5ed9f2d3d7e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 380, y: 126}
+  - name: Icarus Animations - Copy_Frame_94
+    originalName: 
+    pivot: {x: 0.52777785, y: 0.43750003}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 424
+      y: 126
+      width: 36
+      height: 32
+    spriteID: 09bda5bb5d33af747b986ccaa62cf594
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 424, y: 126}
+  - name: Icarus Animations - Copy_Frame_95
+    originalName: 
+    pivot: {x: 0.52777785, y: 0.45161292}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 274
+      y: 219
+      width: 36
+      height: 31
+    spriteID: 7ef10ea7d63f80b46a39c61bfb42a153
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 274, y: 219}
+  - name: Icarus Animations - Copy_Frame_96
+    originalName: 
+    pivot: {x: 0.52777785, y: 0.43750003}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 468
+      y: 126
+      width: 36
+      height: 32
+    spriteID: a8b13812dd74d5840a4f28f4f330ad58
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 468, y: 126}
+  - name: Icarus Animations - Copy_Frame_97
+    originalName: 
+    pivot: {x: 0.45000005, y: 0.5483871}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 321
+      y: 472
+      width: 20
+      height: 31
+    spriteID: 8fef262194ebfd54f9d97b1e85280b04
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 321, y: 472}
+  - name: Icarus Animations - Copy_Frame_98
+    originalName: 
+    pivot: {x: 0.45000005, y: 0.5483871}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 349
+      y: 472
+      width: 20
+      height: 31
+    spriteID: 61e976d9a349d8444bf1372e9fb604be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 349, y: 472}
+  - name: Icarus Animations - Copy_Frame_99
+    originalName: 
+    pivot: {x: 0.45000005, y: 0.5625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 153
+      y: 472
+      width: 20
+      height: 32
+    spriteID: 618ce78dfe0cf6c4b9daf93136a83888
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 153, y: 472}
+  - name: Icarus Animations - Copy_Frame_100
+    originalName: 
+    pivot: {x: 0.45000005, y: 0.5625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 472
+      width: 20
+      height: 32
+    spriteID: a62bee550d591f7409f0febdefc45243
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 181, y: 472}
+  - name: Icarus Animations - Copy_Frame_101
+    originalName: 
+    pivot: {x: 0.45000005, y: 0.5483871}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 377
+      y: 472
+      width: 20
+      height: 31
+    spriteID: 9d19248d1b5b1844aa308ab57719eb21
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 377, y: 472}
+  - name: Icarus Animations - Copy_Frame_102
+    originalName: 
+    pivot: {x: 0.45000005, y: 0.5483871}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 405
+      y: 472
+      width: 20
+      height: 31
+    spriteID: fa9003559cacd8546bf788d2532001ff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 405, y: 472}
+  - name: Icarus Animations - Copy_Frame_103
+    originalName: 
+    pivot: {x: 0.45000005, y: 0.5625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 209
+      y: 472
+      width: 20
+      height: 32
+    spriteID: ec07370c4120436459208a8abd33a574
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 209, y: 472}
+  - name: Icarus Animations - Copy_Frame_104
+    originalName: 
+    pivot: {x: 0.45000005, y: 0.5625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 237
+      y: 472
+      width: 20
+      height: 32
+    spriteID: 4b9d62d479c13a446a0e3d71aa6c8141
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 237, y: 472}
+  - name: Icarus Animations - Copy_Frame_105
+    originalName: 
+    pivot: {x: 0.45000005, y: 0.5483871}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 433
+      y: 472
+      width: 20
+      height: 31
+    spriteID: e119c6cff88edf1439f57c833d5ec28c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 433, y: 472}
+  - name: Icarus Animations - Copy_Frame_106
+    originalName: 
+    pivot: {x: 0.45000005, y: 0.5483871}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 461
+      y: 472
+      width: 20
+      height: 31
+    spriteID: 01a32852772ae2a4396ada69449b482d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 461, y: 472}
+  - name: Icarus Animations - Copy_Frame_107
+    originalName: 
+    pivot: {x: 0.45000005, y: 0.5625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 265
+      y: 472
+      width: 20
+      height: 32
+    spriteID: c5a88af901f0dbb4f83355726f8aa41d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 265, y: 472}
+  - name: Icarus Animations - Copy_Frame_108
+    originalName: 
+    pivot: {x: 0.45000005, y: 0.5625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 293
+      y: 472
+      width: 20
+      height: 32
+    spriteID: 38899edd24c1ee14b80d1f45df8eba78
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 293, y: 472}
+  - name: Icarus Animations - Copy_Frame_109
+    originalName: 
+    pivot: {x: 0.6153846, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 178
+      y: 345
+      width: 26
+      height: 32
+    spriteID: 0f9cfb0071782ce49b7eeddce3eae2aa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 178, y: 345}
+  - name: Icarus Animations - Copy_Frame_110
+    originalName: 
+    pivot: {x: 0.6944445, y: 0.8000001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 230
+      y: 263
+      width: 36
+      height: 30
+    spriteID: 7ab7128822ed565468990f2a70ddbb80
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 230, y: 263}
+  - name: Icarus Animations - Copy_Frame_111
+    originalName: 
+    pivot: {x: 0.7435898, y: 0.8000001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 119
+      y: 126
+      width: 39
+      height: 30
+    spriteID: 896644be923f004409d3e299ab74c2d6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 119, y: 126}
+  - name: Icarus Animations - Copy_Frame_112
+    originalName: 
+    pivot: {x: 0.68571436, y: 0.6153847}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 456
+      y: 4
+      width: 35
+      height: 39
+    spriteID: 7f97f11ef92b9bd41ac8288fdc0ace9f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 456, y: 4}
+  - name: Icarus Animations - Copy_Frame_113
+    originalName: 
+    pivot: {x: 0.6333334, y: 0.6153847}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 172
+      width: 30
+      height: 39
+    spriteID: b3e1e4d50afd9d742957fa5606412c0b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 40, y: 172}
+  - name: Icarus Animations - Copy_Frame_114
+    originalName: 
+    pivot: {x: 0.6153846, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 212
+      y: 345
+      width: 26
+      height: 32
+    spriteID: 234abb47533be46449f43bd7471e6b42
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 212, y: 345}
+  - name: Icarus Animations - Copy_Frame_115
+    originalName: 
+    pivot: {x: 0.6944445, y: 0.8000001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 274
+      y: 263
+      width: 36
+      height: 30
+    spriteID: c5e3a885cfcd9314faee2c3bb803ce0c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 274, y: 263}
+  - name: Icarus Animations - Copy_Frame_116
+    originalName: 
+    pivot: {x: 0.7435898, y: 0.8000001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 126
+      width: 39
+      height: 30
+    spriteID: 5587754f1b7d85146a19f1b0a247b6e4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 126}
+  - name: Icarus Animations - Copy_Frame_117
+    originalName: 
+    pivot: {x: 0.68571436, y: 0.6153847}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 134
+      y: 67
+      width: 35
+      height: 39
+    spriteID: fa990b8110375a14da952c38741ccb70
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 67}
+  - name: Icarus Animations - Copy_Frame_118
+    originalName: 
+    pivot: {x: 0.6333334, y: 0.6153847}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 78
+      y: 172
+      width: 30
+      height: 39
+    spriteID: e470c6dc4b1e0d04baeba2f2cb4538f5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 172}
+  - name: Icarus Animations - Copy_Frame_119
+    originalName: 
+    pivot: {x: 0.6153846, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 246
+      y: 345
+      width: 26
+      height: 32
+    spriteID: 92361a6bfc50f81419b32d801de823ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 246, y: 345}
+  - name: Icarus Animations - Copy_Frame_120
+    originalName: 
+    pivot: {x: 0.6944445, y: 0.8000001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 318
+      y: 263
+      width: 36
+      height: 30
+    spriteID: 7488b2b4fc802f8498af23bc8e77ac2b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 318, y: 263}
+  - name: Icarus Animations - Copy_Frame_121
+    originalName: 
+    pivot: {x: 0.7435898, y: 0.8000001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 213
+      y: 126
+      width: 39
+      height: 30
+    spriteID: 2a42cd32210a72f4bb6fa74124c23706
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 213, y: 126}
+  - name: Icarus Animations - Copy_Frame_122
+    originalName: 
+    pivot: {x: 0.68571436, y: 0.6153847}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 177
+      y: 67
+      width: 35
+      height: 39
+    spriteID: eed560396f9b69a42926f3340553660d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 177, y: 67}
+  - name: Icarus Animations - Copy_Frame_123
+    originalName: 
+    pivot: {x: 0.6333334, y: 0.6153847}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 116
+      y: 172
+      width: 30
+      height: 39
+    spriteID: 9ff970bdad76f0d46a8dca58dfb05cba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 172}
+  - name: Icarus Animations - Copy_Frame_124
+    originalName: 
+    pivot: {x: 0.5555555, y: 0.36363634}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 282
+      width: 27
+      height: 44
+    spriteID: 088abd85431915c46a9714b3224112d6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 282}
+  - name: Icarus Animations - Copy_Frame_125
+    originalName: 
+    pivot: {x: 0.5555555, y: 0.36363634}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 334
+      width: 27
+      height: 44
+    spriteID: 0019751a739d7e84cb9b343e78d46770
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 334}
+  - name: Icarus Animations - Copy_Frame_126
+    originalName: 
+    pivot: {x: 0.5555555, y: 0.36363634}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 386
+      width: 27
+      height: 44
+    spriteID: e757a81d79834214ebb5b80296d7f7f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 386}
+  - name: Icarus Animations - Copy_Frame_127
+    originalName: 
+    pivot: {x: 0.36363637, y: 0.43333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 307
+      width: 33
+      height: 30
+    spriteID: d7f1dad249c66984f9372ea603d4493d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 307}
+  - name: Icarus Animations - Copy_Frame_128
+    originalName: 
+    pivot: {x: 0.43243238, y: 0.44827586}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 362
+      y: 263
+      width: 37
+      height: 29
+    spriteID: 8b16369f4bf631c47b552850e6004091
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 362, y: 263}
+  - name: Icarus Animations - Copy_Frame_129
+    originalName: 
+    pivot: {x: 0.5294118, y: 0.3870968}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 407
+      y: 263
+      width: 34
+      height: 31
+    spriteID: 334de9c3d2eb2a149a2511832834532e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 407, y: 263}
+  - name: Icarus Animations - Copy_Frame_130
+    originalName: 
+    pivot: {x: 0.6969697, y: 0.38235295}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 388
+      y: 172
+      width: 33
+      height: 34
+    spriteID: 9b80a7f629e37cb4ca1f6666d40450ef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 388, y: 172}
+  - name: Icarus Animations - Copy_Frame_131
+    originalName: 
+    pivot: {x: 0.35294122, y: 0.43333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 307
+      width: 34
+      height: 30
+    spriteID: e836b2969ddf2ad4f80f75926bc9f6fa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 40, y: 307}
+  - name: Icarus Animations - Copy_Frame_132
+    originalName: 
+    pivot: {x: 0.51428574, y: 0.3870968}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 359
+      y: 219
+      width: 35
+      height: 31
+    spriteID: 1a4c849a3d03f64479b1493943185455
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 359, y: 219}
+  - name: Icarus Animations - Copy_Frame_133
+    originalName: 
+    pivot: {x: 0.6764706, y: 0.36363637}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 429
+      y: 172
+      width: 34
+      height: 33
+    spriteID: 2a41dcbec277b104097b505d98f55ed1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 429, y: 172}
+  - name: Icarus Animations - Copy_Frame_134
+    originalName: 
+    pivot: {x: 0.35294122, y: 0.43333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 307
+      width: 34
+      height: 30
+    spriteID: 7118cc8386dd3704b802dc34fb9692ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 307}
+  - name: Icarus Animations - Copy_Frame_135
+    originalName: 
+    pivot: {x: 0.51428574, y: 0.3870968}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 402
+      y: 219
+      width: 35
+      height: 31
+    spriteID: 7263d8e375c618344930234f4fb1ba99
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 402, y: 219}
+  - name: Icarus Animations - Copy_Frame_136
+    originalName: 
+    pivot: {x: 0.6764706, y: 0.36363637}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 471
+      y: 172
+      width: 34
+      height: 33
+    spriteID: 020101506f95db34f9193163c5292adc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 471, y: 172}
+  - name: Icarus Animations - Copy_Frame_137
+    originalName: 
+    pivot: {x: 0.36363637, y: 0.43333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 165
+      y: 307
+      width: 33
+      height: 30
+    spriteID: c2bf80f65aa9b3748b14a9a64190cf80
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 165, y: 307}
+  - name: Icarus Animations - Copy_Frame_138
+    originalName: 
+    pivot: {x: 0.51428574, y: 0.3870968}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 445
+      y: 219
+      width: 35
+      height: 31
+    spriteID: b2868c7aa8067514bad4ab35582d7e52
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 445, y: 219}
+  - name: Icarus Animations - Copy_Frame_139
+    originalName: 
+    pivot: {x: 0.6969697, y: 0.36363637}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 318
+      y: 219
+      width: 33
+      height: 33
+    spriteID: 7ba077d15e2ab8f46b8dd6edf339c011
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 318, y: 219}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    uuid:
+      value0: 2148698568
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: -2146268728
+    name: Icarus Animations - Copy
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 19
+        y: 22
+        width: 33
+        height: 40
+      spriteId: fd193549943748c4591aeb113125a936
+    - name: Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 13
+        width: 27
+        height: 36
+      spriteId: b354ae0ca4aad6443bc8fdb9f1c070b5
+    - name: Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 13
+        width: 26
+        height: 34
+      spriteId: 7374bbf4d7aa81743a16220fb57f54c7
+    - name: Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 24
+        y: 19
+        width: 28
+        height: 28
+      spriteId: 9a906d6ca8239ff47bbbfb3b1388756c
+    - name: Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 19
+        y: 24
+        width: 33
+        height: 38
+      spriteId: 7b6bcc0736227984aad0d3de18aa46ed
+    - name: Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 24
+        y: 24
+        width: 28
+        height: 44
+      spriteId: 55e1f1f1ea8368d48bb0c9206220d7d5
+    - name: Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 19
+        y: 22
+        width: 33
+        height: 40
+      spriteId: 0f1279483e2daed438a6f37030dc2895
+    - name: Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 13
+        width: 27
+        height: 36
+      spriteId: 5751ba9485d6b864494f6b5fd3ad6d8e
+    - name: Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 13
+        width: 26
+        height: 34
+      spriteId: b09d3b84b4394ab43843eeec60271c72
+    - name: Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 19
+        width: 27
+        height: 28
+      spriteId: db1b8d94ae5f11b449b7414298ab6062
+    - name: Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 20
+        y: 24
+        width: 32
+        height: 38
+      spriteId: c2401628aa10e92418469d3cc9c88804
+    - name: Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 24
+        y: 24
+        width: 28
+        height: 44
+      spriteId: 265f84bc365e9ec4499e416ab5670063
+    - name: Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 19
+        y: 22
+        width: 33
+        height: 40
+      spriteId: 401ada7a3118def4d8dbf604092f28eb
+    - name: Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 13
+        width: 27
+        height: 36
+      spriteId: e8532b7c346aa904aa6f51a147938e2f
+    - name: Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 19
+        width: 26
+        height: 28
+      spriteId: 6908ced66238adf4c9fee5f3ef4df58f
+    - name: Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 24
+        width: 31
+        height: 38
+      spriteId: 49e60a480355f054d8a512bd4a873508
+    - name: Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 24
+        width: 27
+        height: 44
+      spriteId: 9e5189416dd5ded48a11e99849b31698
+    - name: Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 24
+        y: 24
+        width: 28
+        height: 44
+      spriteId: 36f9735b37a3de743af34eed8e36a5c0
+    - name: Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 1
+        y: 23
+        width: 57
+        height: 51
+      spriteId: 2799c813f56040547b669a2a803d8be9
+    - name: Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 23
+        width: 58
+        height: 55
+      spriteId: c8e87b1812fda284ab951e394590bc44
+    - name: Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 23
+        width: 55
+        height: 54
+      spriteId: cac3151c835c7394dab24221f3031795
+    - name: Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 23
+        width: 32
+        height: 36
+      spriteId: 674767265d56f8c46996edb65c4e1332
+    - name: Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 1
+        y: 23
+        width: 57
+        height: 51
+      spriteId: e5b309febd63b9e4eb7421e72c2bc0f0
+    - name: Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 23
+        width: 58
+        height: 55
+      spriteId: 622705def6cf9034cbe98b63fe4a842f
+    - name: Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 23
+        width: 55
+        height: 54
+      spriteId: 6a43ddab930b70448bb22c2236f50ac4
+    - name: Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 23
+        width: 32
+        height: 36
+      spriteId: f80c97121e2055c429029d8a06e6a1dd
+    - name: Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 1
+        y: 23
+        width: 57
+        height: 51
+      spriteId: 62b962077a089d14db90725dfff0d166
+    - name: Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 23
+        width: 58
+        height: 55
+      spriteId: 2ef6f4dbc2b0fdd489546dcdd1e708b2
+    - name: Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 23
+        width: 55
+        height: 54
+      spriteId: 2cf53c2cd3d77ce4d93817cfbf87ff41
+    - name: Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 23
+        width: 32
+        height: 36
+      spriteId: bedd3935cc3922c479370f76c4ab5e64
+    - name: Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 24
+        width: 31
+        height: 36
+      spriteId: 6ce4e80a3275fb942901abae8ee67896
+    - name: Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 24
+        width: 31
+        height: 37
+      spriteId: 969dd2b6a5e94f64abcb0a24bb513015
+    - name: Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 24
+        width: 31
+        height: 37
+      spriteId: adf5b38f743ca184faf5364a194275aa
+    - name: Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 24
+        width: 31
+        height: 36
+      spriteId: 071166c28204de7448e4f9ca97f82b43
+    - name: Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 24
+        width: 31
+        height: 37
+      spriteId: 2991e79e5e2f5584ca5e89135beb8a34
+    - name: Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 24
+        width: 31
+        height: 37
+      spriteId: 04cb66e7944fb8d47aebbedabe001fa8
+    - name: Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 24
+        width: 31
+        height: 36
+      spriteId: 9b7e085e2263966488e1998902edb87b
+    - name: Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 24
+        width: 31
+        height: 37
+      spriteId: 6fcf938f98a61b8468b28707d7d18ceb
+    - name: Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 24
+        width: 31
+        height: 37
+      spriteId: a53ea3d04661a484d86c8883c51841eb
+    - name: Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 24
+        width: 31
+        height: 36
+      spriteId: 030dc594a42782c4a82145c133f776c4
+    - name: Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 24
+        width: 31
+        height: 36
+      spriteId: 43e4ba010f2301749b55f3b58884cae5
+    - name: Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 24
+        width: 31
+        height: 36
+      spriteId: bd7e9e0959bc72349aae40279ffeeb82
+    - name: Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 24
+        y: 24
+        width: 28
+        height: 44
+      spriteId: 4c4e43fe9878ef24e9645423b274e100
+    - name: Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 24
+        width: 27
+        height: 44
+      spriteId: 5f7049f443c811e408bebaa84e962185
+    - name: Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 29
+        y: 40
+        width: 20
+        height: 28
+      spriteId: cbbcbd759c83a63439a88ac27e110306
+    - name: Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 46
+        y: 40
+        width: 3
+        height: 3
+      spriteId: 1a7495cf3d3780140af64d8b9a075f98
+    - name: Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 16
+        width: 23
+        height: 32
+      spriteId: 8835ccf882b542d40b8a4cf9deb45e8d
+    - name: Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 16
+        width: 23
+        height: 32
+      spriteId: e03972381e92d254bade5d6ba58f8d50
+    - name: Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 16
+        width: 23
+        height: 32
+      spriteId: 0071270353fe4e642b9f681bde48bc49
+    - name: Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 16
+        width: 22
+        height: 32
+      spriteId: 5e60733946be4494a9acf175eb69bea4
+    - name: Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 16
+        width: 22
+        height: 32
+      spriteId: 35ea5c3d9301d0941999aaf428d77c41
+    - name: Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 16
+        width: 22
+        height: 32
+      spriteId: 2c256794d9e3d5d4c8a78ae5c6382c8f
+    - name: Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 16
+        width: 22
+        height: 32
+      spriteId: 3e5aa3302dc69194483ca8e114bb0800
+    - name: Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 16
+        width: 22
+        height: 32
+      spriteId: 127b3b4f0f5aecd4f9bc88cde2ef7b9c
+    - name: Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 16
+        width: 22
+        height: 32
+      spriteId: 20e955d761a368f448fbb4a48b8ccadb
+    - name: Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 16
+        width: 22
+        height: 32
+      spriteId: d3c214081c4d6ea48b625dea4b0e7f14
+    - name: Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 16
+        width: 22
+        height: 32
+      spriteId: a05b86b0a7fd0ac4eadfc3b3c650b318
+    - name: Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 16
+        width: 22
+        height: 32
+      spriteId: c72013d89c307c84c8ac6b0d46c32d9a
+    - name: Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 16
+        width: 22
+        height: 32
+      spriteId: 7ddcf17ca59fe3142bc9d47fe188486d
+    - name: Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 16
+        width: 22
+        height: 32
+      spriteId: 075f98f957f1ad6449deedbbe16331be
+    - name: Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 16
+        width: 22
+        height: 32
+      spriteId: 09cedd680b93ce946a05067fb25a8e8f
+    - name: Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 16
+        width: 22
+        height: 32
+      spriteId: 1b343eee58c9d294e9cd2af0f0b8e726
+    - name: Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 16
+        width: 22
+        height: 32
+      spriteId: 44a1a5daaba12a6418c85e13f7ad2cf9
+    - name: Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 16
+        width: 22
+        height: 32
+      spriteId: 7090ca05c3a66894ba8f43ba5ed55b57
+    - name: Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 16
+        width: 23
+        height: 32
+      spriteId: d475e398cce05d045bb8291c7d9cb935
+    - name: Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 16
+        width: 23
+        height: 32
+      spriteId: cdd45f3621d7a0846bd8494964e14d57
+    - name: Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 24
+        y: 24
+        width: 30
+        height: 36
+      spriteId: 6e7306dfcda219d42a3dc1c901b1d39a
+    - name: Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 24
+        y: 24
+        width: 30
+        height: 36
+      spriteId: 3514a2688e7a1de42a3551945ad9d051
+    - name: Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 24
+        y: 24
+        width: 30
+        height: 36
+      spriteId: e8d314aafd2adc04f9e5e9b96c37ee2b
+    - name: Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 24
+        y: 24
+        width: 30
+        height: 36
+      spriteId: 913469e8476feb141b447a48b7654cfa
+    - name: Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 24
+        y: 24
+        width: 30
+        height: 35
+      spriteId: 27f21150b2b115a419b7656e9f7be5df
+    - name: Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 24
+        y: 24
+        width: 30
+        height: 36
+      spriteId: e90dca10f40665249af22c8df1636d82
+    - name: Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 16
+        width: 23
+        height: 34
+      spriteId: f90b64a8c087cea46aab6dfde629190a
+    - name: Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 16
+        width: 23
+        height: 33
+      spriteId: cba5d9ad89ea42d46837aa04b2710f21
+    - name: Frame_74
+      frameIndex: 74
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 16
+        width: 23
+        height: 33
+      spriteId: f30cad2cf1bb88d459de9c3a85050cd3
+    - name: Frame_75
+      frameIndex: 75
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 16
+        width: 23
+        height: 33
+      spriteId: 57693558e47ee4543a160e957d984f6b
+    - name: Frame_76
+      frameIndex: 76
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 16
+        width: 23
+        height: 33
+      spriteId: 75758ce02d2f2f44895897ed1bd758e1
+    - name: Frame_77
+      frameIndex: 77
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 16
+        width: 23
+        height: 34
+      spriteId: 63d118308a9f1a4459ad04aa2fd32f97
+    - name: Frame_78
+      frameIndex: 78
+      additiveSortOrder: 0
+      cellRect:
+        x: 29
+        y: 16
+        width: 20
+        height: 33
+      spriteId: 27de31e24e9f94f4f8cd622867146c8c
+    - name: Frame_79
+      frameIndex: 79
+      additiveSortOrder: 0
+      cellRect:
+        x: 27
+        y: 16
+        width: 22
+        height: 34
+      spriteId: b94b02ab954afc84f88a24cda58e5e2f
+    - name: Frame_80
+      frameIndex: 80
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 16
+        width: 21
+        height: 32
+      spriteId: 2a3ba0e2ba38f144dbe1a9870acd80db
+    - name: Frame_81
+      frameIndex: 81
+      additiveSortOrder: 0
+      cellRect:
+        x: 30
+        y: 16
+        width: 20
+        height: 33
+      spriteId: d412b44c8208e3f4fac3c63cfe14a813
+    - name: Frame_82
+      frameIndex: 82
+      additiveSortOrder: 0
+      cellRect:
+        x: 30
+        y: 16
+        width: 20
+        height: 34
+      spriteId: e32562a65f5c9e248a6cbd4af29e0369
+    - name: Frame_83
+      frameIndex: 83
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 16
+        width: 21
+        height: 34
+      spriteId: 7215203ef03f8294db15ebb26befb825
+    - name: Frame_84
+      frameIndex: 84
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 16
+        width: 25
+        height: 32
+      spriteId: 8c4a6c082173edc4c8f9039160377e7d
+    - name: Frame_85
+      frameIndex: 85
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 16
+        width: 22
+        height: 33
+      spriteId: ce450c3659231014fb77dd19b86700c5
+    - name: Frame_86
+      frameIndex: 86
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 18
+        width: 22
+        height: 31
+      spriteId: a88d5e3ef7622364983f90ab9edc3527
+    - name: Frame_87
+      frameIndex: 87
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 19
+        width: 23
+        height: 31
+      spriteId: 18e0fbec2980b834586107b6f2c5efa8
+    - name: Frame_88
+      frameIndex: 88
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 18
+        width: 20
+        height: 32
+      spriteId: f28ad854757277c458ac9897e2288bb8
+    - name: Frame_89
+      frameIndex: 89
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 17
+        width: 23
+        height: 30
+      spriteId: 0db1d18f72a4ebe4691e43c433722f36
+    - name: Frame_90
+      frameIndex: 90
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 16
+        width: 28
+        height: 29
+      spriteId: 86a0c44544427a04cb8ca3873bb9b5f5
+    - name: Frame_91
+      frameIndex: 91
+      additiveSortOrder: 0
+      cellRect:
+        x: 29
+        y: 16
+        width: 23
+        height: 31
+      spriteId: edc75a9f69bbd734dae0348d08aeb0a2
+    - name: Frame_92
+      frameIndex: 92
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 16
+        width: 23
+        height: 33
+      spriteId: 3e0f8c448ddcbd143800a6da90a14225
+    - name: Frame_93
+      frameIndex: 93
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 26
+        width: 36
+        height: 32
+      spriteId: e988d918c9ea5304eb02a5ed9f2d3d7e
+    - name: Frame_94
+      frameIndex: 94
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 26
+        width: 36
+        height: 32
+      spriteId: 09bda5bb5d33af747b986ccaa62cf594
+    - name: Frame_95
+      frameIndex: 95
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 26
+        width: 36
+        height: 31
+      spriteId: 7ef10ea7d63f80b46a39c61bfb42a153
+    - name: Frame_96
+      frameIndex: 96
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 26
+        width: 36
+        height: 32
+      spriteId: a8b13812dd74d5840a4f28f4f330ad58
+    - name: Frame_97
+      frameIndex: 97
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 23
+        width: 20
+        height: 31
+      spriteId: 8fef262194ebfd54f9d97b1e85280b04
+    - name: Frame_98
+      frameIndex: 98
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 23
+        width: 20
+        height: 31
+      spriteId: 61e976d9a349d8444bf1372e9fb604be
+    - name: Frame_99
+      frameIndex: 99
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 22
+        width: 20
+        height: 32
+      spriteId: 618ce78dfe0cf6c4b9daf93136a83888
+    - name: Frame_100
+      frameIndex: 100
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 22
+        width: 20
+        height: 32
+      spriteId: a62bee550d591f7409f0febdefc45243
+    - name: Frame_101
+      frameIndex: 101
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 23
+        width: 20
+        height: 31
+      spriteId: 9d19248d1b5b1844aa308ab57719eb21
+    - name: Frame_102
+      frameIndex: 102
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 23
+        width: 20
+        height: 31
+      spriteId: fa9003559cacd8546bf788d2532001ff
+    - name: Frame_103
+      frameIndex: 103
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 22
+        width: 20
+        height: 32
+      spriteId: ec07370c4120436459208a8abd33a574
+    - name: Frame_104
+      frameIndex: 104
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 22
+        width: 20
+        height: 32
+      spriteId: 4b9d62d479c13a446a0e3d71aa6c8141
+    - name: Frame_105
+      frameIndex: 105
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 23
+        width: 20
+        height: 31
+      spriteId: e119c6cff88edf1439f57c833d5ec28c
+    - name: Frame_106
+      frameIndex: 106
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 23
+        width: 20
+        height: 31
+      spriteId: 01a32852772ae2a4396ada69449b482d
+    - name: Frame_107
+      frameIndex: 107
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 22
+        width: 20
+        height: 32
+      spriteId: c5a88af901f0dbb4f83355726f8aa41d
+    - name: Frame_108
+      frameIndex: 108
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 22
+        width: 20
+        height: 32
+      spriteId: 38899edd24c1ee14b80d1f45df8eba78
+    - name: Frame_109
+      frameIndex: 109
+      additiveSortOrder: 0
+      cellRect:
+        x: 24
+        y: 16
+        width: 26
+        height: 32
+      spriteId: 0f9cfb0071782ce49b7eeddce3eae2aa
+    - name: Frame_110
+      frameIndex: 110
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 16
+        width: 36
+        height: 30
+      spriteId: 7ab7128822ed565468990f2a70ddbb80
+    - name: Frame_111
+      frameIndex: 111
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 16
+        width: 39
+        height: 30
+      spriteId: 896644be923f004409d3e299ab74c2d6
+    - name: Frame_112
+      frameIndex: 112
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 16
+        width: 35
+        height: 39
+      spriteId: 7f97f11ef92b9bd41ac8288fdc0ace9f
+    - name: Frame_113
+      frameIndex: 113
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 16
+        width: 30
+        height: 39
+      spriteId: b3e1e4d50afd9d742957fa5606412c0b
+    - name: Frame_114
+      frameIndex: 114
+      additiveSortOrder: 0
+      cellRect:
+        x: 24
+        y: 16
+        width: 26
+        height: 32
+      spriteId: 234abb47533be46449f43bd7471e6b42
+    - name: Frame_115
+      frameIndex: 115
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 16
+        width: 36
+        height: 30
+      spriteId: c5e3a885cfcd9314faee2c3bb803ce0c
+    - name: Frame_116
+      frameIndex: 116
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 16
+        width: 39
+        height: 30
+      spriteId: 5587754f1b7d85146a19f1b0a247b6e4
+    - name: Frame_117
+      frameIndex: 117
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 16
+        width: 35
+        height: 39
+      spriteId: fa990b8110375a14da952c38741ccb70
+    - name: Frame_118
+      frameIndex: 118
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 16
+        width: 30
+        height: 39
+      spriteId: e470c6dc4b1e0d04baeba2f2cb4538f5
+    - name: Frame_119
+      frameIndex: 119
+      additiveSortOrder: 0
+      cellRect:
+        x: 24
+        y: 16
+        width: 26
+        height: 32
+      spriteId: 92361a6bfc50f81419b32d801de823ec
+    - name: Frame_120
+      frameIndex: 120
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 16
+        width: 36
+        height: 30
+      spriteId: 7488b2b4fc802f8498af23bc8e77ac2b
+    - name: Frame_121
+      frameIndex: 121
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 16
+        width: 39
+        height: 30
+      spriteId: 2a42cd32210a72f4bb6fa74124c23706
+    - name: Frame_122
+      frameIndex: 122
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 16
+        width: 35
+        height: 39
+      spriteId: eed560396f9b69a42926f3340553660d
+    - name: Frame_123
+      frameIndex: 123
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 16
+        width: 30
+        height: 39
+      spriteId: 9ff970bdad76f0d46a8dca58dfb05cba
+    - name: Frame_124
+      frameIndex: 124
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 24
+        width: 27
+        height: 44
+      spriteId: 088abd85431915c46a9714b3224112d6
+    - name: Frame_125
+      frameIndex: 125
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 24
+        width: 27
+        height: 44
+      spriteId: 0019751a739d7e84cb9b343e78d46770
+    - name: Frame_126
+      frameIndex: 126
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 24
+        width: 27
+        height: 44
+      spriteId: e757a81d79834214ebb5b80296d7f7f2
+    - name: Frame_127
+      frameIndex: 127
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 27
+        width: 33
+        height: 30
+      spriteId: d7f1dad249c66984f9372ea603d4493d
+    - name: Frame_128
+      frameIndex: 128
+      additiveSortOrder: 0
+      cellRect:
+        x: 24
+        y: 27
+        width: 37
+        height: 29
+      spriteId: 8b16369f4bf631c47b552850e6004091
+    - name: Frame_129
+      frameIndex: 129
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 28
+        width: 34
+        height: 31
+      spriteId: 334de9c3d2eb2a149a2511832834532e
+    - name: Frame_130
+      frameIndex: 130
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 27
+        width: 33
+        height: 34
+      spriteId: 9b80a7f629e37cb4ca1f6666d40450ef
+    - name: Frame_131
+      frameIndex: 131
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 27
+        width: 34
+        height: 30
+      spriteId: e836b2969ddf2ad4f80f75926bc9f6fa
+    - name: Frame_132
+      frameIndex: 132
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 28
+        width: 35
+        height: 31
+      spriteId: 1a4c849a3d03f64479b1493943185455
+    - name: Frame_133
+      frameIndex: 133
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 28
+        width: 34
+        height: 33
+      spriteId: 2a41dcbec277b104097b505d98f55ed1
+    - name: Frame_134
+      frameIndex: 134
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 27
+        width: 34
+        height: 30
+      spriteId: 7118cc8386dd3704b802dc34fb9692ec
+    - name: Frame_135
+      frameIndex: 135
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 28
+        width: 35
+        height: 31
+      spriteId: 7263d8e375c618344930234f4fb1ba99
+    - name: Frame_136
+      frameIndex: 136
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 28
+        width: 34
+        height: 33
+      spriteId: 020101506f95db34f9193163c5292adc
+    - name: Frame_137
+      frameIndex: 137
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 27
+        width: 33
+        height: 30
+      spriteId: c2bf80f65aa9b3748b14a9a64190cf80
+    - name: Frame_138
+      frameIndex: 138
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 28
+        width: 35
+        height: 31
+      spriteId: b2868c7aa8067514bad4ab35582d7e52
+    - name: Frame_139
+      frameIndex: 139
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 28
+        width: 33
+        height: 33
+      spriteId: 7ba077d15e2ab8f46b8dd6edf339c011
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 80, y: 80}
+  previousTextureSize: {x: 512, y: 512}

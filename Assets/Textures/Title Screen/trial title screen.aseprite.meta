@@ -1,0 +1,752 @@
+fileFormatVersion: 2
+guid: fc0a5cd2afbb57c45b5694dc97a112bf
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  importerVersion: 2
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 0
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 0
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638367772131069328
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: BG
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 216
+      width: 117
+      height: 247
+    spriteID: 8aea141b3abd974408b59f1bbc4bd8b3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 216}
+  - name: bg clouds
+    originalName: 
+    pivot: {x: 0.5, y: 0.4617117}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 381
+      y: 216
+      width: 117
+      height: 222
+    spriteID: f8f5ed0ec26e7004188e7263ba465caa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 381, y: 216}
+  - name: sun 2
+    originalName: 
+    pivot: {x: 0.268, y: -0.2126866}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 4
+      width: 125
+      height: 134
+    spriteID: b696def7cef5d914e824953409fc9d16
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 192, y: 4}
+  - name: clouds 1
+    originalName: 
+    pivot: {x: 0.47499996, y: 0.629902}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 180
+      height: 204
+    spriteID: 7853bcded58d76b4c834f537d98ebff7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: poof back
+    originalName: 
+    pivot: {x: 0.90983605, y: 2.3139534}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 381
+      y: 446
+      width: 61
+      height: 43
+    spriteID: 0c58b074307f363439f1eae82295e46d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 381, y: 446}
+  - name: poof front
+    originalName: 
+    pivot: {x: 1.2361112, y: 2.859375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 450
+      width: 36
+      height: 32
+    spriteID: 8b1708d81ba10644eb79e367636c9339
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 336, y: 450}
+  - name: Icarus
+    originalName: 
+    pivot: {x: 0.7763158, y: 1.6447369}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 205
+      y: 449
+      width: 38
+      height: 38
+    spriteID: 7c51214a17b8e5641998c479b4adefa6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 205, y: 449}
+  - name: clouds 3
+    originalName: 
+    pivot: {x: 0.8125, y: -1.3301889}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 450
+      width: 72
+      height: 53
+    spriteID: 46aa9e0dce3143f479f41d61171f4660
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 256, y: 450}
+  - name: title
+    originalName: 
+    pivot: {x: 0.47159094, y: -3.916667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 471
+      width: 88
+      height: 18
+    spriteID: 3926fa7174e21734db6599fa5d08af5d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 471}
+  - name: sun light
+    originalName: 
+    pivot: {x: 0.5, y: 0.4535398}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 216
+      width: 117
+      height: 226
+    spriteID: 1ba4d1fafd82ab44ba8a38b56eccdd07
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 256, y: 216}
+  - name: clouds 2
+    originalName: 
+    pivot: {x: 0.8602941, y: 2.375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 449
+      width: 68
+      height: 52
+    spriteID: 82c381b9bbe842a41b089069aabd276f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 449}
+  - name: sun rays
+    originalName: 
+    pivot: {x: 0.49159664, y: 0.45111108}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 216
+      width: 119
+      height: 225
+    spriteID: 7a091f7be5b04aa49a59cca280bb3653
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 216}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    uuid:
+      value0: 337905051
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: 337905051
+    name: Icarus
+    layerFlags: 3
+    layerType: 1
+    blendMode: 0
+    cells: []
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 1
+    uuid:
+      value0: 1578716694
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: 1578716694
+    name: Group 1
+    layerFlags: 3
+    layerType: 1
+    blendMode: 0
+    cells: []
+    linkedCells: []
+    parentIndex: 0
+  - layerIndex: 2
+    uuid:
+      value0: 4293429524
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: -1537772
+    name: BG
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: BG
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 117
+        height: 247
+      spriteId: 8aea141b3abd974408b59f1bbc4bd8b3
+    linkedCells: []
+    parentIndex: 1
+  - layerIndex: 4
+    uuid:
+      value0: 4234714638
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: -60252658
+    name: bg clouds
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: bg clouds
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 21
+        width: 117
+        height: 222
+      spriteId: f8f5ed0ec26e7004188e7263ba465caa
+    linkedCells: []
+    parentIndex: 1
+  - layerIndex: 6
+    uuid:
+      value0: 3347569551
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: -947397745
+    name: sun 2
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: sun 2
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 152
+        width: 125
+        height: 134
+      spriteId: b696def7cef5d914e824953409fc9d16
+    linkedCells: []
+    parentIndex: 1
+  - layerIndex: 7
+    uuid:
+      value0: 1199907266
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: 1199907266
+    name: clouds 1
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: clouds 1
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: -27
+        y: -5
+        width: 180
+        height: 204
+      spriteId: 7853bcded58d76b4c834f537d98ebff7
+    linkedCells: []
+    parentIndex: 1
+  - layerIndex: 8
+    uuid:
+      value0: 304708444
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: 304708444
+    name: Icarus
+    layerFlags: 3
+    layerType: 1
+    blendMode: 0
+    cells: []
+    linkedCells: []
+    parentIndex: 1
+  - layerIndex: 9
+    uuid:
+      value0: 889039756
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: 889039756
+    name: poof back
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: poof back
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 24
+        width: 61
+        height: 43
+      spriteId: 0c58b074307f363439f1eae82295e46d
+    linkedCells: []
+    parentIndex: 8
+  - layerIndex: 10
+    uuid:
+      value0: 2592143654
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: -1702823642
+    name: poof front
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: poof front
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 32
+        width: 36
+        height: 32
+      spriteId: 8b1708d81ba10644eb79e367636c9339
+    linkedCells: []
+    parentIndex: 8
+  - layerIndex: 11
+    uuid:
+      value0: 3136186038
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: -1158781258
+    name: Icarus
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Icarus
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 29
+        y: 61
+        width: 38
+        height: 38
+      spriteId: 7c51214a17b8e5641998c479b4adefa6
+    linkedCells: []
+    parentIndex: 8
+  - layerIndex: 13
+    uuid:
+      value0: 1199907268
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: 1199907268
+    name: clouds 3
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: clouds 3
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 194
+        width: 72
+        height: 53
+      spriteId: 46aa9e0dce3143f479f41d61171f4660
+    linkedCells: []
+    parentIndex: 1
+  - layerIndex: 15
+    uuid:
+      value0: 3436411341
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: -858555955
+    name: Layer 2
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells: []
+    linkedCells: []
+    parentIndex: 0
+  - layerIndex: 16
+    uuid:
+      value0: 2435225568
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: -1859741728
+    name: title
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: title
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 194
+        width: 88
+        height: 18
+      spriteId: 3926fa7174e21734db6599fa5d08af5d
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 5
+    uuid:
+      value0: 3216924263
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: -1078043033
+    name: sun light
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: sun light
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 21
+        width: 117
+        height: 226
+      spriteId: 1ba4d1fafd82ab44ba8a38b56eccdd07
+    linkedCells: []
+    parentIndex: 1
+  - layerIndex: 12
+    uuid:
+      value0: 1199907269
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: 1199907269
+    name: clouds 2
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: clouds 2
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 68
+        height: 52
+      spriteId: 82c381b9bbe842a41b089069aabd276f
+    linkedCells: []
+    parentIndex: 1
+  - layerIndex: 14
+    uuid:
+      value0: 902082693
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: 902082693
+    name: sun rays
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: sun rays
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 22
+        width: 119
+        height: 225
+      spriteId: 7a091f7be5b04aa49a59cca280bb3653
+    linkedCells: []
+    parentIndex: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 117, y: 247}
+  previousTextureSize: {x: 512, y: 512}
