@@ -32,6 +32,15 @@ public class PreGameScreen : MonoBehaviour
 
         //CHANGE the scene to load depending if we need tutorial or not
         AsyncOperation loadingOperation = SceneManager.LoadSceneAsync(SceneToLoad());
+
+        Debug.Log("Loading Scene: " + SceneToLoad());
+        
+        if (loadingOperation == null)
+        {
+            Debug.LogError("Failed to load scene: " + SceneToLoad());
+            yield break;
+        }
+
         loadingOperation.allowSceneActivation = false;
 
         while (!loadingOperation.isDone)
@@ -61,11 +70,11 @@ public class PreGameScreen : MonoBehaviour
     {
         if (!PlayerPrefs.HasKey("tutorial"))
         {
-            return "TutorialScene";
+            return "Scenes/TutorialScene";
         }
         else
         {
-            return "GameScene";
+            return "Scenes/GameScene";
         }
     }
 
