@@ -187,7 +187,7 @@ TextureImporter:
         height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 12, y: 4, z: 5, w: 3}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -229,7 +229,7 @@ TextureImporter:
         height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 12, y: 4, z: 5, w: 3}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -1000,13 +1000,13 @@ TextureImporter:
       name: UI Atlas 3_41
       rect:
         serializedVersion: 2
-        x: 177
+        x: 176
         y: 400
-        width: 44
+        width: 45
         height: 38
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 9, y: 9, z: 8, w: 9}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -1341,7 +1341,7 @@ TextureImporter:
         width: 100
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1362,7 +1362,7 @@ TextureImporter:
         width: 100
         height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1370,6 +1370,48 @@ TextureImporter:
       bones: []
       spriteID: feb2d6b25cabe3a4383eaf50e85e5380
       internalID: -713197625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Atlas 3_59
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 60
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 4, z: 4, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55f2b465bd483644b7ae2ea5504f084
+      internalID: -1021819061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Atlas 3_60
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 30
+        width: 59
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6074af9a6707c24d922f2a33b4f8933
+      internalID: -1005321682
       vertices: []
       indices: 
       edges: []
@@ -1440,7 +1482,9 @@ TextureImporter:
       UI Atlas 3_56: 1876741068
       UI Atlas 3_57: 1078205855
       UI Atlas 3_58: -713197625
+      UI Atlas 3_59: -1021819061
       UI Atlas 3_6: -224656263
+      UI Atlas 3_60: -1005321682
       UI Atlas 3_7: -363252143
       UI Atlas 3_8: 1029187698
       UI Atlas 3_9: -1982257477

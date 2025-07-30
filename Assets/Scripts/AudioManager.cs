@@ -87,7 +87,7 @@ public class AudioManager : MonoBehaviour
     {
         Sound s = Array.Find(sfxSounds, x => x.name == name);
 
-        float timer = 0f;
+        //float timer = 0f;
 
         if (s == null)
         {

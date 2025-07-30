@@ -40,7 +40,7 @@ public class ShopManager : MonoBehaviour
         prevTabIdentifier = currentTabIdentifier;
 
         _tabName.sprite = _tabNameSprites[currentTabIdentifier];
-        _pageTitleTMP.text = currentTabTitle;
+        //_pageTitleTMP.text = currentTabTitle;
 
         //_pageNumTMP.text = "(" + pageNum.ToString() + " " + currentTabAnimationClipNames.Length.ToString() + ")";
 

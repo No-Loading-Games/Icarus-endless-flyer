@@ -5,6 +5,8 @@ using UnityEngine.UI;
 
 public class HeadWearManager : MonoBehaviour // Used to manage ALL head wears inside the Skins UI and the Shop UI
 {
+
+    #region Private & Public Variables
     private static HeadWearManager instance;
 
     public static HeadWearManager Instance
@@ -76,6 +78,8 @@ public class HeadWearManager : MonoBehaviour // Used to manage ALL head wears in
         set { _currentHeadWearAnimatorOverride = value; }
     }
     public List<HeadWearSO> HeadWears { get { return _headWears; } }
+
+    #endregion
 
     private void Awake()
     {

@@ -715,7 +715,7 @@ Canvas:
   m_GameObject: {fileID: 54876226}
   m_Enabled: 1
   serializedVersion: 3
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_Camera: {fileID: 326683543}
   m_PlaneDistance: 100
   m_PixelPerfect: 1
@@ -7325,7 +7325,7 @@ Canvas:
   m_GameObject: {fileID: 452694495}
   m_Enabled: 1
   serializedVersion: 3
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_Camera: {fileID: 326683543}
   m_PlaneDistance: 100
   m_PixelPerfect: 1
@@ -7418,9 +7418,10 @@ MonoBehaviour:
   _icarusStart: {fileID: 1235110178}
   _fireUI: {fileID: 1647829826}
   _inGameUICanvas: {fileID: 54876226}
-  _inGameUIGroup: {fileID: 0}
+  _inGameUIGroup: {fileID: 452694495}
   _rightSquare: {fileID: 288971144}
   _leftSquare: {fileID: 1995709806}
+  _popUpUI: {fileID: 2438317037503874158, guid: d3e436d4e774eef4db0a6692f864e7c8, type: 3}
 --- !u!4 &479327909
 Transform:
   m_ObjectHideFlags: 0
@@ -14957,7 +14958,7 @@ Canvas:
   m_GameObject: {fileID: 1202791483}
   m_Enabled: 1
   serializedVersion: 3
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_Camera: {fileID: 326683543}
   m_PlaneDistance: 100
   m_PixelPerfect: 1
@@ -31822,6 +31823,7 @@ GameObject:
   - component: {fileID: 1597214154}
   - component: {fileID: 1597214152}
   - component: {fileID: 1597214159}
+  - component: {fileID: 1597214160}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -31999,6 +32001,30 @@ MonoBehaviour:
   referenceHeight: 988
   referenceOrthoSize: 4.94
   cam: {fileID: 1597214157}
+--- !u!114 &1597214160
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1597214151}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c88f5cead0c0b2a4eb05b5900433f8d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_ComponentVersion: 1
+  m_AssetsPPU: 100
+  m_RefResolutionX: 468
+  m_RefResolutionY: 988
+  m_CropFrame: 4
+  m_GridSnapping: 2
+  m_FilterMode: 0
+  m_UpscaleRT: 0
+  m_PixelSnapping: 0
+  m_CropFrameX: 0
+  m_CropFrameY: 0
+  m_StretchFill: 0
 --- !u!1 &1600785416
 GameObject:
   m_ObjectHideFlags: 0
@@ -32389,7 +32415,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3976803bb1b94eb49b46fd07a1c73dbe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _burningVignetteFX: {fileID: 0}
+  _burningVignetteFX: {fileID: 1093066024}
 --- !u!95 &1647829827
 Animator:
   serializedVersion: 5

@@ -4,23 +4,23 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.Events;
+using System.Linq;
 
 public class ShopItem : MonoBehaviour
 {
-    // Start is called before the first frame update
-    GameManager _gameManager;
+    private GameManager _gameManager;
+    private ShopManager _shopManager;
+    
+    public Item _item;
+
+    [SerializeField]
+    private TextMeshProUGUI _itemPriceTag;
+
+    [SerializeField]
+    UnityEvent _handleDataInitialization;
 
     [SerializeField]
     UnityEvent _handleAfterPurchaseEvent;
-
-    [SerializeField]
-    private TMP_Text _itemPriceText;
-
-    [SerializeField]
-    private TMP_Text _itemName;
-
-    [SerializeField]
-    private Color _textColor;
 
     [SerializeField]
     private Button _purchaseButton;
@@ -28,41 +28,52 @@ public class ShopItem : MonoBehaviour
     [SerializeField]
     private GameObject _popUpUI;
 
-    [SerializeField]
-    private GameObject _gameUI;
-
     private ConfirmationUI confirmationUI;
 
-    private int _itemPrice;
+    public string confirmationText;
 
     private void Start()
     {
         _gameManager = FindObjectOfType<GameManager>();
-
-        _itemPrice = int.Parse(_itemPriceText.text);
+        _shopManager = FindObjectOfType<ShopManager>();
 
         _purchaseButton = GetComponent<Button>();
 
-        _purchaseButton.interactable = CanPurchase(_itemPrice);
+        _itemPriceTag.text = _item.price.ToString(); //Shop Item Price will depend on what is set on the Item Script
+
+        _purchaseButton.interactable = CanPurchase(_item.price);
     }
 
     private void Update()
     {
-        _purchaseButton.interactable = CanPurchase(_itemPrice);
+        if (!CanPurchase(_item.price))
+        {
+            _purchaseButton.interactable = false;
+            return;
+        }
 
     }
 
     public void OnPurchase()
     {
-        if(!CanPurchase(_itemPrice))
+        confirmationText = "Buy";
+
+        if(!CanPurchase(_item.price))
         {
             return;
         }
 
         AudioManager.Instance.PlaySFX("UI Click", 0f);
 
-        confirmationUI = Instantiate(_popUpUI, _gameUI.transform).GetComponent<ConfirmationUI>();
-        confirmationUI.ChangeDescription("Buy <color=#" + ColorUtility.ToHtmlStringRGB(_textColor) + ">" + _itemName.text + "</color> ?");
+        //Disable all buttons
+        List<Button> buttons = FindObjectsOfType<Button>().ToList<Button>();
+        foreach (Button button in buttons)
+        {
+            button.interactable = false;
+        }
+
+        confirmationUI = Instantiate(_popUpUI, _shopManager.transform).GetComponent<ConfirmationUI>();
+        confirmationUI.ChangeDescription(confirmationText + " <color=#" + ColorUtility.ToHtmlStringRGB(_item.textColor) + ">" + _item.name + "</color> ?");
 
         confirmationUI.ConfirmPurchaseEvent += ConfirmPurchase;
         
@@ -74,10 +85,16 @@ public class ShopItem : MonoBehaviour
         if(decision)
         {
             Debug.Log("CONFIRMED added");
-            _purchaseButton.interactable = true;
-            GoldHandler.Instance.HandleTotalGoldUpdate(-_itemPrice);
+            GoldHandler.Instance.HandleTotalGoldUpdate(-_item.price);
             SharedUI.Instance.UpdateGoldUIText();
             _handleAfterPurchaseEvent?.Invoke();
+        }
+
+        //Enable all buttons
+        List<Button> buttons = FindObjectsOfType<Button>().ToList<Button>();
+        foreach (Button button in buttons)
+        {
+            button.interactable = true;
         }
 
         confirmationUI.ConfirmPurchaseEvent -= ConfirmPurchase;
@@ -86,6 +103,12 @@ public class ShopItem : MonoBehaviour
 
     private bool CanPurchase(int price)
     {
+        if (_item.numberOfPurchased >= _item.maxPurchase)
+        {
+            _itemPriceTag.text = "SOLD";
+            return false;
+        }
+
         return _gameManager.TotalGold >= price;
     }
 }

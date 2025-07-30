@@ -184,26 +184,6 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 4}
   - name: UI Atlas_Frame_2
     originalName: 
-    pivot: {x: -0.3157895, y: 0}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 512
-      y: 4
-      width: 190
-      height: 233
-    spriteID: d3e9cdddcb3cd384fa95be648465e678
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 512, y: 4}
-  - name: Frame_4
-    originalName: 
     pivot: {x: 0.7739938, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
@@ -213,7 +193,7 @@ ScriptedImporter:
       y: 1498
       width: 323
       height: 464
-    spriteID: 61b13ef89a6009b4a95a3dba2623396a
+    spriteID: d3e9cdddcb3cd384fa95be648465e678
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -267,9 +247,9 @@ ScriptedImporter:
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
-        x: 310
+        x: 20
         y: 0
-        width: 190
+        width: 480
         height: 233
       spriteId: d3e9cdddcb3cd384fa95be648465e678
     - name: Frame_4
@@ -280,7 +260,7 @@ ScriptedImporter:
         y: 0
         width: 323
         height: 464
-      spriteId: 61b13ef89a6009b4a95a3dba2623396a
+      spriteId: d3e9cdddcb3cd384fa95be648465e678
     linkedCells: []
     parentIndex: -1
   platformSettings: []

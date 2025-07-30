@@ -901,24 +901,24 @@ public class GameManager : MonoBehaviour
             _stamina = 1f;
 
         //_featherUI.GetComponent<Animator>().enabled = true;
-        _featherUI.GetComponent<Animator>().CrossFade("Feather Replenishing", 0.1f);
 
         GameObject featherVFX = Instantiate(_featherFillUpVFX, transform, true);
         featherVFX.transform.position = _playerController.transform.position;
 
 
-        StartCoroutine(AnimateFillUpVFX(featherVFX, featherVFX.transform.position, _featherUI));
+        StartCoroutine(AnimateFillUpVFX(featherVFX, featherVFX.transform.position, _featherUI, 1));
 
+        //_featherUI.GetComponent<Animator>().CrossFade("Feather Replenishing", 0.1f);
         StaminaUpdateEvent?.Invoke(_stamina);
     }
 
-    public IEnumerator AnimateFillUpVFX(GameObject vfx, Vector2 startpos, GameObject endposGO)
+    public IEnumerator AnimateFillUpVFX(GameObject vfx, Vector2 startpos, GameObject endposGO, float duration)
     {
         _vfxTimer += Time.deltaTime;
 
         float t = 0;
 
-        while(t <= 1)
+        while(t <= duration)
         {
             Debug.Log("FEATHER FILLING UP " + endposGO.transform.position.x);
             float x = Mathf.Lerp(startpos.x, endposGO.transform.position.x, _fillUpVFXAnimCurve.Evaluate(t));
@@ -930,8 +930,18 @@ public class GameManager : MonoBehaviour
             yield return null;
         }
 
-        Destroy(vfx);
-        StopCoroutine(AnimateFillUpVFX(null, startpos, endposGO));
+        endposGO.transform.DOScale(1.2f, 0.5f).SetEase(Ease.OutQuad).OnComplete(() =>
+        {
+            endposGO.transform.DOScale(1, 0.5f);
+        });
+
+            Destroy(vfx);
+        StopCoroutine(AnimateFillUpVFX(null, startpos, endposGO, duration));
+    }
+
+    public void AnimateFillUp(GameObject vfx, Vector2 startpos, GameObject endposGO, float duration)
+    {
+        StartCoroutine(AnimateFillUpVFX(vfx, startpos, endposGO, duration));
     }
 
 
@@ -1114,17 +1124,36 @@ public class GameManager : MonoBehaviour
         ChangeMoveSpeed(0.7f);
         //Add slowing down of CURRENT Global speed by a few for a few seconds
 
+        HandleFeatherCheck();
         if (_stamina <= 0)
         {
             _stamina = 0;
-            StaminaUpdateEvent?.Invoke(_stamina);
             PrepareGameOver();
+            StaminaUpdateEvent?.Invoke(_stamina);
         }
         else
         {
             StaminaUpdateEvent?.Invoke(_stamina);
             StartPlayerCollisionDelay();
         }
+
+    }
+
+    public void ResetUpdate()
+    {
+        PlayerPrefs.SetInt("upgradeRefundedVersion", 0);
+        PlayerPrefs.SetInt("updateVersion", 0);
+        Debug.Log("UPDATE VERSION RESETTED TO " + PlayerPrefs.GetInt("updateVersion"));
+
+        PlayerPrefs.SetInt("artemis-upgrade-level", 2);
+
+        PlayerPrefs.SetInt("zeus-upgrade-level", 2);
+
+        PlayerPrefs.SetInt("magnet-upgrade-level", 1);
+
+        PlayerPrefs.SetInt("hermes-upgrade-level", 1);
+
+        GoldHandler.Instance.HandleTotalGoldUpdate(-_totalGold + 90000);
 
     }
 

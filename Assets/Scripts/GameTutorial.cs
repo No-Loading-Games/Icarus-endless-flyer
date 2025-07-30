@@ -40,7 +40,6 @@ public class GameTutorial : MonoBehaviour
     [SerializeField]
     private GameObject _leftSquare;
 
-
     private GameManager _gameManager;
     private GameObject _icarusInstance;
     private Animator _cursorAnimator;
@@ -51,6 +50,11 @@ public class GameTutorial : MonoBehaviour
     private Animator _dangerAnimator;
     private Animator _icarusAnimator;
     private Vector2 _spawnPoint;
+
+    [SerializeField]
+    private GameObject _popUpUI;
+
+    private ConfirmationUI confirmationUI;
 
     private AsyncOperation loadingOperation;
 
@@ -364,10 +368,27 @@ public class GameTutorial : MonoBehaviour
     public void EndTutorial()
     {
         _startTut = false;
-        //Load Game Scene
-        loadingOperation = SceneManager.LoadSceneAsync("GameScene");
-        loadingOperation.allowSceneActivation = true;
 
-        _gameManager.SetTutorial(false);
+        confirmationUI = Instantiate(_popUpUI, _inGameUIGroup.transform).GetComponent<ConfirmationUI>();
+        confirmationUI.ChangeDescription("Skip Tutorial?");
+
+        confirmationUI.ConfirmPurchaseEvent += ConfirmPurchase;
+
+    }
+
+    public void ConfirmPurchase(bool decision)
+    {
+        if (decision)
+        {
+            //Load Game Scene
+            loadingOperation = SceneManager.LoadSceneAsync("GameScene");
+            loadingOperation.allowSceneActivation = true;
+
+            _gameManager.SetTutorial(false);
+            SceneManager.UnloadSceneAsync("TutorialScene");
+        }
+
+        confirmationUI.ConfirmPurchaseEvent -= ConfirmPurchase;
+        Destroy(confirmationUI.gameObject);
     }
 }

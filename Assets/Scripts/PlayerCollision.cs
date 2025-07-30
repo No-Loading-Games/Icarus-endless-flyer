@@ -5,6 +5,7 @@ using UnityEngine;
 public class PlayerCollision : MonoBehaviour
 {
 
+
     private GameManager _gameManager;
     private GameTutorial _gameTutorial;
 
@@ -31,7 +32,7 @@ public class PlayerCollision : MonoBehaviour
         //GetComponentInChildren<ParticleSystem>().GetComponent<Transform>().localScale = GetComponentInParent<Transform>().localScale;
         GetComponentInChildren<ParticleSystem>().Play();
         AudioManager.Instance.PlaySFX("Hit", 0f);
-        CameraShake.Shake(0.15f, 0.5f);
+        CameraShake.Shake(0.5f, 0.6f);
 
         Debug.Log("OBSTACLE COLLIDEDZZ WITH PLAYER!");
         //_gameManager.PrepareGameOver();

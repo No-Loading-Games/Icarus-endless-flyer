@@ -91,6 +91,11 @@ public class DisplayPanelHW : MonoBehaviour
 
         Debug.Log("Something is " + isUnlocked);
 
+        ChangePreviewAnimation();
+
+        if (equipButton == null) // Check if there is an equip button. If there's none, it means the player is accessing the function using the shop
+            return;
+
         CheckEquipButtonState(isUnlocked);
 
         if (_headWear.isEquipped)
@@ -100,8 +105,6 @@ public class DisplayPanelHW : MonoBehaviour
         }
         else
             equipButtonTMP.text = "Equip";
-
-        ChangePreviewAnimation();
 
     }
 

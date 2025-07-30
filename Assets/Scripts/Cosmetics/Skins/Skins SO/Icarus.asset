@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 969abd3526873e141992ed05dcb24650, type: 3}
+  m_Name: Icarus
+  m_EditorClassIdentifier: 
+  lockedIcon: {fileID: -6356051221598339018, guid: 0f2b17e7131b7c64884889c78f7fd4d9, type: 3}
+  unlockedIcon: {fileID: -4130052309754120083, guid: 0f2b17e7131b7c64884889c78f7fd4d9, type: 3}
+  skinName: Icarus
+  desription: 
+  isPurchasable: 0
+  isUnlocked: 1
+  price: 0
+  scoreToUnlock: 0
+  skinNamePP: icarus-skin
+  isUnlockedPP: 
+  isEquipped: 1
+  previewAnimation: {fileID: 7400000, guid: 211294336defbd1468d1d20c04959c90, type: 2}
+  inGameAnimator: {fileID: 22100000, guid: e1d0124ca8d510c40bfd871f6a9ea622, type: 2}
+  animationClips:
+  - {fileID: 7400000, guid: b686362961c90b142a9704452eb6c62b, type: 2}
+  - {fileID: 7400000, guid: b64c9ac8f213e98438c64acc230be45b, type: 2}
+  - {fileID: 7400000, guid: 78d007b45cde6a44f95303b591ef102c, type: 2}
+  - {fileID: 7400000, guid: 4c9c603df9f0eb34ea42196900d7fcf1, type: 2}
+  - {fileID: 7400000, guid: 87d3808da1e7ec744a789b0e512d5922, type: 2}
+  - {fileID: 7400000, guid: 159c28c00bad2a845ab8d8a1834b0723, type: 2}
+  - {fileID: 7400000, guid: 51662222098f1ba42abd66ad5a19e094, type: 2}
+  - {fileID: 7400000, guid: 4a0c637ee79328047af3da1e973ea7bc, type: 2}
+  - {fileID: 7400000, guid: 3d5228032ba23144c94d86178a2fe3a5, type: 2}
+  - {fileID: 7400000, guid: 4e221ba79352b8c4a942e79c77547f53, type: 2}
+  - {fileID: 7400000, guid: 0c147dad400f40d41a38265cdf649556, type: 2}
+  - {fileID: 7400000, guid: 6e460d564c2ca12498d2d3fb180c7c40, type: 2}
+  - {fileID: 7400000, guid: 6871e354db6abb94e8715243953dd871, type: 2}
+  - {fileID: 7400000, guid: aa86369bf9aac1643bdf5ff96b90edfb, type: 2}
+  - {fileID: 7400000, guid: bbabc2d84868a34498e8774a975a63d5, type: 2}
+  - {fileID: 7400000, guid: b2d1b80c5bd767142abe6a3ea3f9b6d8, type: 2}
+  - {fileID: 7400000, guid: e732f85c1291774438a3aee61955dadb, type: 2}
+  - {fileID: 7400000, guid: 86a33853f08a6b145b9a134a905760e3, type: 2}
+  - {fileID: 7400000, guid: a4b2158587935604faebaa11b2ec3a97, type: 2}
+  - {fileID: 7400000, guid: ea1d4f480c84cea4cbf399ce28e139d6, type: 2}
+  - {fileID: 7400000, guid: 6bab81f969c11cd4683d9364fd3df2e9, type: 2}
+  - {fileID: 7400000, guid: 20552ab4ecd637e4c8c9379e8550608d, type: 2}
+  - {fileID: 7400000, guid: 8dbcfce365c4ddd418d1bce8fe465139, type: 2}
+  - {fileID: 7400000, guid: c86c180afa3416e4c959d34ddcc377ec, type: 2}
+  - {fileID: 7400000, guid: 5cbfb2667edd76d468a90505844fd6cf, type: 2}
+  - {fileID: 7400000, guid: 257b1ad101fe50a4385ed6cefdbf6b0f, type: 2}
+  - {fileID: 7400000, guid: bee89233665f15c48978cf6fa04e2055, type: 2}
+  - {fileID: 7400000, guid: f4f84abf51699674ba8db16dd0fd0f21, type: 2}
+  frontArmAnimationClips: []

@@ -1,0 +1,4266 @@
+fileFormatVersion: 2
+guid: 13546e82b225a0641bd655b8baddc879
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  importerVersion: 2
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638856360820425640
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Daedalus Animations_Frame_0
+    originalName: 
+    pivot: {x: 0.5769231, y: 0.71999997}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 481
+      width: 26
+      height: 25
+    spriteID: e3c415ab1816bc142ae647c7d969aaf8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 168, y: 481}
+  - name: Daedalus Animations_Frame_1
+    originalName: 
+    pivot: {x: 0.5416666, y: 0.7941177}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 255
+      y: 320
+      width: 24
+      height: 34
+    spriteID: a27a718421fb1e447bf8a17c05cb8327
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 255, y: 320}
+  - name: Daedalus Animations_Frame_2
+    originalName: 
+    pivot: {x: 0.5416666, y: 0.7941177}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 255
+      y: 362
+      width: 24
+      height: 34
+    spriteID: 449a4f97ef2891b429ef19730d07f5dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 255, y: 362}
+  - name: Daedalus Animations_Frame_3
+    originalName: 
+    pivot: {x: 0.59259254, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 477
+      width: 27
+      height: 28
+    spriteID: 67d80632c8788024986587f964b086c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 477}
+  - name: Daedalus Animations_Frame_4
+    originalName: 
+    pivot: {x: 0.65625, y: 0.42105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 197
+      width: 32
+      height: 38
+    spriteID: 9fef68b0c1326244e959bac95e8ec151
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 197}
+  - name: Daedalus Animations_Frame_5
+    originalName: 
+    pivot: {x: 0.59259254, y: 0.36363634}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 243
+      width: 27
+      height: 44
+    spriteID: 6f2b8c4f721056243b226de5c093c656
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 243}
+  - name: Daedalus Animations_Frame_6
+    originalName: 
+    pivot: {x: 0.56000006, y: 0.71999997}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 461
+      y: 4
+      width: 25
+      height: 25
+    spriteID: 4ebff169f4b73f740b1d73ae4fe98f3b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 461, y: 4}
+  - name: Daedalus Animations_Frame_7
+    originalName: 
+    pivot: {x: 0.5416666, y: 0.7941177}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 255
+      y: 404
+      width: 24
+      height: 34
+    spriteID: 3d41816b8d0f8554d96667bb45db9dd9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 255, y: 404}
+  - name: Daedalus Animations_Frame_8
+    originalName: 
+    pivot: {x: 0.5416666, y: 0.7941177}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 255
+      y: 446
+      width: 24
+      height: 34
+    spriteID: e3e946f0ec22c5f4b82d2af4894fcf4e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 255, y: 446}
+  - name: Daedalus Animations_Frame_9
+    originalName: 
+    pivot: {x: 0.5769231, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 4
+      width: 26
+      height: 28
+    spriteID: 9cc6ba65e7ae4514f9d300984a828e10
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 368, y: 4}
+  - name: Daedalus Animations_Frame_10
+    originalName: 
+    pivot: {x: 0.6451613, y: 0.42105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 4
+      width: 31
+      height: 38
+    spriteID: 5826f059a2d94df41b2ca3079a2f6e5f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 4}
+  - name: Daedalus Animations_Frame_11
+    originalName: 
+    pivot: {x: 0.59259254, y: 0.36363634}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 295
+      width: 27
+      height: 44
+    spriteID: bb051d44cb094fc4f9d94793c94b2abb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 295}
+  - name: Daedalus Animations_Frame_12
+    originalName: 
+    pivot: {x: 0.56000006, y: 0.71999997}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 461
+      y: 37
+      width: 25
+      height: 25
+    spriteID: 8627a4172c403264bb545bd29db29148
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 461, y: 37}
+  - name: Daedalus Animations_Frame_13
+    originalName: 
+    pivot: {x: 0.5416666, y: 0.7941177}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 300
+      y: 4
+      width: 24
+      height: 34
+    spriteID: b1e5835e8df9a004ab5fea0a022f8203
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 300, y: 4}
+  - name: Daedalus Animations_Frame_14
+    originalName: 
+    pivot: {x: 0.56000006, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 480
+      width: 25
+      height: 28
+    spriteID: e7fcb2f8f441d4c40a9229811e2cc5c0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 368, y: 480}
+  - name: Daedalus Animations_Frame_15
+    originalName: 
+    pivot: {x: 0.6333334, y: 0.42105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 238
+      width: 30
+      height: 38
+    spriteID: 9c3e3e3765fd97c4e85617ef8e89bf3b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 238}
+  - name: Daedalus Animations_Frame_16
+    originalName: 
+    pivot: {x: 0.59259254, y: 0.36363634}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 347
+      width: 27
+      height: 44
+    spriteID: ac22354184ccfba4fb126c12c602b60e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 347}
+  - name: Daedalus Animations_Frame_17
+    originalName: 
+    pivot: {x: 0.59259254, y: 0.36363634}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 399
+      width: 27
+      height: 44
+    spriteID: f0b49cb9c20334143950f9a4040a1023
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 399}
+  - name: Daedalus Animations_Frame_18
+    originalName: 
+    pivot: {x: 0.48275867, y: 0.48648646}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 411
+      width: 29
+      height: 37
+    spriteID: 8adf904c663a30e4686e528c80390294
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 411}
+  - name: Daedalus Animations_Frame_19
+    originalName: 
+    pivot: {x: 0.48275867, y: 0.48648646}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 456
+      width: 29
+      height: 37
+    spriteID: 45d70dac13ac1ec40930319167ca122d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 456}
+  - name: Daedalus Animations_Frame_20
+    originalName: 
+    pivot: {x: 0.48275867, y: 0.48648646}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 121
+      width: 29
+      height: 37
+    spriteID: 6757a8521bc1a6240b62df3ae7036448
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 168, y: 121}
+  - name: Daedalus Animations_Frame_21
+    originalName: 
+    pivot: {x: 0.48275867, y: 0.48648646}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 166
+      width: 29
+      height: 37
+    spriteID: 07850fbe0e8967e4893f8938c0e3c7fb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 168, y: 166}
+  - name: Daedalus Animations_Frame_22
+    originalName: 
+    pivot: {x: 0.48275867, y: 0.48648646}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 211
+      width: 29
+      height: 37
+    spriteID: 63bef31fd8f803a4f904aa6411284120
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 168, y: 211}
+  - name: Daedalus Animations_Frame_23
+    originalName: 
+    pivot: {x: 0.48275867, y: 0.48648646}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 256
+      width: 29
+      height: 37
+    spriteID: 9a470726e8d860441889300775d9882f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 168, y: 256}
+  - name: Daedalus Animations_Frame_24
+    originalName: 
+    pivot: {x: 0.48275867, y: 0.48648646}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 301
+      width: 29
+      height: 37
+    spriteID: e4affc6468c931b4ab57a4a6de5ed530
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 168, y: 301}
+  - name: Daedalus Animations_Frame_25
+    originalName: 
+    pivot: {x: 0.48275867, y: 0.48648646}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 346
+      width: 29
+      height: 37
+    spriteID: 979ad8a27e6af0043b10ab88aa37fe9e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 168, y: 346}
+  - name: Daedalus Animations_Frame_26
+    originalName: 
+    pivot: {x: 0.48275867, y: 0.48648646}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 391
+      width: 29
+      height: 37
+    spriteID: 40fdbcdfb4cd0ae48b435ec4be140b53
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 168, y: 391}
+  - name: Daedalus Animations_Frame_27
+    originalName: 
+    pivot: {x: 0.48275867, y: 0.48648646}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 436
+      width: 29
+      height: 37
+    spriteID: ab5a9dd5b5da5cd4f822f34373adb529
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 168, y: 436}
+  - name: Daedalus Animations_Frame_28
+    originalName: 
+    pivot: {x: 0.48275867, y: 0.48648646}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 211
+      y: 118
+      width: 29
+      height: 37
+    spriteID: 50e61b2e3508e824196a1155a59a850a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: 118}
+  - name: Daedalus Animations_Frame_29
+    originalName: 
+    pivot: {x: 0.48275867, y: 0.48648646}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 211
+      y: 163
+      width: 29
+      height: 37
+    spriteID: 89ead5ad07ff69a4e96d2423db9eed3f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: 163}
+  - name: Daedalus Animations_Frame_30
+    originalName: 
+    pivot: {x: 0.5185185, y: 0.45945945}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 252
+      width: 27
+      height: 37
+    spriteID: 0a86aceb3d36c8e41b9900b66b2606eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 252}
+  - name: Daedalus Animations_Frame_31
+    originalName: 
+    pivot: {x: 0.5185185, y: 0.44736844}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 211
+      y: 290
+      width: 27
+      height: 38
+    spriteID: 73767c23839ddfc44b1006ed9b7e3f4d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: 290}
+  - name: Daedalus Animations_Frame_32
+    originalName: 
+    pivot: {x: 0.5185185, y: 0.44736844}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 211
+      y: 336
+      width: 27
+      height: 38
+    spriteID: a79c2165a8277984a95f77002765c588
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: 336}
+  - name: Daedalus Animations_Frame_33
+    originalName: 
+    pivot: {x: 0.5185185, y: 0.45945945}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 297
+      width: 27
+      height: 37
+    spriteID: 35b758e47842a6c469c3d2a643a0b0be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 297}
+  - name: Daedalus Animations_Frame_34
+    originalName: 
+    pivot: {x: 0.5185185, y: 0.44736844}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 211
+      y: 382
+      width: 27
+      height: 38
+    spriteID: adb43360791055c41a4c8150512bda0e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: 382}
+  - name: Daedalus Animations_Frame_35
+    originalName: 
+    pivot: {x: 0.5185185, y: 0.44736844}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 211
+      y: 428
+      width: 27
+      height: 38
+    spriteID: 269a733ab6c007140be9bb213948192f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: 428}
+  - name: Daedalus Animations_Frame_36
+    originalName: 
+    pivot: {x: 0.5185185, y: 0.45945945}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 342
+      width: 27
+      height: 37
+    spriteID: 8903c39f172c32747b2ac97090ab254e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 342}
+  - name: Daedalus Animations_Frame_37
+    originalName: 
+    pivot: {x: 0.5185185, y: 0.44736844}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 160
+      width: 27
+      height: 38
+    spriteID: ad200b12f524e774d8049e8a6f9a7e69
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 160}
+  - name: Daedalus Animations_Frame_38
+    originalName: 
+    pivot: {x: 0.5185185, y: 0.44736844}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 206
+      width: 27
+      height: 38
+    spriteID: 185858a7f4f2b4440859d5695c43a56c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 206}
+  - name: Daedalus Animations_Frame_39
+    originalName: 
+    pivot: {x: 0.5185185, y: 0.45945945}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 387
+      width: 27
+      height: 37
+    spriteID: 6843df775dc92634097c38fe579b321b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 387}
+  - name: Daedalus Animations_Frame_40
+    originalName: 
+    pivot: {x: 0.5185185, y: 0.45945945}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 432
+      width: 27
+      height: 37
+    spriteID: e753d3f38d7193240b97a6d3a20c3c63
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 432}
+  - name: Daedalus Animations_Frame_41
+    originalName: 
+    pivot: {x: 0.5185185, y: 0.45945945}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 255
+      y: 79
+      width: 27
+      height: 37
+    spriteID: e9c4f8a9cb8c027448c05cea45470c14
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 255, y: 79}
+  - name: Daedalus Animations_Frame_42
+    originalName: 
+    pivot: {x: 0.57142854, y: 0.36363634}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 145
+      width: 28
+      height: 44
+    spriteID: 4b69acef98c0dd74f95d4a157de52f4e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 145}
+  - name: Daedalus Animations_Frame_43
+    originalName: 
+    pivot: {x: 0.5555555, y: 0.36363634}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 451
+      width: 27
+      height: 44
+    spriteID: 018dcc222762ca94ca62398e70f79837
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 451}
+  - name: Daedalus Animations_Frame_44
+    originalName: 
+    pivot: {x: 0.54999995, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 461
+      y: 304
+      width: 20
+      height: 28
+    spriteID: 57c75e169b83c664f8c5994a0251a4d3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 461, y: 304}
+  - name: Daedalus Animations_Frame_45
+    originalName: 
+    pivot: {x: -1.9999996, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 494
+      y: 4
+      width: 3
+      height: 3
+    spriteID: bcdd86a3b9df31a4eb81fc15ce2a8904
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 494, y: 4}
+  - name: Daedalus Animations_Frame_46
+    originalName: 
+    pivot: {x: 0.6086957, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 332
+      y: 412
+      width: 23
+      height: 32
+    spriteID: 4222dc73b9cc025488fdb3496b1cd2e6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 332, y: 412}
+  - name: Daedalus Animations_Frame_47
+    originalName: 
+    pivot: {x: 0.6086957, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 332
+      y: 452
+      width: 23
+      height: 32
+    spriteID: 71cca76fe87426947ba0982c78f986f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 332, y: 452}
+  - name: Daedalus Animations_Frame_48
+    originalName: 
+    pivot: {x: 0.6086957, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 300
+      y: 46
+      width: 23
+      height: 32
+    spriteID: ad12d1130acac354da6ae65ad7619e42
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 300, y: 46}
+  - name: Daedalus Animations_Frame_49
+    originalName: 
+    pivot: {x: 0.6363637, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 300
+      y: 327
+      width: 22
+      height: 32
+    spriteID: dc9889a8af814414381e1192875a45d3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 300, y: 327}
+  - name: Daedalus Animations_Frame_50
+    originalName: 
+    pivot: {x: 0.6363637, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 300
+      y: 367
+      width: 22
+      height: 32
+    spriteID: 78dc9631ebf08804f960577627546d80
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 300, y: 367}
+  - name: Daedalus Animations_Frame_51
+    originalName: 
+    pivot: {x: 0.6363637, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 300
+      y: 407
+      width: 22
+      height: 32
+    spriteID: 28eaafe3e9848f7438c1dccc6b7af500
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 300, y: 407}
+  - name: Daedalus Animations_Frame_52
+    originalName: 
+    pivot: {x: 0.6363637, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 300
+      y: 447
+      width: 22
+      height: 32
+    spriteID: 4079e8759dcd8e7429cd7b4d8224f527
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 300, y: 447}
+  - name: Daedalus Animations_Frame_53
+    originalName: 
+    pivot: {x: 0.6363637, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 40
+      width: 22
+      height: 32
+    spriteID: 283c0b7945fdb3a408bccb45eed49443
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 368, y: 40}
+  - name: Daedalus Animations_Frame_54
+    originalName: 
+    pivot: {x: 0.6363637, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 80
+      width: 22
+      height: 32
+    spriteID: 1efafc513d6cf6b4ca7a9ab8e4feec10
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 368, y: 80}
+  - name: Daedalus Animations_Frame_55
+    originalName: 
+    pivot: {x: 0.6363637, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 120
+      width: 22
+      height: 32
+    spriteID: b7c91f5d960db034890d2c51a66121fd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 368, y: 120}
+  - name: Daedalus Animations_Frame_56
+    originalName: 
+    pivot: {x: 0.6363637, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 160
+      width: 22
+      height: 32
+    spriteID: a013aaf63c196d14bb3997264a8146fb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 368, y: 160}
+  - name: Daedalus Animations_Frame_57
+    originalName: 
+    pivot: {x: 0.6363637, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 200
+      width: 22
+      height: 32
+    spriteID: 3757c38bfb11c2d4f8d70eed5b67b1b4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 368, y: 200}
+  - name: Daedalus Animations_Frame_58
+    originalName: 
+    pivot: {x: 0.6363637, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 240
+      width: 22
+      height: 32
+    spriteID: 16e8be65b27d72441865da8ef7626403
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 368, y: 240}
+  - name: Daedalus Animations_Frame_59
+    originalName: 
+    pivot: {x: 0.6363637, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 280
+      width: 22
+      height: 32
+    spriteID: e7f91c460ccbb5146bd2744b80be9264
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 368, y: 280}
+  - name: Daedalus Animations_Frame_60
+    originalName: 
+    pivot: {x: 0.6363637, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 320
+      width: 22
+      height: 32
+    spriteID: eb6e6df482ab7bb48b81943d5c375054
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 368, y: 320}
+  - name: Daedalus Animations_Frame_61
+    originalName: 
+    pivot: {x: 0.6363637, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 360
+      width: 22
+      height: 32
+    spriteID: 6e26de92cc9a59d4195747fc800fe591
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 368, y: 360}
+  - name: Daedalus Animations_Frame_62
+    originalName: 
+    pivot: {x: 0.6363637, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 400
+      width: 22
+      height: 32
+    spriteID: 3c53a06bf7a9940468c7e2ee3d639976
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 368, y: 400}
+  - name: Daedalus Animations_Frame_63
+    originalName: 
+    pivot: {x: 0.6363637, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 440
+      width: 22
+      height: 32
+    spriteID: 2d4e96559d527e14ca115a7bd71ffb9f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 368, y: 440}
+  - name: Daedalus Animations_Frame_64
+    originalName: 
+    pivot: {x: 0.6521739, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 300
+      y: 86
+      width: 23
+      height: 32
+    spriteID: 8247c330053c1804aacd03e0481c24eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 300, y: 86}
+  - name: Daedalus Animations_Frame_65
+    originalName: 
+    pivot: {x: 0.6521739, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 300
+      y: 126
+      width: 23
+      height: 32
+    spriteID: bca55b8ef8a915543a96f63c6377b945
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 300, y: 126}
+  - name: Daedalus Animations_Frame_66
+    originalName: 
+    pivot: {x: 0.5333333, y: 0.44444445}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 191
+      width: 30
+      height: 36
+    spriteID: 24b71504bd2ddec438f9a750fc28ec25
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 191}
+  - name: Daedalus Animations_Frame_67
+    originalName: 
+    pivot: {x: 0.5333333, y: 0.44444445}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 235
+      width: 30
+      height: 36
+    spriteID: 5c9129c3a00408e439a2888a879c2d39
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 235}
+  - name: Daedalus Animations_Frame_68
+    originalName: 
+    pivot: {x: 0.5333333, y: 0.44444445}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 279
+      width: 30
+      height: 36
+    spriteID: 044a961b55b50064da9a64fa8e70df8d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 279}
+  - name: Daedalus Animations_Frame_69
+    originalName: 
+    pivot: {x: 0.5333333, y: 0.44444445}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 323
+      width: 30
+      height: 36
+    spriteID: 35ea8e46ecee909499db6aed430255a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 323}
+  - name: Daedalus Animations_Frame_70
+    originalName: 
+    pivot: {x: 0.5333333, y: 0.45714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 211
+      y: 247
+      width: 30
+      height: 35
+    spriteID: 5b989fd9f509cfc4b89109bab97f4fd1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: 247}
+  - name: Daedalus Animations_Frame_71
+    originalName: 
+    pivot: {x: 0.5333333, y: 0.44444445}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 367
+      width: 30
+      height: 36
+    spriteID: b5f0905c318a8ff438c574d7431da3cd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 367}
+  - name: Daedalus Animations_Frame_72
+    originalName: 
+    pivot: {x: 0.5217391, y: 0.70588243}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 332
+      y: 81
+      width: 23
+      height: 34
+    spriteID: fd6c5eb3252b7d444bcad5ac65c746d2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 332, y: 81}
+  - name: Daedalus Animations_Frame_73
+    originalName: 
+    pivot: {x: 0.5217391, y: 0.72727275}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 332
+      y: 165
+      width: 23
+      height: 33
+    spriteID: 6c104481630abad4ea767b3526a9a27c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 332, y: 165}
+  - name: Daedalus Animations_Frame_74
+    originalName: 
+    pivot: {x: 0.5217391, y: 0.72727275}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 332
+      y: 206
+      width: 23
+      height: 33
+    spriteID: e6809abcc29795c42a2b04d5e7e3e8d3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 332, y: 206}
+  - name: Daedalus Animations_Frame_75
+    originalName: 
+    pivot: {x: 0.5217391, y: 0.72727275}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 332
+      y: 247
+      width: 23
+      height: 33
+    spriteID: 59f2abcd446607c41aa8eb202708cac2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 332, y: 247}
+  - name: Daedalus Animations_Frame_76
+    originalName: 
+    pivot: {x: 0.5217391, y: 0.72727275}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 332
+      y: 288
+      width: 23
+      height: 33
+    spriteID: 525f1dbc31fd7ba4882f8532e3cf5233
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 332, y: 288}
+  - name: Daedalus Animations_Frame_77
+    originalName: 
+    pivot: {x: 0.5217391, y: 0.70588243}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 332
+      y: 123
+      width: 23
+      height: 34
+    spriteID: 8be54ac077e8fd54f865d25644c83658
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 332, y: 123}
+  - name: Daedalus Animations_Frame_78
+    originalName: 
+    pivot: {x: 0.54999995, y: 0.72727275}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 402
+      y: 163
+      width: 20
+      height: 33
+    spriteID: b70a4706a051f6846ad7ea85444ad6bd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 402, y: 163}
+  - name: Daedalus Animations_Frame_79
+    originalName: 
+    pivot: {x: 0.59090906, y: 0.70588243}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 332
+      y: 370
+      width: 22
+      height: 34
+    spriteID: e36cc536d807bd54888be2825fb035e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 332, y: 370}
+  - name: Daedalus Animations_Frame_80
+    originalName: 
+    pivot: {x: 0.5714286, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 402
+      y: 123
+      width: 21
+      height: 32
+    spriteID: b1b593e3ba2c9b14f99cf98fa3fa8c61
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 402, y: 123}
+  - name: Daedalus Animations_Frame_81
+    originalName: 
+    pivot: {x: 0.5, y: 0.72727275}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 402
+      y: 204
+      width: 20
+      height: 33
+    spriteID: 0f1409e5aa3ac3f42a210321906f18ce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 402, y: 204}
+  - name: Daedalus Animations_Frame_82
+    originalName: 
+    pivot: {x: 0.5, y: 0.70588243}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 402
+      y: 81
+      width: 20
+      height: 34
+    spriteID: 78550f5eba9d5d0489208fc5cc0e5308
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 402, y: 81}
+  - name: Daedalus Animations_Frame_83
+    originalName: 
+    pivot: {x: 0.5714286, y: 0.70588243}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 300
+      y: 207
+      width: 21
+      height: 34
+    spriteID: 8ffd6ffa121d83a4cab11ba01c2c7083
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 300, y: 207}
+  - name: Daedalus Animations_Frame_84
+    originalName: 
+    pivot: {x: 0.6, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 332
+      y: 41
+      width: 25
+      height: 32
+    spriteID: cb709e94de0a58c458c60d98c9b01c06
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 332, y: 41}
+  - name: Daedalus Animations_Frame_85
+    originalName: 
+    pivot: {x: 0.54545456, y: 0.72727275}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 300
+      y: 166
+      width: 22
+      height: 33
+    spriteID: ff89f5ff974b2404ca87a66e660d9c30
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 300, y: 166}
+  - name: Daedalus Animations_Frame_86
+    originalName: 
+    pivot: {x: 0.54545456, y: 0.7096774}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 402
+      y: 42
+      width: 22
+      height: 31
+    spriteID: c6aa5af3a6d811641b55931bf5582d69
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 402, y: 42}
+  - name: Daedalus Animations_Frame_87
+    originalName: 
+    pivot: {x: 0.6086957, y: 0.6774193}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 300
+      y: 249
+      width: 23
+      height: 31
+    spriteID: acb06ac3ab3d6ee4e86fdcf064b82595
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 300, y: 249}
+  - name: Daedalus Animations_Frame_88
+    originalName: 
+    pivot: {x: 0.6, y: 0.6875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 402
+      y: 245
+      width: 20
+      height: 32
+    spriteID: 47186e66f0aeda043b4e0cdc38456a9d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 402, y: 245}
+  - name: Daedalus Animations_Frame_89
+    originalName: 
+    pivot: {x: 0.5217391, y: 0.76666665}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 402
+      y: 4
+      width: 23
+      height: 30
+    spriteID: 57987fcd4df798a4a94793cd0132e04b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 402, y: 4}
+  - name: Daedalus Animations_Frame_90
+    originalName: 
+    pivot: {x: 0.50000006, y: 0.82758623}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 332
+      y: 4
+      width: 28
+      height: 29
+    spriteID: c1fab890b8bca024dbe290c6ea932531
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 332, y: 4}
+  - name: Daedalus Animations_Frame_91
+    originalName: 
+    pivot: {x: 0.47826082, y: 0.7741936}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 300
+      y: 288
+      width: 23
+      height: 31
+    spriteID: 287a0f60ca1a35847969ef0331c33ed3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 300, y: 288}
+  - name: Daedalus Animations_Frame_92
+    originalName: 
+    pivot: {x: 0.5217391, y: 0.72727275}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 332
+      y: 329
+      width: 23
+      height: 33
+    spriteID: be2a4c3ca3c392e48aacde475a91727b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 332, y: 329}
+  - name: Daedalus Animations_Frame_93
+    originalName: 
+    pivot: {x: 0.52777785, y: 0.43750003}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 118
+      width: 36
+      height: 32
+    spriteID: ea9b118f3e97f3044a3a037878184ea5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 118}
+  - name: Daedalus Animations_Frame_94
+    originalName: 
+    pivot: {x: 0.52777785, y: 0.43750003}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 158
+      width: 36
+      height: 32
+    spriteID: 3d48431445ecd62458fb9740218ab63c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 158}
+  - name: Daedalus Animations_Frame_95
+    originalName: 
+    pivot: {x: 0.52777785, y: 0.45161292}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 408
+      width: 36
+      height: 31
+    spriteID: f6d98609681fd4a4fac868fa6205c420
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 408}
+  - name: Daedalus Animations_Frame_96
+    originalName: 
+    pivot: {x: 0.52777785, y: 0.43750003}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 198
+      width: 36
+      height: 32
+    spriteID: b8e58ee38a410b345b522ac58a7f5693
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 198}
+  - name: Daedalus Animations_Frame_97
+    originalName: 
+    pivot: {x: 0.45000005, y: 0.5483871}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 461
+      y: 70
+      width: 20
+      height: 31
+    spriteID: 455d1da4b00aad54bb1e37b0a6b10bc9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 461, y: 70}
+  - name: Daedalus Animations_Frame_98
+    originalName: 
+    pivot: {x: 0.45000005, y: 0.5483871}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 461
+      y: 109
+      width: 20
+      height: 31
+    spriteID: b3618bdd1d606e04095d30799707d1b5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 461, y: 109}
+  - name: Daedalus Animations_Frame_99
+    originalName: 
+    pivot: {x: 0.45000005, y: 0.5625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 402
+      y: 285
+      width: 20
+      height: 32
+    spriteID: a5adfd5effe35da4b8708af9896383f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 402, y: 285}
+  - name: Daedalus Animations_Frame_100
+    originalName: 
+    pivot: {x: 0.45000005, y: 0.5625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 402
+      y: 325
+      width: 20
+      height: 32
+    spriteID: f5d7e37f9fbcd7842832c0e29af0b1a2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 402, y: 325}
+  - name: Daedalus Animations_Frame_101
+    originalName: 
+    pivot: {x: 0.45000005, y: 0.5483871}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 461
+      y: 148
+      width: 20
+      height: 31
+    spriteID: c4c72c59d342efb4281da2a4bc303c98
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 461, y: 148}
+  - name: Daedalus Animations_Frame_102
+    originalName: 
+    pivot: {x: 0.45000005, y: 0.5483871}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 461
+      y: 187
+      width: 20
+      height: 31
+    spriteID: cadd553168c4b844bb9c7c5427a644eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 461, y: 187}
+  - name: Daedalus Animations_Frame_103
+    originalName: 
+    pivot: {x: 0.45000005, y: 0.5625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 402
+      y: 365
+      width: 20
+      height: 32
+    spriteID: 6e90be7dcbc4d1e459271cbd30db98b3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 402, y: 365}
+  - name: Daedalus Animations_Frame_104
+    originalName: 
+    pivot: {x: 0.45000005, y: 0.5625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 402
+      y: 405
+      width: 20
+      height: 32
+    spriteID: 91e542a3f07208e4a9b4207af32e5f87
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 402, y: 405}
+  - name: Daedalus Animations_Frame_105
+    originalName: 
+    pivot: {x: 0.45000005, y: 0.5483871}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 461
+      y: 226
+      width: 20
+      height: 31
+    spriteID: 27a40921f09718745b0608df1932b901
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 461, y: 226}
+  - name: Daedalus Animations_Frame_106
+    originalName: 
+    pivot: {x: 0.45000005, y: 0.5483871}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 461
+      y: 265
+      width: 20
+      height: 31
+    spriteID: d039c5a912206ca468445fbbdf365a19
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 461, y: 265}
+  - name: Daedalus Animations_Frame_107
+    originalName: 
+    pivot: {x: 0.45000005, y: 0.5625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 402
+      y: 445
+      width: 20
+      height: 32
+    spriteID: 822b22d0e00054149b0c6fd564429976
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 402, y: 445}
+  - name: Daedalus Animations_Frame_108
+    originalName: 
+    pivot: {x: 0.45000005, y: 0.5625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 433
+      y: 4
+      width: 20
+      height: 32
+    spriteID: d67297e18ffc63e4e81c893441e3220a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 433, y: 4}
+  - name: Daedalus Animations_Frame_109
+    originalName: 
+    pivot: {x: 0.6153846, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 255
+      y: 200
+      width: 26
+      height: 32
+    spriteID: 9671d31bead4367479bb528f7a815255
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 255, y: 200}
+  - name: Daedalus Animations_Frame_110
+    originalName: 
+    pivot: {x: 0.6944445, y: 0.8000001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 211
+      y: 4
+      width: 36
+      height: 30
+    spriteID: 7da63cecfa4193248b40c195fd6a6ccf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: 4}
+  - name: Daedalus Animations_Frame_111
+    originalName: 
+    pivot: {x: 0.7435898, y: 0.8000001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 4
+      width: 39
+      height: 30
+    spriteID: bac54e6415510ff4a8760bf5c5597d52
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 4}
+  - name: Daedalus Animations_Frame_112
+    originalName: 
+    pivot: {x: 0.68571436, y: 0.6153847}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 35
+      height: 39
+    spriteID: 695cb4b0c8cce494e820fcc08f627462
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Daedalus Animations_Frame_113
+    originalName: 
+    pivot: {x: 0.6333334, y: 0.6153847}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 50
+      width: 30
+      height: 39
+    spriteID: 73a488eca9c01704f91b64f59cee92b1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 50}
+  - name: Daedalus Animations_Frame_114
+    originalName: 
+    pivot: {x: 0.6153846, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 255
+      y: 240
+      width: 26
+      height: 32
+    spriteID: 513574446e4439642a9393bf3ab46827
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 255, y: 240}
+  - name: Daedalus Animations_Frame_115
+    originalName: 
+    pivot: {x: 0.6944445, y: 0.8000001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 211
+      y: 42
+      width: 36
+      height: 30
+    spriteID: 2355b595bdae5c64da09c25d115a32b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: 42}
+  - name: Daedalus Animations_Frame_116
+    originalName: 
+    pivot: {x: 0.7435898, y: 0.8000001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 42
+      width: 39
+      height: 30
+    spriteID: 25f7425466e04a14c92e306e459a78ea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 42}
+  - name: Daedalus Animations_Frame_117
+    originalName: 
+    pivot: {x: 0.68571436, y: 0.6153847}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 51
+      width: 35
+      height: 39
+    spriteID: 16cc25d035a6ffb4b96955fdf17144b0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 51}
+  - name: Daedalus Animations_Frame_118
+    originalName: 
+    pivot: {x: 0.6333334, y: 0.6153847}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 97
+      width: 30
+      height: 39
+    spriteID: 72befa0b543ac9e499d7fd2c9e23a437
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 97}
+  - name: Daedalus Animations_Frame_119
+    originalName: 
+    pivot: {x: 0.6153846, y: 0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 255
+      y: 280
+      width: 26
+      height: 32
+    spriteID: a20a58d1b67660841ad943abfead07cb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 255, y: 280}
+  - name: Daedalus Animations_Frame_120
+    originalName: 
+    pivot: {x: 0.6944445, y: 0.8000001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 211
+      y: 80
+      width: 36
+      height: 30
+    spriteID: 6ac537c3c8f59c54a96a3e44af147dd1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: 80}
+  - name: Daedalus Animations_Frame_121
+    originalName: 
+    pivot: {x: 0.7435898, y: 0.8000001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 80
+      width: 39
+      height: 30
+    spriteID: f74faaff13bc4f949ac2e0babcfa6f64
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 80}
+  - name: Daedalus Animations_Frame_122
+    originalName: 
+    pivot: {x: 0.68571436, y: 0.6153847}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 98
+      width: 35
+      height: 39
+    spriteID: 7adb0e7c56e701243919a834abede8ba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 98}
+  - name: Daedalus Animations_Frame_123
+    originalName: 
+    pivot: {x: 0.6333334, y: 0.6153847}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 144
+      width: 30
+      height: 39
+    spriteID: 1f981e46d82891e40aa44e1c274b1bd6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 144}
+  - name: Daedalus Animations_Frame_124
+    originalName: 
+    pivot: {x: 0.5555555, y: 0.36363634}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 4
+      width: 27
+      height: 44
+    spriteID: 98eb204433df9fa469c3d4c790c20ae8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 4}
+  - name: Daedalus Animations_Frame_125
+    originalName: 
+    pivot: {x: 0.5555555, y: 0.36363634}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 56
+      width: 27
+      height: 44
+    spriteID: 9d53cc0bc09b4a342a406c8da1f48ba1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 56}
+  - name: Daedalus Animations_Frame_126
+    originalName: 
+    pivot: {x: 0.5555555, y: 0.36363634}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 108
+      width: 27
+      height: 44
+    spriteID: af8c9eeebbdb7b64d867f0548ec668a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 108}
+  - name: Daedalus Animations_Frame_127
+    originalName: 
+    pivot: {x: 0.36363637, y: 0.43333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 255
+      y: 124
+      width: 33
+      height: 30
+    spriteID: d6c2d276c974dac45bfa767dda1ce5ed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 255, y: 124}
+  - name: Daedalus Animations_Frame_128
+    originalName: 
+    pivot: {x: 0.43243238, y: 0.44827586}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 255
+      y: 4
+      width: 37
+      height: 29
+    spriteID: feb046a166cd10942bde50bc6cd4070d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 255, y: 4}
+  - name: Daedalus Animations_Frame_129
+    originalName: 
+    pivot: {x: 0.5294118, y: 0.3870968}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 211
+      y: 208
+      width: 34
+      height: 31
+    spriteID: 200332ffa1d496f42b23009d671acd59
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: 208}
+  - name: Daedalus Animations_Frame_130
+    originalName: 
+    pivot: {x: 0.6969697, y: 0.38235295}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 284
+      width: 33
+      height: 34
+    spriteID: 66cf366dceeaeef42a58b847f728f85d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 284}
+  - name: Daedalus Animations_Frame_131
+    originalName: 
+    pivot: {x: 0.35294122, y: 0.43333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 211
+      y: 474
+      width: 34
+      height: 30
+    spriteID: 249828abfab95f84cb8a3974f215a765
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: 474}
+  - name: Daedalus Animations_Frame_132
+    originalName: 
+    pivot: {x: 0.51428574, y: 0.3870968}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 4
+      width: 35
+      height: 31
+    spriteID: 4233f1e33a74d1643b10d40072e2db2f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 168, y: 4}
+  - name: Daedalus Animations_Frame_133
+    originalName: 
+    pivot: {x: 0.6764706, y: 0.36363637}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 326
+      width: 34
+      height: 33
+    spriteID: 3ae5c31a3e4cb8f42961805b3cbafcbb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 326}
+  - name: Daedalus Animations_Frame_134
+    originalName: 
+    pivot: {x: 0.35294122, y: 0.43333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 255
+      y: 41
+      width: 34
+      height: 30
+    spriteID: 747b58d5357d10443b94448dee92cb73
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 255, y: 41}
+  - name: Daedalus Animations_Frame_135
+    originalName: 
+    pivot: {x: 0.51428574, y: 0.3870968}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 43
+      width: 35
+      height: 31
+    spriteID: cca9822dab755a7469fa30cc40787abf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 168, y: 43}
+  - name: Daedalus Animations_Frame_136
+    originalName: 
+    pivot: {x: 0.6764706, y: 0.36363637}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 367
+      width: 34
+      height: 33
+    spriteID: 2dc548f37bc6c7e4fb1b6dab70bddf18
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 367}
+  - name: Daedalus Animations_Frame_137
+    originalName: 
+    pivot: {x: 0.36363637, y: 0.43333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 255
+      y: 162
+      width: 33
+      height: 30
+    spriteID: 4679fb9d0a606e548b173a73db9ec3ae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 255, y: 162}
+  - name: Daedalus Animations_Frame_138
+    originalName: 
+    pivot: {x: 0.51428574, y: 0.3870968}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 82
+      width: 35
+      height: 31
+    spriteID: 3f93840d721a41844ab3952d136def56
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 168, y: 82}
+  - name: Daedalus Animations_Frame_139
+    originalName: 
+    pivot: {x: 0.6969697, y: 0.36363637}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 447
+      width: 33
+      height: 33
+    spriteID: 71f7178df8049d542a02af4c04d88ef4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 447}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    uuid:
+      value0: 3472510864
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: -822456432
+    name: Daedalus Animations
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 22
+        width: 26
+        height: 25
+      spriteId: e3c415ab1816bc142ae647c7d969aaf8
+    - name: Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 27
+        y: 13
+        width: 24
+        height: 34
+      spriteId: a27a718421fb1e447bf8a17c05cb8327
+    - name: Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 27
+        y: 13
+        width: 24
+        height: 34
+      spriteId: 449a4f97ef2891b429ef19730d07f5dd
+    - name: Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 24
+        y: 19
+        width: 27
+        height: 28
+      spriteId: 67d80632c8788024986587f964b086c7
+    - name: Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 19
+        y: 24
+        width: 32
+        height: 38
+      spriteId: 9fef68b0c1326244e959bac95e8ec151
+    - name: Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 24
+        y: 24
+        width: 27
+        height: 44
+      spriteId: 6f2b8c4f721056243b226de5c093c656
+    - name: Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 22
+        width: 25
+        height: 25
+      spriteId: 4ebff169f4b73f740b1d73ae4fe98f3b
+    - name: Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 27
+        y: 13
+        width: 24
+        height: 34
+      spriteId: 3d41816b8d0f8554d96667bb45db9dd9
+    - name: Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 27
+        y: 13
+        width: 24
+        height: 34
+      spriteId: e3e946f0ec22c5f4b82d2af4894fcf4e
+    - name: Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 19
+        width: 26
+        height: 28
+      spriteId: 9cc6ba65e7ae4514f9d300984a828e10
+    - name: Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 20
+        y: 24
+        width: 31
+        height: 38
+      spriteId: 5826f059a2d94df41b2ca3079a2f6e5f
+    - name: Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 24
+        y: 24
+        width: 27
+        height: 44
+      spriteId: bb051d44cb094fc4f9d94793c94b2abb
+    - name: Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 22
+        width: 25
+        height: 25
+      spriteId: 8627a4172c403264bb545bd29db29148
+    - name: Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 27
+        y: 13
+        width: 24
+        height: 34
+      spriteId: b1e5835e8df9a004ab5fea0a022f8203
+    - name: Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 19
+        width: 25
+        height: 28
+      spriteId: e7fcb2f8f441d4c40a9229811e2cc5c0
+    - name: Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 24
+        width: 30
+        height: 38
+      spriteId: 9c3e3e3765fd97c4e85617ef8e89bf3b
+    - name: Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 24
+        y: 24
+        width: 27
+        height: 44
+      spriteId: ac22354184ccfba4fb126c12c602b60e
+    - name: Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 24
+        y: 24
+        width: 27
+        height: 44
+      spriteId: f0b49cb9c20334143950f9a4040a1023
+    - name: Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 22
+        width: 29
+        height: 37
+      spriteId: 8adf904c663a30e4686e528c80390294
+    - name: Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 22
+        width: 29
+        height: 37
+      spriteId: 45d70dac13ac1ec40930319167ca122d
+    - name: Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 22
+        width: 29
+        height: 37
+      spriteId: 6757a8521bc1a6240b62df3ae7036448
+    - name: Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 22
+        width: 29
+        height: 37
+      spriteId: 07850fbe0e8967e4893f8938c0e3c7fb
+    - name: Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 22
+        width: 29
+        height: 37
+      spriteId: 63bef31fd8f803a4f904aa6411284120
+    - name: Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 22
+        width: 29
+        height: 37
+      spriteId: 9a470726e8d860441889300775d9882f
+    - name: Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 22
+        width: 29
+        height: 37
+      spriteId: e4affc6468c931b4ab57a4a6de5ed530
+    - name: Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 22
+        width: 29
+        height: 37
+      spriteId: 979ad8a27e6af0043b10ab88aa37fe9e
+    - name: Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 22
+        width: 29
+        height: 37
+      spriteId: 40fdbcdfb4cd0ae48b435ec4be140b53
+    - name: Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 22
+        width: 29
+        height: 37
+      spriteId: ab5a9dd5b5da5cd4f822f34373adb529
+    - name: Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 22
+        width: 29
+        height: 37
+      spriteId: 50e61b2e3508e824196a1155a59a850a
+    - name: Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 22
+        width: 29
+        height: 37
+      spriteId: 89ead5ad07ff69a4e96d2423db9eed3f
+    - name: Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 23
+        width: 27
+        height: 37
+      spriteId: 0a86aceb3d36c8e41b9900b66b2606eb
+    - name: Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 23
+        width: 27
+        height: 38
+      spriteId: 73767c23839ddfc44b1006ed9b7e3f4d
+    - name: Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 23
+        width: 27
+        height: 38
+      spriteId: a79c2165a8277984a95f77002765c588
+    - name: Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 23
+        width: 27
+        height: 37
+      spriteId: 35b758e47842a6c469c3d2a643a0b0be
+    - name: Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 23
+        width: 27
+        height: 38
+      spriteId: adb43360791055c41a4c8150512bda0e
+    - name: Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 23
+        width: 27
+        height: 38
+      spriteId: 269a733ab6c007140be9bb213948192f
+    - name: Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 23
+        width: 27
+        height: 37
+      spriteId: 8903c39f172c32747b2ac97090ab254e
+    - name: Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 23
+        width: 27
+        height: 38
+      spriteId: ad200b12f524e774d8049e8a6f9a7e69
+    - name: Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 23
+        width: 27
+        height: 38
+      spriteId: 185858a7f4f2b4440859d5695c43a56c
+    - name: Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 23
+        width: 27
+        height: 37
+      spriteId: 6843df775dc92634097c38fe579b321b
+    - name: Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 23
+        width: 27
+        height: 37
+      spriteId: e753d3f38d7193240b97a6d3a20c3c63
+    - name: Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 23
+        width: 27
+        height: 37
+      spriteId: e9c4f8a9cb8c027448c05cea45470c14
+    - name: Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 24
+        y: 24
+        width: 28
+        height: 44
+      spriteId: 4b69acef98c0dd74f95d4a157de52f4e
+    - name: Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 24
+        width: 27
+        height: 44
+      spriteId: 018dcc222762ca94ca62398e70f79837
+    - name: Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 29
+        y: 40
+        width: 20
+        height: 28
+      spriteId: 57c75e169b83c664f8c5994a0251a4d3
+    - name: Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 46
+        y: 40
+        width: 3
+        height: 3
+      spriteId: bcdd86a3b9df31a4eb81fc15ce2a8904
+    - name: Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 16
+        width: 23
+        height: 32
+      spriteId: 4222dc73b9cc025488fdb3496b1cd2e6
+    - name: Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 16
+        width: 23
+        height: 32
+      spriteId: 71cca76fe87426947ba0982c78f986f6
+    - name: Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 16
+        width: 23
+        height: 32
+      spriteId: ad12d1130acac354da6ae65ad7619e42
+    - name: Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 16
+        width: 22
+        height: 32
+      spriteId: dc9889a8af814414381e1192875a45d3
+    - name: Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 16
+        width: 22
+        height: 32
+      spriteId: 78dc9631ebf08804f960577627546d80
+    - name: Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 16
+        width: 22
+        height: 32
+      spriteId: 28eaafe3e9848f7438c1dccc6b7af500
+    - name: Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 16
+        width: 22
+        height: 32
+      spriteId: 4079e8759dcd8e7429cd7b4d8224f527
+    - name: Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 16
+        width: 22
+        height: 32
+      spriteId: 283c0b7945fdb3a408bccb45eed49443
+    - name: Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 16
+        width: 22
+        height: 32
+      spriteId: 1efafc513d6cf6b4ca7a9ab8e4feec10
+    - name: Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 16
+        width: 22
+        height: 32
+      spriteId: b7c91f5d960db034890d2c51a66121fd
+    - name: Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 16
+        width: 22
+        height: 32
+      spriteId: a013aaf63c196d14bb3997264a8146fb
+    - name: Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 16
+        width: 22
+        height: 32
+      spriteId: 3757c38bfb11c2d4f8d70eed5b67b1b4
+    - name: Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 16
+        width: 22
+        height: 32
+      spriteId: 16e8be65b27d72441865da8ef7626403
+    - name: Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 16
+        width: 22
+        height: 32
+      spriteId: e7f91c460ccbb5146bd2744b80be9264
+    - name: Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 16
+        width: 22
+        height: 32
+      spriteId: eb6e6df482ab7bb48b81943d5c375054
+    - name: Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 16
+        width: 22
+        height: 32
+      spriteId: 6e26de92cc9a59d4195747fc800fe591
+    - name: Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 16
+        width: 22
+        height: 32
+      spriteId: 3c53a06bf7a9940468c7e2ee3d639976
+    - name: Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 16
+        width: 22
+        height: 32
+      spriteId: 2d4e96559d527e14ca115a7bd71ffb9f
+    - name: Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 16
+        width: 23
+        height: 32
+      spriteId: 8247c330053c1804aacd03e0481c24eb
+    - name: Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 16
+        width: 23
+        height: 32
+      spriteId: bca55b8ef8a915543a96f63c6377b945
+    - name: Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 24
+        y: 24
+        width: 30
+        height: 36
+      spriteId: 24b71504bd2ddec438f9a750fc28ec25
+    - name: Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 24
+        y: 24
+        width: 30
+        height: 36
+      spriteId: 5c9129c3a00408e439a2888a879c2d39
+    - name: Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 24
+        y: 24
+        width: 30
+        height: 36
+      spriteId: 044a961b55b50064da9a64fa8e70df8d
+    - name: Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 24
+        y: 24
+        width: 30
+        height: 36
+      spriteId: 35ea8e46ecee909499db6aed430255a4
+    - name: Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 24
+        y: 24
+        width: 30
+        height: 35
+      spriteId: 5b989fd9f509cfc4b89109bab97f4fd1
+    - name: Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 24
+        y: 24
+        width: 30
+        height: 36
+      spriteId: b5f0905c318a8ff438c574d7431da3cd
+    - name: Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 16
+        width: 23
+        height: 34
+      spriteId: fd6c5eb3252b7d444bcad5ac65c746d2
+    - name: Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 16
+        width: 23
+        height: 33
+      spriteId: 6c104481630abad4ea767b3526a9a27c
+    - name: Frame_74
+      frameIndex: 74
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 16
+        width: 23
+        height: 33
+      spriteId: e6809abcc29795c42a2b04d5e7e3e8d3
+    - name: Frame_75
+      frameIndex: 75
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 16
+        width: 23
+        height: 33
+      spriteId: 59f2abcd446607c41aa8eb202708cac2
+    - name: Frame_76
+      frameIndex: 76
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 16
+        width: 23
+        height: 33
+      spriteId: 525f1dbc31fd7ba4882f8532e3cf5233
+    - name: Frame_77
+      frameIndex: 77
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 16
+        width: 23
+        height: 34
+      spriteId: 8be54ac077e8fd54f865d25644c83658
+    - name: Frame_78
+      frameIndex: 78
+      additiveSortOrder: 0
+      cellRect:
+        x: 29
+        y: 16
+        width: 20
+        height: 33
+      spriteId: b70a4706a051f6846ad7ea85444ad6bd
+    - name: Frame_79
+      frameIndex: 79
+      additiveSortOrder: 0
+      cellRect:
+        x: 27
+        y: 16
+        width: 22
+        height: 34
+      spriteId: e36cc536d807bd54888be2825fb035e1
+    - name: Frame_80
+      frameIndex: 80
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 16
+        width: 21
+        height: 32
+      spriteId: b1b593e3ba2c9b14f99cf98fa3fa8c61
+    - name: Frame_81
+      frameIndex: 81
+      additiveSortOrder: 0
+      cellRect:
+        x: 30
+        y: 16
+        width: 20
+        height: 33
+      spriteId: 0f1409e5aa3ac3f42a210321906f18ce
+    - name: Frame_82
+      frameIndex: 82
+      additiveSortOrder: 0
+      cellRect:
+        x: 30
+        y: 16
+        width: 20
+        height: 34
+      spriteId: 78550f5eba9d5d0489208fc5cc0e5308
+    - name: Frame_83
+      frameIndex: 83
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 16
+        width: 21
+        height: 34
+      spriteId: 8ffd6ffa121d83a4cab11ba01c2c7083
+    - name: Frame_84
+      frameIndex: 84
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 16
+        width: 25
+        height: 32
+      spriteId: cb709e94de0a58c458c60d98c9b01c06
+    - name: Frame_85
+      frameIndex: 85
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 16
+        width: 22
+        height: 33
+      spriteId: ff89f5ff974b2404ca87a66e660d9c30
+    - name: Frame_86
+      frameIndex: 86
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 18
+        width: 22
+        height: 31
+      spriteId: c6aa5af3a6d811641b55931bf5582d69
+    - name: Frame_87
+      frameIndex: 87
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 19
+        width: 23
+        height: 31
+      spriteId: acb06ac3ab3d6ee4e86fdcf064b82595
+    - name: Frame_88
+      frameIndex: 88
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 18
+        width: 20
+        height: 32
+      spriteId: 47186e66f0aeda043b4e0cdc38456a9d
+    - name: Frame_89
+      frameIndex: 89
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 17
+        width: 23
+        height: 30
+      spriteId: 57987fcd4df798a4a94793cd0132e04b
+    - name: Frame_90
+      frameIndex: 90
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 16
+        width: 28
+        height: 29
+      spriteId: c1fab890b8bca024dbe290c6ea932531
+    - name: Frame_91
+      frameIndex: 91
+      additiveSortOrder: 0
+      cellRect:
+        x: 29
+        y: 16
+        width: 23
+        height: 31
+      spriteId: 287a0f60ca1a35847969ef0331c33ed3
+    - name: Frame_92
+      frameIndex: 92
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 16
+        width: 23
+        height: 33
+      spriteId: be2a4c3ca3c392e48aacde475a91727b
+    - name: Frame_93
+      frameIndex: 93
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 26
+        width: 36
+        height: 32
+      spriteId: ea9b118f3e97f3044a3a037878184ea5
+    - name: Frame_94
+      frameIndex: 94
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 26
+        width: 36
+        height: 32
+      spriteId: 3d48431445ecd62458fb9740218ab63c
+    - name: Frame_95
+      frameIndex: 95
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 26
+        width: 36
+        height: 31
+      spriteId: f6d98609681fd4a4fac868fa6205c420
+    - name: Frame_96
+      frameIndex: 96
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 26
+        width: 36
+        height: 32
+      spriteId: b8e58ee38a410b345b522ac58a7f5693
+    - name: Frame_97
+      frameIndex: 97
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 23
+        width: 20
+        height: 31
+      spriteId: 455d1da4b00aad54bb1e37b0a6b10bc9
+    - name: Frame_98
+      frameIndex: 98
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 23
+        width: 20
+        height: 31
+      spriteId: b3618bdd1d606e04095d30799707d1b5
+    - name: Frame_99
+      frameIndex: 99
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 22
+        width: 20
+        height: 32
+      spriteId: a5adfd5effe35da4b8708af9896383f2
+    - name: Frame_100
+      frameIndex: 100
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 22
+        width: 20
+        height: 32
+      spriteId: f5d7e37f9fbcd7842832c0e29af0b1a2
+    - name: Frame_101
+      frameIndex: 101
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 23
+        width: 20
+        height: 31
+      spriteId: c4c72c59d342efb4281da2a4bc303c98
+    - name: Frame_102
+      frameIndex: 102
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 23
+        width: 20
+        height: 31
+      spriteId: cadd553168c4b844bb9c7c5427a644eb
+    - name: Frame_103
+      frameIndex: 103
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 22
+        width: 20
+        height: 32
+      spriteId: 6e90be7dcbc4d1e459271cbd30db98b3
+    - name: Frame_104
+      frameIndex: 104
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 22
+        width: 20
+        height: 32
+      spriteId: 91e542a3f07208e4a9b4207af32e5f87
+    - name: Frame_105
+      frameIndex: 105
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 23
+        width: 20
+        height: 31
+      spriteId: 27a40921f09718745b0608df1932b901
+    - name: Frame_106
+      frameIndex: 106
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 23
+        width: 20
+        height: 31
+      spriteId: d039c5a912206ca468445fbbdf365a19
+    - name: Frame_107
+      frameIndex: 107
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 22
+        width: 20
+        height: 32
+      spriteId: 822b22d0e00054149b0c6fd564429976
+    - name: Frame_108
+      frameIndex: 108
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 22
+        width: 20
+        height: 32
+      spriteId: d67297e18ffc63e4e81c893441e3220a
+    - name: Frame_109
+      frameIndex: 109
+      additiveSortOrder: 0
+      cellRect:
+        x: 24
+        y: 16
+        width: 26
+        height: 32
+      spriteId: 9671d31bead4367479bb528f7a815255
+    - name: Frame_110
+      frameIndex: 110
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 16
+        width: 36
+        height: 30
+      spriteId: 7da63cecfa4193248b40c195fd6a6ccf
+    - name: Frame_111
+      frameIndex: 111
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 16
+        width: 39
+        height: 30
+      spriteId: bac54e6415510ff4a8760bf5c5597d52
+    - name: Frame_112
+      frameIndex: 112
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 16
+        width: 35
+        height: 39
+      spriteId: 695cb4b0c8cce494e820fcc08f627462
+    - name: Frame_113
+      frameIndex: 113
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 16
+        width: 30
+        height: 39
+      spriteId: 73a488eca9c01704f91b64f59cee92b1
+    - name: Frame_114
+      frameIndex: 114
+      additiveSortOrder: 0
+      cellRect:
+        x: 24
+        y: 16
+        width: 26
+        height: 32
+      spriteId: 513574446e4439642a9393bf3ab46827
+    - name: Frame_115
+      frameIndex: 115
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 16
+        width: 36
+        height: 30
+      spriteId: 2355b595bdae5c64da09c25d115a32b9
+    - name: Frame_116
+      frameIndex: 116
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 16
+        width: 39
+        height: 30
+      spriteId: 25f7425466e04a14c92e306e459a78ea
+    - name: Frame_117
+      frameIndex: 117
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 16
+        width: 35
+        height: 39
+      spriteId: 16cc25d035a6ffb4b96955fdf17144b0
+    - name: Frame_118
+      frameIndex: 118
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 16
+        width: 30
+        height: 39
+      spriteId: 72befa0b543ac9e499d7fd2c9e23a437
+    - name: Frame_119
+      frameIndex: 119
+      additiveSortOrder: 0
+      cellRect:
+        x: 24
+        y: 16
+        width: 26
+        height: 32
+      spriteId: a20a58d1b67660841ad943abfead07cb
+    - name: Frame_120
+      frameIndex: 120
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 16
+        width: 36
+        height: 30
+      spriteId: 6ac537c3c8f59c54a96a3e44af147dd1
+    - name: Frame_121
+      frameIndex: 121
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 16
+        width: 39
+        height: 30
+      spriteId: f74faaff13bc4f949ac2e0babcfa6f64
+    - name: Frame_122
+      frameIndex: 122
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 16
+        width: 35
+        height: 39
+      spriteId: 7adb0e7c56e701243919a834abede8ba
+    - name: Frame_123
+      frameIndex: 123
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 16
+        width: 30
+        height: 39
+      spriteId: 1f981e46d82891e40aa44e1c274b1bd6
+    - name: Frame_124
+      frameIndex: 124
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 24
+        width: 27
+        height: 44
+      spriteId: 98eb204433df9fa469c3d4c790c20ae8
+    - name: Frame_125
+      frameIndex: 125
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 24
+        width: 27
+        height: 44
+      spriteId: 9d53cc0bc09b4a342a406c8da1f48ba1
+    - name: Frame_126
+      frameIndex: 126
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 24
+        width: 27
+        height: 44
+      spriteId: af8c9eeebbdb7b64d867f0548ec668a7
+    - name: Frame_127
+      frameIndex: 127
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 27
+        width: 33
+        height: 30
+      spriteId: d6c2d276c974dac45bfa767dda1ce5ed
+    - name: Frame_128
+      frameIndex: 128
+      additiveSortOrder: 0
+      cellRect:
+        x: 24
+        y: 27
+        width: 37
+        height: 29
+      spriteId: feb046a166cd10942bde50bc6cd4070d
+    - name: Frame_129
+      frameIndex: 129
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 28
+        width: 34
+        height: 31
+      spriteId: 200332ffa1d496f42b23009d671acd59
+    - name: Frame_130
+      frameIndex: 130
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 27
+        width: 33
+        height: 34
+      spriteId: 66cf366dceeaeef42a58b847f728f85d
+    - name: Frame_131
+      frameIndex: 131
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 27
+        width: 34
+        height: 30
+      spriteId: 249828abfab95f84cb8a3974f215a765
+    - name: Frame_132
+      frameIndex: 132
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 28
+        width: 35
+        height: 31
+      spriteId: 4233f1e33a74d1643b10d40072e2db2f
+    - name: Frame_133
+      frameIndex: 133
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 28
+        width: 34
+        height: 33
+      spriteId: 3ae5c31a3e4cb8f42961805b3cbafcbb
+    - name: Frame_134
+      frameIndex: 134
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 27
+        width: 34
+        height: 30
+      spriteId: 747b58d5357d10443b94448dee92cb73
+    - name: Frame_135
+      frameIndex: 135
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 28
+        width: 35
+        height: 31
+      spriteId: cca9822dab755a7469fa30cc40787abf
+    - name: Frame_136
+      frameIndex: 136
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 28
+        width: 34
+        height: 33
+      spriteId: 2dc548f37bc6c7e4fb1b6dab70bddf18
+    - name: Frame_137
+      frameIndex: 137
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 27
+        width: 33
+        height: 30
+      spriteId: 4679fb9d0a606e548b173a73db9ec3ae
+    - name: Frame_138
+      frameIndex: 138
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 28
+        width: 35
+        height: 31
+      spriteId: 3f93840d721a41844ab3952d136def56
+    - name: Frame_139
+      frameIndex: 139
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 28
+        width: 33
+        height: 33
+      spriteId: 71f7178df8049d542a02af4c04d88ef4
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 80, y: 80}
+  previousTextureSize: {x: 512, y: 512}

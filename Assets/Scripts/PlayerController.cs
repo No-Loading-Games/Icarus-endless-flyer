@@ -52,6 +52,7 @@ public class PlayerController : MonoBehaviour
 
     public HeadWear _headWear;
     public Animator _headWearAnimator;
+    public Animator _frontWingAnimator;
 
     //[SerializeField]
     //private AudioSource _fallingSFX;
@@ -530,24 +531,28 @@ public class PlayerController : MonoBehaviour
     public void PlayAnimation(string animationName, float transDuration)
     {
         _animator.CrossFade(animationName, transDuration);
+        _frontWingAnimator.CrossFade(animationName, transDuration);
         if (HeadWearManager.Instance.HeadWearIsEquipped)
             _headWearAnimator.CrossFade(animationName, transDuration);
     }
     public void PlayAnimation(string animationName, float transDuration, int layer)
     {
         _animator.CrossFade(animationName, transDuration, layer);
+        _frontWingAnimator.CrossFade(animationName, transDuration, layer);
         if (HeadWearManager.Instance.HeadWearIsEquipped)
             _headWearAnimator.CrossFade(animationName, transDuration, layer);
     }
     public void SetAnimatorBool(string boolName, bool value)
     {
         _animator.SetBool(boolName, value);
+        _frontWingAnimator.SetBool(boolName, value);
         if (HeadWearManager.Instance.HeadWearIsEquipped)
             _headWearAnimator.SetBool(boolName, value);
     }
     public void SetAnimatorLayerWeight(int layer, int weight)
     {
         _animator.SetLayerWeight(layer, weight);
+        _frontWingAnimator.SetLayerWeight(layer, weight);
         if (HeadWearManager.Instance.HeadWearIsEquipped)
             _headWearAnimator.SetLayerWeight(layer, weight);
     }

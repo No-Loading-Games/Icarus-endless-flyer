@@ -2159,15 +2159,15 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1428853655}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c88f5cead0c0b2a4eb05b5900433f8d1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   m_ComponentVersion: 1
   m_AssetsPPU: 100
-  m_RefResolutionX: 234
-  m_RefResolutionY: 494
+  m_RefResolutionX: 468
+  m_RefResolutionY: 988
   m_CropFrame: 4
   m_GridSnapping: 2
   m_FilterMode: 0
@@ -2276,10 +2276,10 @@ Camera:
   m_LensShift: {x: 0, y: 0}
   m_NormalizedViewPortRect:
     serializedVersion: 2
-    x: 0.53981483
+    x: 0.12083334
     y: 0
-    width: 0.1614035
-    height: 0.1614035
+    width: 0.75789475
+    height: 1
   near clip plane: 0.3
   far clip plane: 1000
   field of view: 60
