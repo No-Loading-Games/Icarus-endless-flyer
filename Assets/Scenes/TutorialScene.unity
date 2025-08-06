@@ -7406,7 +7406,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 60b72e7944a922d4d801c29604fe2ca2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  debugTutorial: 1
+  debugTutorial: 0
   _icarusPrefab: {fileID: 6131368078230466463, guid: e097a5d0e8b06a8429099feb7d0f478a, type: 3}
   _cursor: {fileID: 60985406}
   _obstacleSpawner: {fileID: 458860903}
@@ -7419,6 +7419,7 @@ MonoBehaviour:
   _fireUI: {fileID: 1647829826}
   _inGameUICanvas: {fileID: 54876226}
   _inGameUIGroup: {fileID: 452694495}
+  _tutorialUI: {fileID: 1202791483}
   _rightSquare: {fileID: 288971144}
   _leftSquare: {fileID: 1995709806}
   _popUpUI: {fileID: 2438317037503874158, guid: d3e436d4e774eef4db0a6692f864e7c8, type: 3}

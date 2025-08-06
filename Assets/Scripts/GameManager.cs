@@ -138,6 +138,7 @@ public class GameManager : MonoBehaviour
     private bool _tutorial = false;
     private GoogleRewardedAd _googleRewardedAd;
 
+    public Transform playerTransformBeforeCollision;
     /*[SerializeField]
     private bool _headWearIsEnabled = false;*/
 
@@ -234,6 +235,7 @@ public class GameManager : MonoBehaviour
         _heartSpawner = FindObjectOfType<HeartSpawner>();
         _googleRewardedAd = FindObjectOfType<GoogleRewardedAd>();
         _postProcessParent.SetActive(true);
+
 
 
     }
@@ -1124,6 +1126,9 @@ public class GameManager : MonoBehaviour
         ChangeMoveSpeed(0.7f);
         //Add slowing down of CURRENT Global speed by a few for a few seconds
 
+        _playerController.LockInput(true);
+        StartCoroutine(HitTimer());
+
         HandleFeatherCheck();
         if (_stamina <= 0)
         {
@@ -1133,10 +1138,34 @@ public class GameManager : MonoBehaviour
         }
         else
         {
+
             StaminaUpdateEvent?.Invoke(_stamina);
             StartPlayerCollisionDelay();
         }
 
+    }
+
+    private IEnumerator HitTimer()
+    {
+
+        yield return new WaitForSeconds(1);
+
+        _playerController._isHit = false;
+        _playerController.LockInput(false);
+        
+        StopCoroutine(HitTimer());
+    }
+
+    public void TutorialObstacleHit()
+    {
+        ChangeMoveSpeed(0.7f);
+        StartPlayerCollisionDelay();
+
+        transform.DOMoveX(transform.position.x, 2.5f).OnComplete(() =>
+        {
+            ChangeMoveSpeed(_setDownwardSpeed);
+        }
+            );
     }
 
     public void ResetUpdate()

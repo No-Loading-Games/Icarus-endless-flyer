@@ -158,7 +158,11 @@ public class HermesEvent : MonoBehaviour
         _gameManager.isSpeeding = true;
         _gameManager.GlobalDownwardSpeed = 10f* _gameManager.CurrentSpeed;
 
-        Debug.Log("END ZONE Global Downward Speed = " + _gameManager.GlobalDownwardSpeed);
+        Debug.Log("NOTHING UP HERE");
+        _playerController._isHit = false;
+        _playerController.GetComponent<Rigidbody2D>().simulated = true;
+
+        Debug.Log("NOTHING END ZONE Global Downward Speed = " + _gameManager.GlobalDownwardSpeed);
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -170,6 +174,7 @@ public class HermesEvent : MonoBehaviour
             return;
         }
 
+        _playerController._isHit = true;
 
         _currentObstacle = obstacle;
         _currentObstacle.toBeDestroyed = true;
@@ -200,5 +205,7 @@ public class HermesEvent : MonoBehaviour
 
         _currentObstacle.hermesDust.transform.localPosition = _currentObstacle.hermesDust.transform.InverseTransformPoint(_dustFX.transform.TransformPoint(_dustFX.transform.localPosition));
         StartCoroutine(JumpAnimDelay());
+
+        Debug.Log("NOTHING WRONG HERE");
     }
 }

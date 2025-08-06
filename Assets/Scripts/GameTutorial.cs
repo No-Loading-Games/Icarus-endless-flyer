@@ -36,6 +36,9 @@ public class GameTutorial : MonoBehaviour
     private GameObject _inGameUIGroup;
 
     [SerializeField]
+    private GameObject _tutorialUI;
+
+    [SerializeField]
     private GameObject _rightSquare;
     [SerializeField]
     private GameObject _leftSquare;
@@ -58,11 +61,15 @@ public class GameTutorial : MonoBehaviour
 
     private AsyncOperation loadingOperation;
 
+
     private void Awake()
     {
         _gameManager = FindObjectOfType<GameManager>();
         _cursorAnimator = _cursor.GetComponent<Animator>();
         _dangerAnimator = _dangerText.GetComponent<Animator>();
+
+        if (PlayerPrefs.GetInt("replay-tutorial") == 1)
+            _tutorialUI.SetActive(false);
 
     }
 
@@ -294,8 +301,6 @@ public class GameTutorial : MonoBehaviour
         StartTutorial(_spawnPoint, _currentStep);
     }
 
-    
-
     public void RestartTutorial(bool restarting)
     {
         _gameManager.GlobalDownwardSpeed = 0;
@@ -384,6 +389,7 @@ public class GameTutorial : MonoBehaviour
             loadingOperation = SceneManager.LoadSceneAsync("GameScene");
             loadingOperation.allowSceneActivation = true;
 
+            PlayerPrefs.SetInt("replay-tutorial", 0);
             _gameManager.SetTutorial(false);
             SceneManager.UnloadSceneAsync("TutorialScene");
         }

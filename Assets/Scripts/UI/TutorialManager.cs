@@ -31,9 +31,13 @@ public class TutorialManager : MonoBehaviour
 
     AsyncOperation loadingOperation;
 
+    GameManager _gameManager;
+
     private void OnEnable()
     {
         //Load Tutorial in case user plays it
+
+        _gameManager = FindObjectOfType<GameManager>();
         UpdatePage();
     }
 
@@ -79,12 +83,16 @@ public class TutorialManager : MonoBehaviour
 
     public void UnloadTutorialScene()
     {
+        _gameManager.SetTutorial(false);
+        PlayerPrefs.SetInt("replay-tutorial", 0);
         SceneManager.UnloadSceneAsync("TutorialScene");
     }
 
     public void LoadTutorialScene()
     {
         loadingOperation = SceneManager.LoadSceneAsync("TutorialScene");
+        _gameManager.SetTutorial(true);
+        PlayerPrefs.SetInt("replay-tutorial", 1);
         loadingOperation.allowSceneActivation = false;
     }
 }

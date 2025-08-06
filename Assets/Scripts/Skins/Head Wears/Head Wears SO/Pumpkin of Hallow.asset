@@ -21,7 +21,7 @@ MonoBehaviour:
 '
   isPurchasable: 1
   isUnlocked: 0
-  price: 200
+  price: 4000
   headWearNamePP: pumpkin-hallow-obtained
   isUnlockedPP: 
   isEquipped: 0

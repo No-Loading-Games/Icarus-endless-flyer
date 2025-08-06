@@ -13,7 +13,7 @@ public class HermesEndZone : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        Debug.Log("ENDZONE TriggerEnter Hermes");
+        Debug.Log("nothing ENDZONE TriggerEnter Hermes");
         HermesEvent hermesEvent = collision.gameObject.GetComponent<HermesEvent>();
         GameManager gameManager = FindObjectOfType<GameManager>();
 
@@ -25,7 +25,7 @@ public class HermesEndZone : MonoBehaviour
         if (!hermesEvent.IsJumping)
             return;
 
-        Debug.Log("ENDZONE HIT END ZONE");
+        Debug.Log("NOTHING ENDZONE HIT END ZONE");
 
         gameManager.isSpeeding = false;
         hermesEvent.EndZoneHit();

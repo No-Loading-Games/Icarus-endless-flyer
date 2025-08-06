@@ -7,6 +7,7 @@ using DG.Tweening;
 
 public class NotificationBarUI : MonoBehaviour
 {
+    public bool showNotif = false;
     public Image itemImage;
     public TextMeshProUGUI description;
 
@@ -25,7 +26,7 @@ public class NotificationBarUI : MonoBehaviour
         itemImage.sprite = sprite;
         description.text = desc;
 
-        _rectTransform.DOMoveY(-4.781f, 1).OnComplete(() =>
+        _rectTransform.DOMoveY(-4.281f, 1).OnComplete(() =>
         {
             _rectTransform.DOMoveY(_rectTransform.position.y, 2).OnComplete(() =>
             {
@@ -35,4 +36,10 @@ public class NotificationBarUI : MonoBehaviour
         });
     }
 
+
+    private void Update()
+    {
+        if (showNotif)
+            ShowNotification(null, "Just Showing");
+    }
 }

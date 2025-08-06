@@ -29,6 +29,12 @@ public class PlayerCollision : MonoBehaviour
         if (obstacle == null)
             return;
 
+        //_gameManager.playerTransformBeforeCollision = transform;
+
+        PlayerController pControl = GetComponentInParent<PlayerController>();
+
+        pControl._isHit = true;
+
         //GetComponentInChildren<ParticleSystem>().GetComponent<Transform>().localScale = GetComponentInParent<Transform>().localScale;
         GetComponentInChildren<ParticleSystem>().Play();
         AudioManager.Instance.PlaySFX("Hit", 0f);
@@ -38,8 +44,11 @@ public class PlayerCollision : MonoBehaviour
         //_gameManager.PrepareGameOver();
 
         Vibration.VibratePeek();
-        _gameManager.TickStaminaDamage(0.45f);
-    }
 
+        if (!_gameManager.CheckTutorial())
+            _gameManager.TickStaminaDamage(0.45f);
+        else
+            _gameManager.TutorialObstacleHit();
+    }
 
 }

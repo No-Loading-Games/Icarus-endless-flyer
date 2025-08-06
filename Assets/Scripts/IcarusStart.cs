@@ -116,10 +116,13 @@ public class IcarusStart : MonoBehaviour
 
             PlayerPrefs.SetInt("done-tutorial", 0);
 
+            if (PlayerPrefs.GetInt("replay-tutorial") == 1)
+                return;
+
             _startObjects.transform.position = new Vector2(_startObjects.transform.position.x, _startObjects.transform.position.y - 10f);
 
-            _homeUI.SetActive(false);
             _tutorialUI.SetActive(true);
+            _homeUI.SetActive(false);
             return;
 
         }
@@ -333,7 +336,8 @@ public class IcarusStart : MonoBehaviour
 
         if(_gameTutorial.debugTutorial)
         {
-            _gameManager.Tutorial = true;
+            //_gameManager.Tutorial = true;
+            _gameManager.SetTutorial(true);
             _gameTutorial.StartTutorial(_gameManager.IcarusSpawnPoint, 1);
             _gameTutorial.debugTutorial = false;
             return;

@@ -82,12 +82,6 @@ public class DiveManager : MonoBehaviour
 
         if (inputTouch.phase == TouchPhase.Ended)
         {
-            //Check first the distance travelled, if the MINIMUM distance is not yet travelled, LOCK INPUT then continue moving the player UNTIL MINIMUM distance reached
-            /*if (_controller.DoubleTapped)
-            {
-                _controller._isSnapping = true;
-                _controller.CheckNearestDiveDistance();
-            }*/
 
             _controller.DoubleTapped = false;
             _onHold = false;

@@ -77,7 +77,7 @@ public class PlayerController : MonoBehaviour
     public HashSet<string> disableReasons = new HashSet<string>();
 
     private Vector2 _targetPosition;
-    public bool _isSnapping = false;
+    public bool _isHit = false;
 
     public PlayerCollision PlayerCollision { get { return _playerCollision.GetComponent<PlayerCollision>(); } }
     public ParticleSystem AshFalling { get { return _ashFalling; } }
@@ -300,12 +300,10 @@ public class PlayerController : MonoBehaviour
 
         Debug.Log("Lock input is " + _lockInput + " and tapped is " + _tapped);
 
-        /*Debug.Log("TAP RECOGNIZED!");
-        Debug.Log("TOUCH POSITION " + touchPosition);
-        Debug.Log("SCREEN WIDTH " + Screen.width);*/
+        /*float camHeight = Camera.main.orthographicSize;
+        float camWidth = camHeight * Camera.main.aspect;
 
-        //if double tapped, call DoDash Function instead
-
+        Debug.Log("CAM WIDTH = " + camWidth);*/
         if (touchPosition < Screen.width / 2 || Input.GetKey(KeyCode.A))
         {
             MoveDown(Vector2.left);
@@ -319,12 +317,12 @@ public class PlayerController : MonoBehaviour
             MoveDown(Vector2.right);
         }
 
-        //If controls depended on Player position instead of Screen touch position
-        /*if (touchPosition < transform.position.x / 2 || Input.GetKey(KeyCode.A))
+        //If controls depended on Camera instead of Screen touch position
+        /*if (touchPosition < camWidth/2|| Input.GetKey(KeyCode.A))
         {
             MoveDown(Vector2.left);
         }
-        else if (touchPosition > transform.position.x / 2 || Input.GetKey(KeyCode.D))
+        else if (touchPosition > camWidth / 2 || Input.GetKey(KeyCode.D))
         {
             MoveDown(Vector2.right);
         }
@@ -345,10 +343,20 @@ public class PlayerController : MonoBehaviour
 
     private void MoveDown(Vector2 direction)
     {
+        if (_isHit)
+        {
+            _rb2D.velocity = Vector2.zero;
+            _rb2D.simulated = false;
+            Debug.Log("ICARUS IS HIT");
+            return;
+        }
+        _rb2D.simulated = true;
+
         float doubleSpeed = _doubleTapped ? _doubleTapSpeed * 1.85f : 1f;
 
+        #region ScreenDependentConstraints
         //Check if the player reaches the edges of the screen
-        if (direction.x > 0 && (transform.position.x >= Camera.main.ScreenToWorldPoint(new Vector2(Screen.width, Screen.height)).x - 0.25f))
+        /*if (direction.x > 0 && (transform.position.x >= Camera.main.ScreenToWorldPoint(new Vector2(Screen.width, Screen.height)).x - 0.25f))
         {
             Debug.Log("REACHED RIGHT EDGE");
             return;
@@ -364,8 +372,35 @@ public class PlayerController : MonoBehaviour
         {
             Debug.Log("REACHED LOW EDGE");
             return;
+        }*/
+        #endregion
+
+        //Check if the player is on the edge of the camera
+        Camera cam = Camera.main;
+        float camHeight = cam.orthographicSize * 2f;
+        float camWidth = camHeight * cam.aspect;
+
+        float leftEdge = cam.transform.position.x - camWidth / 2f;
+        float rightEdge = cam.transform.position.x + camWidth / 2f;
+        float bottomEdge = cam.transform.position.y - camHeight / 2f;
+
+        if (direction.x > 0 && (transform.position.x >= rightEdge - 0.25f))
+        {
+            Debug.Log("REACHED RIGHT EDGE");
+            return;
         }
 
+        if (direction.x < 0 && (transform.position.x <= leftEdge + 0.25f))
+        {
+            Debug.Log("REACHED LEFT EDGE");
+            return;
+        }
+
+        if ((transform.position.y <= bottomEdge + 0.25f)) //previous value = +1f
+        {
+            Debug.Log("REACHED LOW EDGE");
+            return;
+        }
 
         if (_doubleTapped && _diveOrigin == 0)
         {

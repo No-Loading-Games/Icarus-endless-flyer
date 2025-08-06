@@ -771,7 +771,7 @@ MonoBehaviour:
   _itemName: {fileID: 3422468359131305934}
   _textColor: {r: 0, g: 0, b: 0, a: 0}
   _purchaseButton: {fileID: 0}
-  _basePrice: 500
+  _basePrice: 700
   _upgradeLevelID: hermes-upgrade-level
   _popUpUI: {fileID: 2438317037503874158, guid: d3e436d4e774eef4db0a6692f864e7c8, type: 3}
   _gameUI: {fileID: 0}

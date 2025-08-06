@@ -51,7 +51,9 @@ public class RefundChecker : MonoBehaviour
     {
         GiveUpgradeRefund();
         _refundText.text = $"{totalRefund} coins refunded";
-        _popUpNotif.SetActive(status);
+
+        if(totalRefund > 0)
+            _popUpNotif.SetActive(status);
     }
 
     public void GiveUpgradeRefund()
