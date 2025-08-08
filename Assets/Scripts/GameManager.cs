@@ -391,7 +391,7 @@ public class GameManager : MonoBehaviour
         _gameUI.SetActive(false);
         _pauseButtonUI.gameObject.SetActive(true);
         Debug.Log("SCORE: " + _scoreDistance);
-        FinalScoreEvent?.Invoke(_scoreDistance);
+        //FinalScoreEvent?.Invoke(_scoreDistance);
 
         //Update Total Gold of the player
         UpdateTotalGoldEvent += GoldHandler.Instance.HandleTotalGoldUpdate;
@@ -399,8 +399,18 @@ public class GameManager : MonoBehaviour
         UpdateTotalGoldEvent -= GoldHandler.Instance.HandleTotalGoldUpdate;
 
         _cloudsTransition.SetActive(false);
-
+/*
         if (_isNewBestScore)
+        {
+            AudioManager.Instance.PlaySFX("Best Score", 0);
+            _newBestScorerNameInputFieldUI.SetActive(true);
+        }
+        else
+        {
+            ShowGameOverUI();
+        }
+*/
+        if (LeaderboardManager.Instance.QualifiesForLeaderboard((int)_scoreDistance))
         {
             AudioManager.Instance.PlaySFX("Best Score", 0);
             _newBestScorerNameInputFieldUI.SetActive(true);

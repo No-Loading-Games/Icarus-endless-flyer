@@ -9,7 +9,7 @@ public class BestScoreManager : MonoBehaviour
     {
         _gameManager = FindObjectOfType<GameManager>();
 
-        _gameManager.FinalScoreEvent += CompareBestScore;
+        //_gameManager.FinalScoreEvent += CompareBestScore;
 
         if (!PlayerPrefs.HasKey("best-score"))
         {
