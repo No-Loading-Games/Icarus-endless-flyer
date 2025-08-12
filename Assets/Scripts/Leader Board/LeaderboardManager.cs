@@ -129,6 +129,12 @@ public class LeaderboardManager : MonoBehaviour
         return score > lowestScore;
     }
 
+    public void AddEntryAndRefresh(string name, int score)
+    {
+        AddEntry(name, score);
+        //LeaderBoardUI.Instance.RefreshLeaderBoard();
+    }
+
 
     [System.Serializable]
     private class LeaderboardListWrapper

@@ -49,6 +49,8 @@ public class GameManager : MonoBehaviour
     [SerializeField]
     private GameObject _gameOverUI;
     [SerializeField]
+    private GameObject _continueUI;
+    [SerializeField]
     private GameObject _newBestScorerNameInputFieldUI;
     [SerializeField]
     private BestScoreUI _gameOverBestScoreUI;
@@ -399,17 +401,29 @@ public class GameManager : MonoBehaviour
         UpdateTotalGoldEvent -= GoldHandler.Instance.HandleTotalGoldUpdate;
 
         _cloudsTransition.SetActive(false);
-/*
-        if (_isNewBestScore)
-        {
-            AudioManager.Instance.PlaySFX("Best Score", 0);
-            _newBestScorerNameInputFieldUI.SetActive(true);
-        }
-        else
-        {
-            ShowGameOverUI();
-        }
-*/
+        /*
+                if (_isNewBestScore)
+                {
+                    AudioManager.Instance.PlaySFX("Best Score", 0);
+                    _newBestScorerNameInputFieldUI.SetActive(true);
+                }
+                else
+                {
+                    ShowGameOverUI();
+                }
+        */
+        ShowContinueUI();
+        
+    }
+
+    public void ShowContinueUI()
+    {
+        _continueUI.SetActive(true);
+
+    }
+
+    public void CheckScoreForLeaderBoard()
+    {
         if (LeaderboardManager.Instance.QualifiesForLeaderboard((int)_scoreDistance))
         {
             AudioManager.Instance.PlaySFX("Best Score", 0);
@@ -423,6 +437,7 @@ public class GameManager : MonoBehaviour
 
     public void ShowGameOverUI()
     {
+        
         //AudioManager.Instance.PlaySFX("Falling Menu", 2f);
         AudioManager.Instance.PlayMusic("Flying");
         _gameOverUI.SetActive(true);
@@ -524,6 +539,7 @@ public class GameManager : MonoBehaviour
         isBurnt = false;
         _gameUI.SetActive(true);
         _gameOverUI.SetActive(false);
+        _continueUI.SetActive(false);
         _obstacleSpawner.SetActive(true);
 
         Time.timeScale = 1;

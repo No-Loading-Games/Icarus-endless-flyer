@@ -134,7 +134,7 @@ public class WreathHandler : MonoBehaviour
             _queuedWreaths = null;
             _queuedWreaths = new List<int>();
             _displayedWreaths = 0;
-            _gameManager.ShowGameOverUI();
+            _gameManager.CheckScoreForLeaderBoard();
         }
         //if all wreathes are shown, show Game Over UI
     }

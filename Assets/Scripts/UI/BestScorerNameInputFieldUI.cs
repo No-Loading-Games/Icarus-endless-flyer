@@ -29,7 +29,7 @@ public class BestScorerNameInputFieldUI : MonoBehaviour
         _gameManager = FindObjectOfType<GameManager>();
 
         //LeaderboardManager.Instance.AddEntry(_inputText, (int)_gameManager.ScoreDistance);
-        LeaderBoardUI.Instance.AddEntryAndRefresh(_inputText, (int)_gameManager.ScoreDistance);
+        LeaderboardManager.Instance.AddEntryAndRefresh(_inputText, (int)_gameManager.ScoreDistance);
 
         Debug.Log("NAME: " + _inputText);
         _parentUI.SetActive(false);

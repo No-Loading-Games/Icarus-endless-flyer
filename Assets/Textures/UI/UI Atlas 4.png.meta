@@ -113,9 +113,9 @@ TextureImporter:
       name: UI Atlas 4_0
       rect:
         serializedVersion: 2
-        x: 20
+        x: 19
         y: 3
-        width: 41
+        width: 42
         height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -235,6 +235,90 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: UI Atlas 4_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 44
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38340f9b5491dd4f9354886eb00fed0
+      internalID: 248548693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Atlas 4_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 99
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14569fc70076c3946a8167bfec1f2292
+      internalID: -1122194355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Atlas 4_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 158
+        width: 86
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488b8bf9aa235f746bcf73dbcf979c69
+      internalID: -1094827124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Atlas 4_9
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 99
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4158d33846da3bc41bd02aa1ae223477
+      internalID: -510849161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -252,6 +336,10 @@ TextureImporter:
       UI Atlas 4_3: -1785217422
       UI Atlas 4_4: 1322587256
       UI Atlas 4_5: 159625851
+      UI Atlas 4_6: 248548693
+      UI Atlas 4_7: -1122194355
+      UI Atlas 4_8: -1094827124
+      UI Atlas 4_9: -510849161
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
