@@ -437,6 +437,7 @@ public class PlayerController : MonoBehaviour
         _rb2D.velocity = Vector2.zero;
         _rb2D.simulated = false;
         //playerSFX.PlayDelayed(0.5f);
+        _isHit = false;
 
 
         GetComponentInChildren<SunCollisions>().gameObject.SetActive(false);

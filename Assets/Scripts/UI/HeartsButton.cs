@@ -9,8 +9,10 @@ public class HeartsButton : MonoBehaviour
 {
     [SerializeField]
     TextMeshProUGUI _heartsRemainingText;
-    //[SerializeField]
-    //TextMeshProUGUI _heartsCostText;
+    [SerializeField]
+    Sprite _defaultSprite;
+    [SerializeField]
+    Sprite _emptySprite;
     [SerializeField]
     GameObject _gameOverGroup;
 
@@ -26,14 +28,12 @@ public class HeartsButton : MonoBehaviour
 
     private void OnEnable()
     {
+        Button button = GetComponent<Button>();
         _gameManager = FindObjectOfType<GameManager>();
         _heartManager = FindObjectOfType<HeartManager>();
         _heartsRemainingText.text = _heartManager.GetHearts().ToString();
-        //_heartsCostText.text = _heartManager.GetHeartsCost().ToString();
 
-        Button button = GetComponent<Button>();
-
-        if (_gameManager.HeartUse >= _gameManager.MaxHeartUse)
+        if (_gameManager.HeartUse >= _gameManager.MaxHeartUse )
         {
             button.interactable = false;
             //this.gameObject.SetActive(false);

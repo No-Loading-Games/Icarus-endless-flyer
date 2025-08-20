@@ -15,6 +15,8 @@ public class BestScorerNameInputFieldUI : MonoBehaviour
     [SerializeField]
     private GameObject _parentUI;
 
+    private GameManager _gameManager;
+
     public void GrabFromInputField(string input)
     {
         //char[] inputChars = input.ToCharArray();
@@ -22,7 +24,13 @@ public class BestScorerNameInputFieldUI : MonoBehaviour
             _inputText = "Unnamed";
         else
             _inputText = input;
-        PlayerPrefs.SetString("best-scorer", _inputText);
+        //PlayerPrefs.SetString("best-scorer", _inputText);
+
+        _gameManager = FindObjectOfType<GameManager>();
+
+        //LeaderboardManager.Instance.AddEntry(_inputText, (int)_gameManager.ScoreDistance);
+        LeaderboardManager.Instance.AddEntryAndRefresh(_inputText, (int)_gameManager.ScoreDistance);
+
         Debug.Log("NAME: " + _inputText);
         _parentUI.SetActive(false);
     }
@@ -31,5 +39,6 @@ public class BestScorerNameInputFieldUI : MonoBehaviour
     {
         _bestScorer.onEndEdit?.Invoke(_bestScorer.text);
     }
+
 
 }
